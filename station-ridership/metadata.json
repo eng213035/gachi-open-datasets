@@ -1,0 +1,15 @@
+{
+  "name": "Japan Station Ridership 2000-2025",
+  "version": "1.0.0",
+  "temporal_coverage": "2000-2025 (varies by operator; most series run 2012-2024/2025)",
+  "geographic_coverage": "Greater Tokyo (ODPT-covered operators only — see README)",
+  "last_updated": "2026-07-05",
+  "next_update_expected": "2027-07 (annual, alongside station-master)",
+  "license": "CC BY 4.0 (data) + MIT (pipeline code) — see LICENSE-DATA.txt and LICENSE",
+  "doi": "PENDING — filled in after first Zenodo registration",
+  "homepage": "https://github.com/gachi-tokusuru/gachi-open-datasets/tree/main/station-ridership",
+  "source": "Public Transportation Open Data Center (ODPT) — odpt:PassengerSurvey, joined to Japan Station Master's station_id",
+  "row_counts": {
+    "station_ridership.csv": 3144
+  }
+}

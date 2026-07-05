@@ -1,0 +1,580 @@
+station_id,operator,operator_station_name_ja,odpt_id,line_names
+st_00001,Odakyu Electric Railway,湘南台,odpt.Station:Odakyu.Enoshima.Shonandai,Enoshima Line
+st_00001,Sagami Railway,湘南台,odpt.Station:Sotetsu.Izumino.Shonandai,Izumino Line
+st_00001,"Transportation Bureau, City of Yokohama",湘南台,odpt.Station:YokohamaMunicipal.Blue.Shonandai,Blue Line
+st_00002,JR East,戸塚,odpt.Station:JR-East.ShonanShinjuku.Totsuka;odpt.Station:JR-East.Tokaido.Totsuka;odpt.Station:JR-East.Yokosuka.Totsuka,Shonan-Shinjuku Line;Tokaido Line;Yokosuka Line
+st_00002,"Transportation Bureau, City of Yokohama",戸塚,odpt.Station:YokohamaMunicipal.Blue.Totsuka,Blue Line
+st_00003,"Transportation Bureau, City of Yokohama",港南中央,odpt.Station:YokohamaMunicipal.Blue.KonanChuo,Blue Line
+st_00004,"Transportation Bureau, City of Yokohama",上永谷,odpt.Station:YokohamaMunicipal.Blue.Kaminagaya,Blue Line
+st_00005,"Transportation Bureau, City of Yokohama",舞岡,odpt.Station:YokohamaMunicipal.Blue.Maioka,Blue Line
+st_00006,"Transportation Bureau, City of Yokohama",下永谷,odpt.Station:YokohamaMunicipal.Blue.Shimonagaya,Blue Line
+st_00007,"Transportation Bureau, City of Yokohama",下飯田,odpt.Station:YokohamaMunicipal.Blue.Shimoiida,Blue Line
+st_00008,"Transportation Bureau, City of Yokohama",踊場,odpt.Station:YokohamaMunicipal.Blue.Odoriba,Blue Line
+st_00009,Keikyu Corporation,上大岡,odpt.Station:Keikyu.Main.Kamiooka,Keikyu Main Line
+st_00009,"Transportation Bureau, City of Yokohama",上大岡,odpt.Station:YokohamaMunicipal.Blue.Kamiooka,Blue Line
+st_00010,"Transportation Bureau, City of Yokohama",中田,odpt.Station:YokohamaMunicipal.Blue.Nakada,Blue Line
+st_00011,"Transportation Bureau, City of Yokohama",立場,odpt.Station:YokohamaMunicipal.Blue.Tateba,Blue Line
+st_00012,"Transportation Bureau, City of Yokohama",弘明寺,odpt.Station:YokohamaMunicipal.Blue.Gumyoji,Blue Line
+st_00013,"Transportation Bureau, City of Yokohama",蒔田,odpt.Station:YokohamaMunicipal.Blue.Maita,Blue Line
+st_00014,"Transportation Bureau, City of Yokohama",吉野町,odpt.Station:YokohamaMunicipal.Blue.Yoshinocho,Blue Line
+st_00015,"Transportation Bureau, City of Yokohama",阪東橋,odpt.Station:YokohamaMunicipal.Blue.Bandobashi,Blue Line
+st_00016,"Transportation Bureau, City of Yokohama",伊勢佐木長者町,odpt.Station:YokohamaMunicipal.Blue.IsezakiChojamachi,Blue Line
+st_00017,JR East,関内,odpt.Station:JR-East.KeihinTohokuNegishi.Kannai,Keihin-Tohoku-Negishi Line
+st_00017,"Transportation Bureau, City of Yokohama",関内,odpt.Station:YokohamaMunicipal.Blue.Kannai,Blue Line
+st_00018,JR East,桜木町,odpt.Station:JR-East.KeihinTohokuNegishi.Sakuragicho,Keihin-Tohoku-Negishi Line
+st_00018,"Transportation Bureau, City of Yokohama",桜木町,odpt.Station:YokohamaMunicipal.Blue.Sakuragicho,Blue Line
+st_00019,"Transportation Bureau, City of Yokohama",高島町,odpt.Station:YokohamaMunicipal.Blue.Takashimacho,Blue Line
+st_00020,JR East,横浜,odpt.Station:JR-East.KeihinTohokuNegishi.Yokohama;odpt.Station:JR-East.ShonanShinjuku.Yokohama;odpt.Station:JR-East.Tokaido.Yokohama;odpt.Station:JR-East.Yokosuka.Yokohama,Keihin-Tohoku-Negishi Line;Shonan-Shinjuku Line;Tokaido Line;Yokosuka Line
+st_00020,Keikyu Corporation,横浜,odpt.Station:Keikyu.Main.Yokohama,Keikyu Main Line
+st_00020,Sagami Railway,横浜,odpt.Station:Sotetsu.Main.Yokohama,Sotetsu Main Line
+st_00020,Tokyu Railways,横浜,odpt.Station:Tokyu.Toyoko.Yokohama,Toyoko Line
+st_00020,"Transportation Bureau, City of Yokohama",横浜,odpt.Station:YokohamaMunicipal.Blue.Yokohama,Blue Line
+st_00020,Yokohama Minatomirai Railway,横浜,odpt.Station:Minatomirai.Minatomirai.Yokohama,Minatomirai Line
+st_00021,"Transportation Bureau, City of Yokohama",三ツ沢上町,odpt.Station:YokohamaMunicipal.Blue.MitsuzawaKamicho,Blue Line
+st_00022,"Transportation Bureau, City of Yokohama",三ツ沢下町,odpt.Station:YokohamaMunicipal.Blue.MitsuzawaShimocho,Blue Line
+st_00023,"Transportation Bureau, City of Yokohama",片倉町,odpt.Station:YokohamaMunicipal.Blue.Katakuracho,Blue Line
+st_00024,"Transportation Bureau, City of Yokohama",岸根公園,odpt.Station:YokohamaMunicipal.Blue.KishineKoen,Blue Line
+st_00025,JR Central,新横浜,odpt.Station:JR-Central.TokaidoShinkansen.ShinYokohama,Tokaido-Shinkansen
+st_00025,JR East,新横浜,odpt.Station:JR-East.Yokohama.ShinYokohama,Yokohama Line
+st_00025,Sagami Railway,新横浜,odpt.Station:Sotetsu.SotetsuShinYokohama.ShinYokohama,Sotetsu Shin-Yokohama Line
+st_00025,Tokyu Railways,新横浜,odpt.Station:Tokyu.TokyuShinYokohama.ShinYokohama,Tokyu Shin-Yokohama Line
+st_00025,"Transportation Bureau, City of Yokohama",新横浜,odpt.Station:YokohamaMunicipal.Blue.ShinYokohama,Blue Line
+st_00026,JR East,中山,odpt.Station:JR-East.Yokohama.Nakayama,Yokohama Line
+st_00026,"Transportation Bureau, City of Yokohama",中山,odpt.Station:YokohamaMunicipal.Green.Nakayama,Green Line
+st_00027,"Transportation Bureau, City of Yokohama",北新横浜,odpt.Station:YokohamaMunicipal.Blue.KitaShinYokohama,Blue Line
+st_00028,"Transportation Bureau, City of Yokohama",新羽,odpt.Station:YokohamaMunicipal.Blue.Nippa,Blue Line
+st_00029,"Transportation Bureau, City of Yokohama",川和町,odpt.Station:YokohamaMunicipal.Green.Kawawacho,Green Line
+st_00030,"Transportation Bureau, City of Yokohama",仲町台,odpt.Station:YokohamaMunicipal.Blue.Nakamachidai,Blue Line
+st_00031,"Transportation Bureau, City of Yokohama",都筑ふれあいの丘,odpt.Station:YokohamaMunicipal.Green.TsuzukiFureainooka,Green Line
+st_00032,"Transportation Bureau, City of Yokohama",センター南,odpt.Station:YokohamaMunicipal.Blue.CenterMinami;odpt.Station:YokohamaMunicipal.Green.CenterMinami,Blue Line;Green Line
+st_00033,"Transportation Bureau, City of Yokohama",高田,odpt.Station:YokohamaMunicipal.Green.Takata,Green Line
+st_00034,"Transportation Bureau, City of Yokohama",日吉本町,odpt.Station:YokohamaMunicipal.Green.HiyoshiHoncho,Green Line
+st_00035,Tokyu Railways,日吉,odpt.Station:Tokyu.Meguro.Hiyoshi;odpt.Station:Tokyu.TokyuShinYokohama.Hiyoshi;odpt.Station:Tokyu.Toyoko.Hiyoshi,Meguro Line;Tokyu Shin-Yokohama Line;Toyoko Line
+st_00035,"Transportation Bureau, City of Yokohama",日吉,odpt.Station:YokohamaMunicipal.Green.Hiyoshi,Green Line
+st_00036,"Transportation Bureau, City of Yokohama",センター北,odpt.Station:YokohamaMunicipal.Blue.CenterKita;odpt.Station:YokohamaMunicipal.Green.CenterKita,Blue Line;Green Line
+st_00037,"Transportation Bureau, City of Yokohama",東山田,odpt.Station:YokohamaMunicipal.Green.HigashiYamata,Green Line
+st_00038,"Transportation Bureau, City of Yokohama",北山田,odpt.Station:YokohamaMunicipal.Green.KitaYamata,Green Line
+st_00039,"Transportation Bureau, City of Yokohama",中川,odpt.Station:YokohamaMunicipal.Blue.Nakagawa,Blue Line
+st_00040,Tokyu Railways,あざみ野,odpt.Station:Tokyu.DenEnToshi.Azamino,Den-En-Toshi Line
+st_00040,"Transportation Bureau, City of Yokohama",あざみ野,odpt.Station:YokohamaMunicipal.Blue.Azamino,Blue Line
+st_00041,Tokyo Metropolitan Bureau of Transportation,西馬込,odpt.Station:Toei.Asakusa.NishiMagome,Asakusa Line
+st_00042,Tokyo Metropolitan Bureau of Transportation,馬込,odpt.Station:Toei.Asakusa.Magome,Asakusa Line
+st_00043,Tokyo Metropolitan Bureau of Transportation,中延,odpt.Station:Toei.Asakusa.Nakanobu,Asakusa Line
+st_00043,Tokyu Railways,中延,odpt.Station:Tokyu.Oimachi.Nakanobu,Oimachi Line
+st_00044,JR East,大井町,odpt.Station:JR-East.KeihinTohokuNegishi.Oimachi,Keihin-Tohoku-Negishi Line
+st_00044,Tokyo Waterfront Area Rapid Transit,大井町,odpt.Station:TWR.Rinkai.Oimachi,Rinkai Line
+st_00044,Tokyu Railways,大井町,odpt.Station:Tokyu.Oimachi.Oimachi,Oimachi Line
+st_00045,Tokyo Waterfront Area Rapid Transit,品川シーサイド,odpt.Station:TWR.Rinkai.ShinagawaSeaside,Rinkai Line
+st_00046,Tokyo Metropolitan Bureau of Transportation,戸越,odpt.Station:Toei.Asakusa.Togoshi,Asakusa Line
+st_00046,Tokyu Railways,戸越銀座,odpt.Station:Tokyu.Ikegami.TogoshiGinza,Ikegami Line
+st_00047,Yurikamome,テレコムセンター,odpt.Station:Yurikamome.Yurikamome.TelecomCenter,Yurikamome line
+st_00048,JR East,大崎,odpt.Station:JR-East.SaikyoKawagoe.Osaki;odpt.Station:JR-East.ShonanShinjuku.Osaki;odpt.Station:JR-East.SotetsuDirect.Osaki;odpt.Station:JR-East.Yamanote.Osaki,Saikyo-Kawagoe Line;Shonan-Shinjuku Line;Sotetsu Direct Connection Line;Yamanote Line
+st_00048,Tokyo Waterfront Area Rapid Transit,大崎,odpt.Station:TWR.Rinkai.Osaki,Rinkai Line
+st_00049,Tokyo Monorail,天王洲アイル,odpt.Station:TokyoMonorail.HanedaAirport.TennozuIsle,Haneda Airport Line
+st_00049,Tokyo Waterfront Area Rapid Transit,天王洲アイル,odpt.Station:TWR.Rinkai.TennozuIsle,Rinkai Line
+st_00050,Yurikamome,東京国際クルーズターミナル,odpt.Station:Yurikamome.Yurikamome.TokyoInternationalCruiseTerminal,Yurikamome line
+st_00051,Keio Corporation,京王多摩センター,odpt.Station:Keio.Sagamihara.KeioTamaCenter,Sagamihara Line
+st_00051,Odakyu Electric Railway,小田急多摩センター,odpt.Station:Odakyu.Tama.OdakyuTamaCenter,Tama Line
+st_00051,Tokyo Tama Intercity Monorail,多摩センター,odpt.Station:TamaMonorail.TamaMonorail.TamaCenter,Tama Monorail Line
+st_00052,Yurikamome,青海,odpt.Station:Yurikamome.Yurikamome.Aomi,Yurikamome line
+st_00053,Yurikamome,台場,odpt.Station:Yurikamome.Yurikamome.Daiba,Yurikamome line
+st_00054,JR East,五反田,odpt.Station:JR-East.Yamanote.Gotanda,Yamanote Line
+st_00054,Tokyo Metropolitan Bureau of Transportation,五反田,odpt.Station:Toei.Asakusa.Gotanda,Asakusa Line
+st_00054,Tokyu Railways,五反田,odpt.Station:Tokyu.Ikegami.Gotanda,Ikegami Line
+st_00055,Tokyo Waterfront Area Rapid Transit,東京テレポート,odpt.Station:TWR.Rinkai.TokyoTeleport,Rinkai Line
+st_00056,Yurikamome,お台場海浜公園,odpt.Station:Yurikamome.Yurikamome.OdaibaKaihinkoen,Yurikamome line
+st_00057,Yurikamome,東京ビッグサイト,odpt.Station:Yurikamome.Yurikamome.TokyoBigSight,Yurikamome line
+st_00058,Tokyo Metropolitan Bureau of Transportation,高輪台,odpt.Station:Toei.Asakusa.Takanawadai,Asakusa Line
+st_00059,Tokyo Tama Intercity Monorail,松が谷,odpt.Station:TamaMonorail.TamaMonorail.Matsugaya,Tama Monorail Line
+st_00060,JR East,目黒,odpt.Station:JR-East.Yamanote.Meguro,Yamanote Line
+st_00060,Tokyo Metro,目黒,odpt.Station:TokyoMetro.Namboku.Meguro,Namboku Line
+st_00060,Tokyo Metropolitan Bureau of Transportation,目黒,odpt.Station:Toei.Mita.Meguro,Mita Line
+st_00060,Tokyu Railways,目黒,odpt.Station:Tokyu.Meguro.Meguro,Meguro Line
+st_00061,Tokyo Waterfront Area Rapid Transit,国際展示場,odpt.Station:TWR.Rinkai.KokusaiTenjijo,Rinkai Line
+st_00061,Yurikamome,有明,odpt.Station:Yurikamome.Yurikamome.Ariake,Yurikamome line
+st_00062,Tokyo Tama Intercity Monorail,大塚・帝京大学,odpt.Station:TamaMonorail.TamaMonorail.OtsukaTeikyoDaigaku,Tama Monorail Line
+st_00063,Tokyo Metro,白金台,odpt.Station:TokyoMetro.Namboku.Shirokanedai,Namboku Line
+st_00063,Tokyo Metropolitan Bureau of Transportation,白金台,odpt.Station:Toei.Mita.Shirokanedai,Mita Line
+st_00064,JR East,高輪ゲートウェイ,odpt.Station:JR-East.KeihinTohokuNegishi.TakanawaGateway;odpt.Station:JR-East.Yamanote.TakanawaGateway,Keihin-Tohoku-Negishi Line;Yamanote Line
+st_00064,Keikyu Corporation,泉岳寺,odpt.Station:Keikyu.Main.Sengakuji,Keikyu Main Line
+st_00064,Tokyo Metropolitan Bureau of Transportation,泉岳寺,odpt.Station:Toei.Asakusa.Sengakuji,Asakusa Line
+st_00065,Yurikamome,有明テニスの森,odpt.Station:Yurikamome.Yurikamome.AriakeTennisNoMori,Yurikamome line
+st_00066,Tokyo Waterfront Area Rapid Transit,東雲,odpt.Station:TWR.Rinkai.Shinonome,Rinkai Line
+st_00067,Yurikamome,芝浦ふ頭,odpt.Station:Yurikamome.Yurikamome.ShibauraFuto,Yurikamome line
+st_00068,Tokyo Tama Intercity Monorail,中央大学・明星大学,odpt.Station:TamaMonorail.TamaMonorail.ChuoDaigakuMeiseiDaigaku,Tama Monorail Line
+st_00069,Tokyo Metro,白金高輪,odpt.Station:TokyoMetro.Namboku.ShirokaneTakanawa,Namboku Line
+st_00069,Tokyo Metropolitan Bureau of Transportation,白金高輪,odpt.Station:Toei.Mita.ShirokaneTakanawa,Mita Line
+st_00070,Tokyo Metro,中目黒,odpt.Station:TokyoMetro.Hibiya.NakaMeguro,Hibiya Line
+st_00070,Tokyu Railways,中目黒,odpt.Station:Tokyu.Toyoko.NakaMeguro,Toyoko Line
+st_00071,Yurikamome,市場前,odpt.Station:Yurikamome.Yurikamome.ShijoMae,Yurikamome line
+st_00072,Tokyo Metro,辰巳,odpt.Station:TokyoMetro.Yurakucho.Tatsumi,Yurakucho Line
+st_00073,JR East,新木場,odpt.Station:JR-East.Keiyo.ShinKiba,Keiyo Line
+st_00073,Tokyo Metro,新木場,odpt.Station:TokyoMetro.Yurakucho.ShinKiba,Yurakucho Line
+st_00073,Tokyo Waterfront Area Rapid Transit,新木場,odpt.Station:TWR.Rinkai.ShinKiba,Rinkai Line
+st_00074,JR East,田町,odpt.Station:JR-East.KeihinTohokuNegishi.Tamachi;odpt.Station:JR-East.Yamanote.Tamachi,Keihin-Tohoku-Negishi Line;Yamanote Line
+st_00074,Tokyo Metropolitan Bureau of Transportation,三田,odpt.Station:Toei.Asakusa.Mita;odpt.Station:Toei.Mita.Mita,Asakusa Line;Mita Line
+st_00075,JR East,恵比寿,odpt.Station:JR-East.SaikyoKawagoe.Ebisu;odpt.Station:JR-East.ShonanShinjuku.Ebisu;odpt.Station:JR-East.Yamanote.Ebisu,Saikyo-Kawagoe Line;Shonan-Shinjuku Line;Yamanote Line
+st_00075,Tokyo Metro,恵比寿,odpt.Station:TokyoMetro.Hibiya.Ebisu,Hibiya Line
+st_00076,Keio Corporation,多摩動物公園,odpt.Station:Keio.Dobutsuen.TamaDobutsukoen,Dobutsuen Line
+st_00076,Tokyo Tama Intercity Monorail,多摩動物公園,odpt.Station:TamaMonorail.TamaMonorail.TamaDobutsukoen,Tama Monorail Line
+st_00077,Yurikamome,新豊洲,odpt.Station:Yurikamome.Yurikamome.ShinToyosu,Yurikamome line
+st_00078,Yurikamome,日の出,odpt.Station:Yurikamome.Yurikamome.Hinode,Yurikamome line
+st_00079,Tokyo Metro,広尾,odpt.Station:TokyoMetro.Hibiya.HiroO,Hibiya Line
+st_00080,Tokyo Metro,豊洲,odpt.Station:TokyoMetro.Yurakucho.Toyosu,Yurakucho Line
+st_00080,Yurikamome,豊洲,odpt.Station:Yurikamome.Yurikamome.Toyosu,Yurikamome line
+st_00081,Yurikamome,竹芝,odpt.Station:Yurikamome.Yurikamome.Takeshiba,Yurikamome line
+st_00082,Tokyo Metropolitan Bureau of Transportation,芝公園,odpt.Station:Toei.Mita.Shibakoen,Mita Line
+st_00083,Tokyo Metropolitan Bureau of Transportation,赤羽橋,odpt.Station:Toei.Oedo.Akabanebashi,Oedo Line
+st_00084,Tokyo Tama Intercity Monorail,程久保,odpt.Station:TamaMonorail.TamaMonorail.Hodokubo,Tama Monorail Line
+st_00085,Tokyo Metro,麻布十番,odpt.Station:TokyoMetro.Namboku.AzabuJuban,Namboku Line
+st_00085,Tokyo Metropolitan Bureau of Transportation,麻布十番,odpt.Station:Toei.Oedo.AzabuJuban,Oedo Line
+st_00086,JR East,浜松町,odpt.Station:JR-East.KeihinTohokuNegishi.Hamamatsucho;odpt.Station:JR-East.Yamanote.Hamamatsucho,Keihin-Tohoku-Negishi Line;Yamanote Line
+st_00086,Tokyo Metropolitan Bureau of Transportation,大門,odpt.Station:Toei.Asakusa.Daimon;odpt.Station:Toei.Oedo.Daimon,Asakusa Line;Oedo Line
+st_00086,Tokyo Monorail,浜松町,odpt.Station:TokyoMonorail.HanedaAirport.Hamamatsucho,Haneda Airport Line
+st_00087,Tokyo Metropolitan Bureau of Transportation,勝どき,odpt.Station:Toei.Oedo.Kachidoki,Oedo Line
+st_00088,JR East,渋谷,odpt.Station:JR-East.SaikyoKawagoe.Shibuya;odpt.Station:JR-East.ShonanShinjuku.Shibuya;odpt.Station:JR-East.Yamanote.Shibuya,Saikyo-Kawagoe Line;Shonan-Shinjuku Line;Yamanote Line
+st_00088,Keio Corporation,渋谷,odpt.Station:Keio.Inokashira.Shibuya,Inokashira Line
+st_00088,Tokyo Metro,渋谷,odpt.Station:TokyoMetro.Fukutoshin.Shibuya;odpt.Station:TokyoMetro.Ginza.Shibuya;odpt.Station:TokyoMetro.Hanzomon.Shibuya,Fukutoshin Line;Ginza Line;Hanzomon Line
+st_00088,Tokyu Railways,渋谷,odpt.Station:Tokyu.DenEnToshi.Shibuya;odpt.Station:Tokyu.Toyoko.Shibuya,Den-En-Toshi Line;Toyoko Line
+st_00089,Tokyo Metropolitan Bureau of Transportation,御成門,odpt.Station:Toei.Mita.Onarimon,Mita Line
+st_00090,Keio Corporation,高幡不動,odpt.Station:Keio.Dobutsuen.Takahatafudo;odpt.Station:Keio.Keio.Takahatafudo,Dobutsuen Line;Keio Line
+st_00090,Tokyo Tama Intercity Monorail,高幡不動,odpt.Station:TamaMonorail.TamaMonorail.Takahatafudo,Tama Monorail Line
+st_00091,Tokyo Metro,神谷町,odpt.Station:TokyoMetro.Hibiya.Kamiyacho,Hibiya Line
+st_00092,Tokyo Metropolitan Bureau of Transportation,汐留,odpt.Station:Toei.Oedo.Shiodome,Oedo Line
+st_00092,Yurikamome,汐留,odpt.Station:Yurikamome.Yurikamome.Shiodome,Yurikamome line
+st_00093,Tokyo Metro,葛西,odpt.Station:TokyoMetro.Tozai.Kasai,Tozai Line
+st_00094,Tokyo Metro,月島,odpt.Station:TokyoMetro.Yurakucho.Tsukishima,Yurakucho Line
+st_00094,Tokyo Metropolitan Bureau of Transportation,月島,odpt.Station:Toei.Oedo.Tsukishima,Oedo Line
+st_00095,Tokyo Metro,六本木,odpt.Station:TokyoMetro.Hibiya.Roppongi,Hibiya Line
+st_00095,Tokyo Metropolitan Bureau of Transportation,六本木,odpt.Station:Toei.Oedo.Roppongi,Oedo Line
+st_00096,Tokyo Metro,西葛西,odpt.Station:TokyoMetro.Tozai.NishiKasai,Tozai Line
+st_00097,Tokyo Metropolitan Bureau of Transportation,築地市場,odpt.Station:Toei.Oedo.Tsukijishijo,Oedo Line
+st_00098,Tokyo Metro,六本木一丁目,odpt.Station:TokyoMetro.Namboku.RoppongiItchome,Namboku Line
+st_00099,JR East,新橋,odpt.Station:JR-East.JobanRapid.Shimbashi;odpt.Station:JR-East.KeihinTohokuNegishi.Shimbashi;odpt.Station:JR-East.Tokaido.Shimbashi;odpt.Station:JR-East.Yamanote.Shimbashi;odpt.Station:JR-East.Yokosuka.Shimbashi,Joban Rapid Line;Keihin-Tohoku-Negishi Line;Tokaido Line;Yamanote Line;Yokosuka Line
+st_00099,Tokyo Metro,新橋,odpt.Station:TokyoMetro.Ginza.Shimbashi,Ginza Line
+st_00099,Tokyo Metropolitan Bureau of Transportation,新橋,odpt.Station:Toei.Asakusa.Shimbashi,Asakusa Line
+st_00099,Yurikamome,新橋,odpt.Station:Yurikamome.Yurikamome.Shimbashi,Yurikamome line
+st_00100,Tokyo Metro,表参道,odpt.Station:TokyoMetro.Chiyoda.OmoteSando;odpt.Station:TokyoMetro.Ginza.OmoteSando;odpt.Station:TokyoMetro.Hanzomon.OmoteSando,Chiyoda Line;Ginza Line;Hanzomon Line
+st_00101,Tokyo Metro,浦安,odpt.Station:TokyoMetro.Tozai.Urayasu,Tozai Line
+st_00102,Tokyo Metro,乃木坂,odpt.Station:TokyoMetro.Chiyoda.Nogizaka,Chiyoda Line
+st_00103,Tokyo Metro,築地,odpt.Station:TokyoMetro.Hibiya.Tsukiji;odpt.Station:TokyoMetro.Yurakucho.Shintomicho,Hibiya Line;Yurakucho Line
+st_00104,Tokyo Metro,南砂町,odpt.Station:TokyoMetro.Tozai.MinamiSunamachi,Tozai Line
+st_00105,Odakyu Electric Railway,代々木上原,odpt.Station:Odakyu.Odawara.YoyogiUehara,Odawara Line
+st_00105,Tokyo Metro,代々木上原,odpt.Station:TokyoMetro.Chiyoda.YoyogiUehara,Chiyoda Line
+st_00106,Tokyo Metro,代々木公園,odpt.Station:TokyoMetro.Chiyoda.YoyogiKoen,Chiyoda Line
+st_00107,JR East,原宿,odpt.Station:JR-East.Yamanote.Harajuku,Yamanote Line
+st_00107,Tokyo Metro,明治神宮前〈原宿〉,odpt.Station:TokyoMetro.Chiyoda.MeijiJingumae;odpt.Station:TokyoMetro.Fukutoshin.MeijiJingumae,Chiyoda Line;Fukutoshin Line
+st_00108,Tokyo Metropolitan Bureau of Transportation,内幸町,odpt.Station:Toei.Mita.Uchisaiwaicho,Mita Line
+st_00109,Tokyo Metro,木場,odpt.Station:TokyoMetro.Tozai.Kiba,Tozai Line
+st_00110,Tokyo Metro,東陽町,odpt.Station:TokyoMetro.Tozai.Toyocho,Tozai Line
+st_00111,Tokyo Metro,東銀座,odpt.Station:TokyoMetro.Hibiya.HigashiGinza,Hibiya Line
+st_00111,Tokyo Metropolitan Bureau of Transportation,東銀座,odpt.Station:Toei.Asakusa.HigashiGinza,Asakusa Line
+st_00112,Tokyo Metro,虎ノ門,odpt.Station:TokyoMetro.Ginza.Toranomon;odpt.Station:TokyoMetro.Hibiya.ToranomonHills,Ginza Line;Hibiya Line
+st_00113,Tokyo Metro,外苑前,odpt.Station:TokyoMetro.Ginza.Gaiemmae,Ginza Line
+st_00114,Tokyo Tama Intercity Monorail,万願寺,odpt.Station:TamaMonorail.TamaMonorail.Manganji,Tama Monorail Line
+st_00115,Tokyo Metro,銀座,odpt.Station:TokyoMetro.Ginza.Ginza;odpt.Station:TokyoMetro.Hibiya.Ginza;odpt.Station:TokyoMetro.Marunouchi.Ginza;odpt.Station:TokyoMetro.Yurakucho.GinzaItchome,Ginza Line;Hibiya Line;Marunouchi Line;Yurakucho Line
+st_00116,Tokyo Metro,赤坂,odpt.Station:TokyoMetro.Chiyoda.Akasaka,Chiyoda Line
+st_00117,Tokyo Metro,霞ケ関,odpt.Station:TokyoMetro.Chiyoda.Kasumigaseki;odpt.Station:TokyoMetro.Hibiya.Kasumigaseki;odpt.Station:TokyoMetro.Marunouchi.Kasumigaseki,Chiyoda Line;Hibiya Line;Marunouchi Line
+st_00118,Tokyo Metro,南行徳,odpt.Station:TokyoMetro.Tozai.MinamiGyotoku,Tozai Line
+st_00119,Tokyo Metro,門前仲町,odpt.Station:TokyoMetro.Tozai.MonzenNakacho,Tozai Line
+st_00119,Tokyo Metropolitan Bureau of Transportation,門前仲町,odpt.Station:Toei.Oedo.MonzenNakacho,Oedo Line
+st_00120,Tokyo Metro,青山一丁目,odpt.Station:TokyoMetro.Ginza.AoyamaItchome;odpt.Station:TokyoMetro.Hanzomon.AoyamaItchome,Ginza Line;Hanzomon Line
+st_00120,Tokyo Metropolitan Bureau of Transportation,青山一丁目,odpt.Station:Toei.Oedo.AoyamaItchome,Oedo Line
+st_00121,Tokyo Metro,国会議事堂前,odpt.Station:TokyoMetro.Chiyoda.KokkaiGijidomae;odpt.Station:TokyoMetro.Ginza.TameikeSanno;odpt.Station:TokyoMetro.Marunouchi.KokkaiGijidomae;odpt.Station:TokyoMetro.Namboku.TameikeSanno,Chiyoda Line;Ginza Line;Marunouchi Line;Namboku Line
+st_00122,JR East,八丁堀,odpt.Station:JR-East.Keiyo.Hatchobori,Keiyo Line
+st_00122,Tokyo Metro,八丁堀,odpt.Station:TokyoMetro.Hibiya.Hatchobori,Hibiya Line
+st_00123,Tokyo Metropolitan Bureau of Transportation,宝町,odpt.Station:Toei.Asakusa.Takaracho,Asakusa Line
+st_00124,JR East,有楽町,odpt.Station:JR-East.KeihinTohokuNegishi.Yurakucho;odpt.Station:JR-East.Yamanote.Yurakucho,Keihin-Tohoku-Negishi Line;Yamanote Line
+st_00124,Tokyo Metro,日比谷,odpt.Station:TokyoMetro.Chiyoda.Hibiya;odpt.Station:TokyoMetro.Hibiya.Hibiya;odpt.Station:TokyoMetro.Yurakucho.Yurakucho,Chiyoda Line;Hibiya Line;Yurakucho Line
+st_00124,Tokyo Metropolitan Bureau of Transportation,日比谷,odpt.Station:Toei.Mita.Hibiya,Mita Line
+st_00125,Tokyo Metro,京橋,odpt.Station:TokyoMetro.Ginza.Kyobashi,Ginza Line
+st_00126,Tokyo Metro,赤坂見附,odpt.Station:TokyoMetro.Ginza.AkasakaMitsuke;odpt.Station:TokyoMetro.Hanzomon.Nagatacho;odpt.Station:TokyoMetro.Marunouchi.AkasakaMitsuke;odpt.Station:TokyoMetro.Namboku.Nagatacho;odpt.Station:TokyoMetro.Yurakucho.Nagatacho,Ginza Line;Hanzomon Line;Marunouchi Line;Namboku Line;Yurakucho Line
+st_00127,Tokyo Metro,桜田門,odpt.Station:TokyoMetro.Yurakucho.Sakuradamon,Yurakucho Line
+st_00128,Tokyo Tama Intercity Monorail,甲州街道,odpt.Station:TamaMonorail.TamaMonorail.Koshukaido,Tama Monorail Line
+st_00129,Tokyo Metro,北参道,odpt.Station:TokyoMetro.Fukutoshin.KitaSando,Fukutoshin Line
+st_00130,Tokyo Metro,茅場町,odpt.Station:TokyoMetro.Hibiya.Kayabacho;odpt.Station:TokyoMetro.Tozai.Kayabacho,Hibiya Line;Tozai Line
+st_00131,Tokyo Metropolitan Bureau of Transportation,国立競技場,odpt.Station:Toei.Oedo.KokuritsuKyogijo,Oedo Line
+st_00132,Tokyo Metro,二重橋前〈丸の内〉,odpt.Station:TokyoMetro.Chiyoda.Nijubashimae,Chiyoda Line
+st_00133,Tokyo Metro,日本橋,odpt.Station:TokyoMetro.Ginza.Nihombashi;odpt.Station:TokyoMetro.Tozai.Nihombashi,Ginza Line;Tozai Line
+st_00133,Tokyo Metropolitan Bureau of Transportation,日本橋,odpt.Station:Toei.Asakusa.Nihombashi,Asakusa Line
+st_00134,Tokyo Metro,清澄白河,odpt.Station:TokyoMetro.Hanzomon.KiyosumiShirakawa,Hanzomon Line
+st_00134,Tokyo Metropolitan Bureau of Transportation,清澄白河,odpt.Station:Toei.Oedo.KiyosumiShirakawa,Oedo Line
+st_00135,Tokyo Metro,行徳,odpt.Station:TokyoMetro.Tozai.Gyotoku,Tozai Line
+st_00136,JR East,代々木,odpt.Station:JR-East.ChuoSobuLocal.Yoyogi;odpt.Station:JR-East.Yamanote.Yoyogi,Chuo-Sobu Local Line;Yamanote Line
+st_00136,Tokyo Metropolitan Bureau of Transportation,代々木,odpt.Station:Toei.Oedo.Yoyogi,Oedo Line
+st_00137,Tokyo Metro,方南町,odpt.Station:TokyoMetro.MarunouchiBranch.Honancho,Marunouchi Branch Line
+st_00138,Tokyo Metropolitan Bureau of Transportation,船堀,odpt.Station:Toei.Shinjuku.Funabori,Shinjuku Line
+st_00139,JR Central,東京,odpt.Station:JR-Central.TokaidoShinkansen.Tokyo,Tokaido-Shinkansen
+st_00139,JR East,東京,odpt.Station:JR-East.Keiyo.Tokyo;odpt.Station:JR-East.ChuoRapid.Tokyo;odpt.Station:JR-East.JobanRapid.Tokyo;odpt.Station:JR-East.KeihinTohokuNegishi.Tokyo;odpt.Station:JR-East.SobuRapid.Tokyo;odpt.Station:JR-East.Takasaki.Tokyo;odpt.Station:JR-East.Tokaido.Tokyo;odpt.Station:JR-East.Utsunomiya.Tokyo;odpt.Station:JR-East.Yamanote.Tokyo;odpt.Station:JR-East.Yokosuka.Tokyo;odpt.Station:JR-East.AkitaShinkansen.Tokyo;odpt.Station:JR-East.HokurikuShinkansen.Tokyo;odpt.Station:JR-East.JoetsuShinkansen.Tokyo;odpt.Station:JR-East.TohokuShinkansen.Tokyo;odpt.Station:JR-East.YamagataShinkansen.Tokyo,Akita-Shinkansen;Chuo Rapid Line;Hokuriku-Shinkansen;Joban Rapid Line;Joetsu-Shinkansen;Keihin-Tohoku-Negishi Line;Keiyo Line;Sobu Rapid Line;Takasaki Line;Tohoku-Shinkansen;Tokaido Line;Utsunomiya Line;Yamagata-Shinkansen;Yamanote Line;Yokosuka Line
+st_00139,Tokyo Metro,大手町,odpt.Station:TokyoMetro.Chiyoda.Otemachi;odpt.Station:TokyoMetro.Hanzomon.Otemachi;odpt.Station:TokyoMetro.Marunouchi.Tokyo;odpt.Station:TokyoMetro.Marunouchi.Otemachi;odpt.Station:TokyoMetro.Tozai.Otemachi,Chiyoda Line;Hanzomon Line;Marunouchi Line;Tozai Line
+st_00139,Tokyo Metropolitan Bureau of Transportation,大手町,odpt.Station:Toei.Mita.Otemachi,Mita Line
+st_00140,JR East,四ツ谷,odpt.Station:JR-East.ChuoRapid.Yotsuya;odpt.Station:JR-East.ChuoSobuLocal.Yotsuya,Chuo Rapid Line;Chuo-Sobu Local Line
+st_00140,Tokyo Metro,四ツ谷,odpt.Station:TokyoMetro.Marunouchi.Yotsuya;odpt.Station:TokyoMetro.Namboku.Yotsuya,Marunouchi Line;Namboku Line
+st_00141,Tokyo Metro,麴町,odpt.Station:TokyoMetro.Yurakucho.Kojimachi,Yurakucho Line
+st_00142,Tokyo Metro,半蔵門,odpt.Station:TokyoMetro.Hanzomon.Hanzomon,Hanzomon Line
+st_00143,Tokyo Metropolitan Bureau of Transportation,一之江,odpt.Station:Toei.Shinjuku.Ichinoe,Shinjuku Line
+st_00144,Tokyo Metro,水天宮前,odpt.Station:TokyoMetro.Hanzomon.Suitengumae;odpt.Station:TokyoMetro.Hibiya.Ningyocho,Hanzomon Line;Hibiya Line
+st_00144,Tokyo Metropolitan Bureau of Transportation,人形町,odpt.Station:Toei.Asakusa.Ningyocho,Asakusa Line
+st_00145,JR East,新日本橋,odpt.Station:JR-East.SobuRapid.ShinNihombashi,Sobu Rapid Line
+st_00145,Tokyo Metro,三越前,odpt.Station:TokyoMetro.Ginza.Mitsukoshimae;odpt.Station:TokyoMetro.Hanzomon.Mitsukoshimae,Ginza Line;Hanzomon Line
+st_00146,Tokyo Metro,四谷三丁目,odpt.Station:TokyoMetro.Marunouchi.YotsuyaSanchome,Marunouchi Line
+st_00147,Tokyo Metropolitan Bureau of Transportation,森下,odpt.Station:Toei.Oedo.Morishita;odpt.Station:Toei.Shinjuku.Morishita,Oedo Line;Shinjuku Line
+st_00148,Tokyo Metropolitan Bureau of Transportation,菊川,odpt.Station:Toei.Shinjuku.Kikukawa,Shinjuku Line
+st_00149,Tokyo Metro,新宿御苑前,odpt.Station:TokyoMetro.Marunouchi.ShinjukuGyoemmae,Marunouchi Line
+st_00150,Tokyo Metropolitan Bureau of Transportation,浜町,odpt.Station:Toei.Shinjuku.Hamacho,Shinjuku Line
+st_00151,Tokyo Metro,住吉,odpt.Station:TokyoMetro.Hanzomon.Sumiyoshi,Hanzomon Line
+st_00151,Tokyo Metropolitan Bureau of Transportation,住吉,odpt.Station:Toei.Shinjuku.Sumiyoshi,Shinjuku Line
+st_00152,Tokyo Metropolitan Bureau of Transportation,西大島,odpt.Station:Toei.Shinjuku.NishiOjima,Shinjuku Line
+st_00153,Tokyo Metropolitan Bureau of Transportation,大島,odpt.Station:Toei.Shinjuku.Ojima,Shinjuku Line
+st_00154,Tokyo Tama Intercity Monorail,柴崎体育館,odpt.Station:TamaMonorail.TamaMonorail.ShibasakiTaiikukan,Tama Monorail Line
+st_00155,Tokyo Metropolitan Bureau of Transportation,西新宿五丁目,odpt.Station:Toei.Oedo.NishiShinjukuGochome,Oedo Line
+st_00156,Tokyo Metropolitan Bureau of Transportation,東大島,odpt.Station:Toei.Shinjuku.HigashiOjima,Shinjuku Line
+st_00157,Tokyo Metro,小伝馬町,odpt.Station:TokyoMetro.Hibiya.Kodemmacho,Hibiya Line
+st_00158,Tokyo Metro,竹橋,odpt.Station:TokyoMetro.Tozai.Takebashi,Tozai Line
+st_00159,Tokyo Metropolitan Bureau of Transportation,都庁前,odpt.Station:Toei.Oedo.Tochomae,Oedo Line
+st_00160,Tokyo Metro,中野富士見町,odpt.Station:TokyoMetro.MarunouchiBranch.NakanoFujimicho,Marunouchi Branch Line
+st_00161,Tokyo Metro,妙典,odpt.Station:TokyoMetro.Tozai.Myoden,Tozai Line
+st_00162,Tokyo Metro,新宿三丁目,odpt.Station:TokyoMetro.Fukutoshin.ShinjukuSanchome;odpt.Station:TokyoMetro.Marunouchi.ShinjukuSanchome,Fukutoshin Line;Marunouchi Line
+st_00162,Tokyo Metropolitan Bureau of Transportation,新宿三丁目,odpt.Station:Toei.Shinjuku.ShinjukuSanchome,Shinjuku Line
+st_00163,JR East,市ケ谷,odpt.Station:JR-East.ChuoSobuLocal.Ichigaya,Chuo-Sobu Local Line
+st_00163,Tokyo Metro,市ケ谷,odpt.Station:TokyoMetro.Namboku.Ichigaya;odpt.Station:TokyoMetro.Yurakucho.Ichigaya,Namboku Line;Yurakucho Line
+st_00163,Tokyo Metropolitan Bureau of Transportation,市ヶ谷,odpt.Station:Toei.Shinjuku.Ichigaya,Shinjuku Line
+st_00164,Tokyo Metro,中野新橋,odpt.Station:TokyoMetro.MarunouchiBranch.NakanoShimbashi,Marunouchi Branch Line
+st_00165,JR East,馬喰町,odpt.Station:JR-East.SobuRapid.Bakurocho,Sobu Rapid Line
+st_00165,Tokyo Metropolitan Bureau of Transportation,東日本橋,odpt.Station:Toei.Asakusa.HigashiNihombashi;odpt.Station:Toei.Shinjuku.BakuroYokoyama,Asakusa Line;Shinjuku Line
+st_00166,Tokyo Metropolitan Bureau of Transportation,曙橋,odpt.Station:Toei.Shinjuku.Akebonobashi,Shinjuku Line
+st_00167,JR East,新宿,odpt.Station:JR-East.ChuoRapid.Shinjuku;odpt.Station:JR-East.ChuoSobuLocal.Shinjuku;odpt.Station:JR-East.SaikyoKawagoe.Shinjuku;odpt.Station:JR-East.ShonanShinjuku.Shinjuku;odpt.Station:JR-East.Yamanote.Shinjuku,Chuo Rapid Line;Chuo-Sobu Local Line;Saikyo-Kawagoe Line;Shonan-Shinjuku Line;Yamanote Line
+st_00167,Keio Corporation,新宿,odpt.Station:Keio.Keio.Shinjuku;odpt.Station:Keio.KeioNew.Shinjuku,Keio Line;Keio New Line
+st_00167,Odakyu Electric Railway,新宿,odpt.Station:Odakyu.Odawara.Shinjuku,Odawara Line
+st_00167,Seibu Railway,西武新宿,odpt.Station:Seibu.Shinjuku.SeibuShinjuku,Shinjuku Line
+st_00167,Tokyo Metro,新宿,odpt.Station:TokyoMetro.Marunouchi.Shinjuku,Marunouchi Line
+st_00167,Tokyo Metropolitan Bureau of Transportation,新宿西口,odpt.Station:Toei.Oedo.ShinjukuNishiguchi;odpt.Station:Toei.Oedo.Shinjuku;odpt.Station:Toei.Shinjuku.Shinjuku,Oedo Line;Shinjuku Line
+st_00168,Tokyo Metropolitan Bureau of Transportation,瑞江,odpt.Station:Toei.Shinjuku.Mizue,Shinjuku Line
+st_00169,JR East,神田,odpt.Station:JR-East.ChuoRapid.Kanda;odpt.Station:JR-East.KeihinTohokuNegishi.Kanda;odpt.Station:JR-East.Yamanote.Kanda,Chuo Rapid Line;Keihin-Tohoku-Negishi Line;Yamanote Line
+st_00169,Tokyo Metro,神田,odpt.Station:TokyoMetro.Ginza.Kanda,Ginza Line
+st_00170,Tokyo Metro,西新宿,odpt.Station:TokyoMetro.Marunouchi.NishiShinjuku,Marunouchi Line
+st_00171,JR East,御茶ノ水,odpt.Station:JR-East.ChuoRapid.Ochanomizu;odpt.Station:JR-East.ChuoSobuLocal.Ochanomizu,Chuo Rapid Line;Chuo-Sobu Local Line
+st_00171,Tokyo Metro,新御茶ノ水,odpt.Station:TokyoMetro.Chiyoda.ShinOchanomizu;odpt.Station:TokyoMetro.Marunouchi.Awajicho;odpt.Station:TokyoMetro.Marunouchi.Ochanomizu,Chiyoda Line;Marunouchi Line
+st_00171,Tokyo Metropolitan Bureau of Transportation,小川町,odpt.Station:Toei.Shinjuku.Ogawamachi,Shinjuku Line
+st_00172,Tokyo Metro,神保町,odpt.Station:TokyoMetro.Hanzomon.Jimbocho,Hanzomon Line
+st_00172,Tokyo Metropolitan Bureau of Transportation,神保町,odpt.Station:Toei.Mita.Jimbocho;odpt.Station:Toei.Shinjuku.Jimbocho,Mita Line;Shinjuku Line
+st_00173,Tokyo Metro,九段下,odpt.Station:TokyoMetro.Hanzomon.Kudanshita;odpt.Station:TokyoMetro.Tozai.Kudanshita,Hanzomon Line;Tozai Line
+st_00173,Tokyo Metropolitan Bureau of Transportation,九段下,odpt.Station:Toei.Shinjuku.Kudanshita,Shinjuku Line
+st_00174,JR East,秋葉原,odpt.Station:JR-East.ChuoSobuLocal.Akihabara;odpt.Station:JR-East.KeihinTohokuNegishi.Akihabara;odpt.Station:JR-East.Yamanote.Akihabara,Chuo-Sobu Local Line;Keihin-Tohoku-Negishi Line;Yamanote Line
+st_00174,Metropolitan Intercity Railway,秋葉原,odpt.Station:MIR.TsukubaExpress.Akihabara,Tsukuba Express Line
+st_00174,Tokyo Metro,秋葉原,odpt.Station:TokyoMetro.Hibiya.Akihabara,Hibiya Line
+st_00174,Tokyo Metropolitan Bureau of Transportation,岩本町,odpt.Station:Toei.Shinjuku.Iwamotocho,Shinjuku Line
+st_00175,JR East,両国,odpt.Station:JR-East.ChuoSobuLocal.Ryogoku,Chuo-Sobu Local Line
+st_00175,Tokyo Metropolitan Bureau of Transportation,両国,odpt.Station:Toei.Oedo.Ryogoku,Oedo Line
+st_00176,JR East,錦糸町,odpt.Station:JR-East.ChuoSobuLocal.Kinshicho;odpt.Station:JR-East.SobuRapid.Kinshicho,Chuo-Sobu Local Line;Sobu Rapid Line
+st_00176,Tokyo Metro,錦糸町,odpt.Station:TokyoMetro.Hanzomon.Kinshicho,Hanzomon Line
+st_00177,Tokyo Metro,新中野,odpt.Station:TokyoMetro.Marunouchi.ShinNakano,Marunouchi Line
+st_00178,JR East,浅草橋,odpt.Station:JR-East.ChuoSobuLocal.Asakusabashi,Chuo-Sobu Local Line
+st_00178,Tokyo Metropolitan Bureau of Transportation,浅草橋,odpt.Station:Toei.Asakusa.Asakusabashi,Asakusa Line
+st_00179,Tokyo Metro,新高円寺,odpt.Station:TokyoMetro.Marunouchi.ShinKoenji,Marunouchi Line
+st_00180,Tokyo Metro,中野坂上,odpt.Station:TokyoMetro.Marunouchi.NakanoSakaue;odpt.Station:TokyoMetro.MarunouchiBranch.NakanoSakaue,Marunouchi Branch Line;Marunouchi Line
+st_00180,Tokyo Metropolitan Bureau of Transportation,中野坂上,odpt.Station:Toei.Oedo.NakanoSakaue,Oedo Line
+st_00181,Tokyo Metro,東新宿,odpt.Station:TokyoMetro.Fukutoshin.HigashiShinjuku,Fukutoshin Line
+st_00181,Tokyo Metropolitan Bureau of Transportation,東新宿,odpt.Station:Toei.Oedo.HigashiShinjuku,Oedo Line
+st_00182,Tokyo Metro,東高円寺,odpt.Station:TokyoMetro.Marunouchi.HigashiKoenji,Marunouchi Line
+st_00183,Tokyo Metropolitan Bureau of Transportation,若松河田,odpt.Station:Toei.Oedo.WakamatsuKawada,Oedo Line
+st_00184,Tokyo Metro,南阿佐ケ谷,odpt.Station:TokyoMetro.Marunouchi.MinamiAsagaya,Marunouchi Line
+st_00185,JR East,立川,odpt.Station:JR-East.ChuoRapid.Tachikawa;odpt.Station:JR-East.Nambu.Tachikawa;odpt.Station:JR-East.Ome.Tachikawa,Chuo Rapid Line;Nambu Line;Ome Line
+st_00185,Tokyo Tama Intercity Monorail,立川北,odpt.Station:TamaMonorail.TamaMonorail.TachikawaKita;odpt.Station:TamaMonorail.TamaMonorail.TachikawaMinami,Tama Monorail Line
+st_00186,Tokyo Metropolitan Bureau of Transportation,牛込柳町,odpt.Station:Toei.Oedo.UshigomeYanagicho,Oedo Line
+st_00187,Tokyo Metropolitan Bureau of Transportation,牛込神楽坂,odpt.Station:Toei.Oedo.UshigomeKagurazaka,Oedo Line
+st_00188,Tokyo Metro,末広町,odpt.Station:TokyoMetro.Ginza.Suehirocho,Ginza Line
+st_00189,JR East,飯田橋,odpt.Station:JR-East.ChuoSobuLocal.Iidabashi,Chuo-Sobu Local Line
+st_00189,Tokyo Metro,飯田橋,odpt.Station:TokyoMetro.Namboku.Iidabashi;odpt.Station:TokyoMetro.Tozai.Iidabashi;odpt.Station:TokyoMetro.Yurakucho.Iidabashi,Namboku Line;Tozai Line;Yurakucho Line
+st_00189,Tokyo Metropolitan Bureau of Transportation,飯田橋,odpt.Station:Toei.Oedo.Iidabashi,Oedo Line
+st_00190,Tokyo Metropolitan Bureau of Transportation,蔵前,odpt.Station:Toei.Asakusa.Kuramae;odpt.Station:Toei.Oedo.Kuramae,Asakusa Line;Oedo Line
+st_00191,Tokyo Metro,原木中山,odpt.Station:TokyoMetro.Tozai.BarakiNakayama,Tozai Line
+st_00192,JR East,水道橋,odpt.Station:JR-East.ChuoSobuLocal.Suidobashi,Chuo-Sobu Local Line
+st_00192,Tokyo Metropolitan Bureau of Transportation,水道橋,odpt.Station:Toei.Mita.Suidobashi,Mita Line
+st_00193,Tokyo Metro,神楽坂,odpt.Station:TokyoMetro.Tozai.Kagurazaka,Tozai Line
+st_00194,JR East,荻窪,odpt.Station:JR-East.ChuoSobuLocal.Ogikubo;odpt.Station:JR-East.ChuoRapid.Ogikubo,Chuo Rapid Line;Chuo-Sobu Local Line
+st_00194,Tokyo Metro,荻窪,odpt.Station:TokyoMetro.Marunouchi.Ogikubo,Marunouchi Line
+st_00195,Tokyo Metro,早稲田,odpt.Station:TokyoMetro.Tozai.Waseda,Tozai Line
+st_00196,JR East,中野,odpt.Station:JR-East.ChuoRapid.Nakano;odpt.Station:JR-East.ChuoSobuLocal.Nakano,Chuo Rapid Line;Chuo-Sobu Local Line
+st_00196,Tokyo Metro,中野,odpt.Station:TokyoMetro.Tozai.Nakano,Tozai Line
+st_00197,Tokyo Metropolitan Bureau of Transportation,篠崎,odpt.Station:Toei.Shinjuku.Shinozaki,Shinjuku Line
+st_00198,Tokyo Metro,湯島,odpt.Station:TokyoMetro.Chiyoda.Yushima,Chiyoda Line
+st_00199,Metropolitan Intercity Railway,新御徒町,odpt.Station:MIR.TsukubaExpress.ShinOkachimachi,Tsukuba Express Line
+st_00199,Tokyo Metropolitan Bureau of Transportation,新御徒町,odpt.Station:Toei.Oedo.ShinOkachimachi,Oedo Line
+st_00200,JR East,東中野,odpt.Station:JR-East.ChuoSobuLocal.HigashiNakano,Chuo-Sobu Local Line
+st_00200,Tokyo Metropolitan Bureau of Transportation,東中野,odpt.Station:Toei.Oedo.HigashiNakano,Oedo Line
+st_00201,JR East,西船橋,odpt.Station:JR-East.ChuoSobuLocal.NishiFunabashi;odpt.Station:JR-East.Keiyo.NishiFunabashi;odpt.Station:JR-East.Musashino.NishiFunabashi,Chuo-Sobu Local Line;Keiyo Line;Musashino Line
+st_00201,Tokyo Metro,西船橋,odpt.Station:TokyoMetro.Tozai.NishiFunabashi,Tozai Line
+st_00201,Toyo Rapid Railway,西船橋,odpt.Station:ToyoRapid.ToyoRapid.NishiFunabashi,Toyo Rapid Line
+st_00202,Tokyo Metro,本郷三丁目,odpt.Station:TokyoMetro.Marunouchi.HongoSanchome,Marunouchi Line
+st_00202,Tokyo Metropolitan Bureau of Transportation,本郷三丁目,odpt.Station:Toei.Oedo.HongoSanchome,Oedo Line
+st_00203,Tokyo Metro,西早稲田,odpt.Station:TokyoMetro.Fukutoshin.NishiWaseda,Fukutoshin Line
+st_00204,JR East,御徒町,odpt.Station:JR-East.KeihinTohokuNegishi.Okachimachi;odpt.Station:JR-East.Yamanote.Okachimachi,Keihin-Tohoku-Negishi Line;Yamanote Line
+st_00204,Tokyo Metro,上野広小路,odpt.Station:TokyoMetro.Ginza.UenoHirokoji;odpt.Station:TokyoMetro.Hibiya.NakaOkachimachi,Ginza Line;Hibiya Line
+st_00204,Tokyo Metropolitan Bureau of Transportation,上野御徒町,odpt.Station:Toei.Oedo.UenoOkachimachi,Oedo Line
+st_00205,Tokyo Metropolitan Bureau of Transportation,本所吾妻橋,odpt.Station:Toei.Asakusa.HonjoAzumabashi,Asakusa Line
+st_00206,Tobu Railway,浅草,odpt.Station:Tobu.TobuSkytree.Asakusa,Tobu Skytree Line
+st_00206,Tokyo Metro,浅草,odpt.Station:TokyoMetro.Ginza.Asakusa,Ginza Line
+st_00206,Tokyo Metropolitan Bureau of Transportation,浅草,odpt.Station:Toei.Asakusa.Asakusa,Asakusa Line
+st_00207,Tokyo Metro,江戸川橋,odpt.Station:TokyoMetro.Yurakucho.Edogawabashi,Yurakucho Line
+st_00208,Tokyo Metro,後楽園,odpt.Station:TokyoMetro.Marunouchi.Korakuen;odpt.Station:TokyoMetro.Namboku.Korakuen,Marunouchi Line;Namboku Line
+st_00208,Tokyo Metropolitan Bureau of Transportation,春日,odpt.Station:Toei.Mita.Kasuga;odpt.Station:Toei.Oedo.Kasuga,Mita Line;Oedo Line
+st_00209,Tokyo Metro,田原町,odpt.Station:TokyoMetro.Ginza.Tawaramachi,Ginza Line
+st_00210,Tokyo Tama Intercity Monorail,高松,odpt.Station:TamaMonorail.TamaMonorail.Takamatsu,Tama Monorail Line
+st_00211,Tokyo Metro,落合,odpt.Station:TokyoMetro.Tozai.Ochiai,Tozai Line
+st_00212,Keisei Electric Railway,押上,odpt.Station:Keisei.Oshiage.Oshiage,Oshiage Line
+st_00212,Tobu Railway,押上,odpt.Station:Tobu.TobuSkytreeBranch.Oshiage,Tobu Skytree Branch Line
+st_00212,Tokyo Metro,押上〈スカイツリー前〉,odpt.Station:TokyoMetro.Hanzomon.Oshiage,Hanzomon Line
+st_00212,Tokyo Metropolitan Bureau of Transportation,押上,odpt.Station:Toei.Asakusa.Oshiage,Asakusa Line
+st_00213,Tokyo Metro,稲荷町,odpt.Station:TokyoMetro.Ginza.Inaricho,Ginza Line
+st_00214,Tokyo Metropolitan Bureau of Transportation,早稲田,odpt.Station:Toei.Arakawa.Waseda,Tokyo Sakura Tram (Arakawa Line)
+st_00215,JR East,上野,odpt.Station:JR-East.JobanRapid.Ueno;odpt.Station:JR-East.KeihinTohokuNegishi.Ueno;odpt.Station:JR-East.Takasaki.Ueno;odpt.Station:JR-East.Utsunomiya.Ueno;odpt.Station:JR-East.Yamanote.Ueno;odpt.Station:JR-East.JoetsuShinkansen.Ueno;odpt.Station:JR-East.AkitaShinkansen.Ueno;odpt.Station:JR-East.HokurikuShinkansen.Ueno;odpt.Station:JR-East.TohokuShinkansen.Ueno;odpt.Station:JR-East.YamagataShinkansen.Ueno,Akita-Shinkansen;Hokuriku-Shinkansen;Joban Rapid Line;Joetsu-Shinkansen;Keihin-Tohoku-Negishi Line;Takasaki Line;Tohoku-Shinkansen;Utsunomiya Line;Yamagata-Shinkansen;Yamanote Line
+st_00215,Keisei Electric Railway,京成上野,odpt.Station:Keisei.Main.KeiseiUeno,Keisei Main Line
+st_00215,Tokyo Metro,上野,odpt.Station:TokyoMetro.Ginza.Ueno;odpt.Station:TokyoMetro.Hibiya.Ueno,Ginza Line;Hibiya Line
+st_00216,Tokyo Metropolitan Bureau of Transportation,面影橋,odpt.Station:Toei.Arakawa.Omokagebashi,Tokyo Sakura Tram (Arakawa Line)
+st_00217,JR East,高田馬場,odpt.Station:JR-East.Yamanote.Takadanobaba,Yamanote Line
+st_00217,Seibu Railway,高田馬場,odpt.Station:Seibu.Shinjuku.Takadanobaba,Shinjuku Line
+st_00217,Tokyo Metro,高田馬場,odpt.Station:TokyoMetro.Tozai.Takadanobaba,Tozai Line
+st_00218,Seibu Railway,中井,odpt.Station:Seibu.Shinjuku.Nakai,Shinjuku Line
+st_00218,Tokyo Metropolitan Bureau of Transportation,中井,odpt.Station:Toei.Oedo.Nakai,Oedo Line
+st_00219,Metropolitan Intercity Railway,浅草,odpt.Station:MIR.TsukubaExpress.Asakusa,Tsukuba Express Line
+st_00220,Tokyo Tama Intercity Monorail,立飛,odpt.Station:TamaMonorail.TamaMonorail.Tachihi,Tama Monorail Line
+st_00221,Tokyo Metropolitan Bureau of Transportation,学習院下,odpt.Station:Toei.Arakawa.Gakushuinshita,Tokyo Sakura Tram (Arakawa Line)
+st_00222,Tokyo Metro,茗荷谷,odpt.Station:TokyoMetro.Marunouchi.Myogadani,Marunouchi Line
+st_00223,Tokyo Metro,根津,odpt.Station:TokyoMetro.Chiyoda.Nezu,Chiyoda Line
+st_00224,Tokyo Metro,東大前,odpt.Station:TokyoMetro.Namboku.Todaimae,Namboku Line
+st_00225,Tokyo Tama Intercity Monorail,泉体育館,odpt.Station:TamaMonorail.TamaMonorail.IzumiTaiikukan,Tama Monorail Line
+st_00226,Tokyo Metro,護国寺,odpt.Station:TokyoMetro.Yurakucho.Gokokuji,Yurakucho Line
+st_00227,Tokyo Metro,入谷,odpt.Station:TokyoMetro.Hibiya.Iriya,Hibiya Line
+st_00228,Tokyo Metro,雑司が谷,odpt.Station:TokyoMetro.Fukutoshin.Zoshigaya,Fukutoshin Line
+st_00228,Tokyo Metropolitan Bureau of Transportation,鬼子母神前,odpt.Station:Toei.Arakawa.Kishibojimmae,Tokyo Sakura Tram (Arakawa Line)
+st_00229,Tokyo Metropolitan Bureau of Transportation,白山,odpt.Station:Toei.Mita.Hakusan,Mita Line
+st_00230,JR East,本八幡,odpt.Station:JR-East.ChuoSobuLocal.MotoYawata,Chuo-Sobu Local Line
+st_00230,Keisei Electric Railway,京成八幡,odpt.Station:Keisei.Main.KeiseiYawata,Keisei Main Line
+st_00230,Tokyo Metropolitan Bureau of Transportation,本八幡,odpt.Station:Toei.Shinjuku.Motoyawata,Shinjuku Line
+st_00231,Tokyo Tama Intercity Monorail,砂川七番,odpt.Station:TamaMonorail.TamaMonorail.SunagawaNanaban,Tama Monorail Line
+st_00232,Tokyo Metropolitan Bureau of Transportation,落合南長崎,odpt.Station:Toei.Oedo.OchiaiMinamiNagasaki,Oedo Line
+st_00233,Tokyo Metropolitan Bureau of Transportation,都電雑司ヶ谷,odpt.Station:Toei.Arakawa.TodenZoshigaya,Tokyo Sakura Tram (Arakawa Line)
+st_00234,Tokyo Metro,本駒込,odpt.Station:TokyoMetro.Namboku.HonKomagome,Namboku Line
+st_00235,Tokyo Metro,東池袋,odpt.Station:TokyoMetro.Yurakucho.HigashiIkebukuro,Yurakucho Line
+st_00235,Tokyo Metropolitan Bureau of Transportation,東池袋四丁目,odpt.Station:Toei.Arakawa.HigashiIkebukuroYonchome,Tokyo Sakura Tram (Arakawa Line)
+st_00236,Tokyo Metro,千駄木,odpt.Station:TokyoMetro.Chiyoda.Sendagi,Chiyoda Line
+st_00237,Tokyo Metro,新大塚,odpt.Station:TokyoMetro.Marunouchi.ShinOtsuka,Marunouchi Line
+st_00238,Tokyo Metropolitan Bureau of Transportation,千石,odpt.Station:Toei.Mita.Sengoku,Mita Line
+st_00239,Tokyo Metropolitan Bureau of Transportation,向原,odpt.Station:Toei.Arakawa.Mukohara,Tokyo Sakura Tram (Arakawa Line)
+st_00240,JR East,日暮里,odpt.Station:JR-East.JobanRapid.Nippori;odpt.Station:JR-East.KeihinTohokuNegishi.Nippori;odpt.Station:JR-East.Yamanote.Nippori,Joban Rapid Line;Keihin-Tohoku-Negishi Line;Yamanote Line
+st_00240,Keisei Electric Railway,日暮里,odpt.Station:Keisei.Main.Nippori,Keisei Main Line
+st_00240,Tokyo Metropolitan Bureau of Transportation,日暮里,odpt.Station:Toei.NipporiToneri.Nippori,Nippori-Toneri Liner
+st_00241,JR East,池袋,odpt.Station:JR-East.SaikyoKawagoe.Ikebukuro;odpt.Station:JR-East.ShonanShinjuku.Ikebukuro;odpt.Station:JR-East.Yamanote.Ikebukuro,Saikyo-Kawagoe Line;Shonan-Shinjuku Line;Yamanote Line
+st_00241,Seibu Railway,池袋,odpt.Station:Seibu.Ikebukuro.Ikebukuro,Ikebukuro Line
+st_00241,Tobu Railway,池袋,odpt.Station:Tobu.Tojo.Ikebukuro,Tojo Line
+st_00241,Tokyo Metro,池袋,odpt.Station:TokyoMetro.Fukutoshin.Ikebukuro;odpt.Station:TokyoMetro.Marunouchi.Ikebukuro;odpt.Station:TokyoMetro.Yurakucho.Ikebukuro,Fukutoshin Line;Marunouchi Line;Yurakucho Line
+st_00242,JR East,大塚,odpt.Station:JR-East.Yamanote.Otsuka,Yamanote Line
+st_00242,Tokyo Metropolitan Bureau of Transportation,大塚駅前,odpt.Station:Toei.Arakawa.OtsukaEkimae,Tokyo Sakura Tram (Arakawa Line)
+st_00243,Seibu Railway,玉川上水,odpt.Station:Seibu.Haijima.TamagawaJosui,Haijima Line
+st_00243,Tokyo Tama Intercity Monorail,玉川上水,odpt.Station:TamaMonorail.TamaMonorail.TamagawaJosui,Tama Monorail Line
+st_00244,Tokyo Metro,三ノ輪,odpt.Station:TokyoMetro.Hibiya.Minowa,Hibiya Line
+st_00244,Tokyo Metropolitan Bureau of Transportation,三ノ輪橋,odpt.Station:Toei.Arakawa.Minowabashi,Tokyo Sakura Tram (Arakawa Line)
+st_00245,Tokyo Metropolitan Bureau of Transportation,新江古田,odpt.Station:Toei.Oedo.ShinEgota,Oedo Line
+st_00246,Tokyo Metro,要町,odpt.Station:TokyoMetro.Fukutoshin.Kanamecho;odpt.Station:TokyoMetro.Yurakucho.Kanamecho,Fukutoshin Line;Yurakucho Line
+st_00247,JR East,南千住,odpt.Station:JR-East.JobanRapid.MinamiSenju,Joban Rapid Line
+st_00247,Metropolitan Intercity Railway,南千住,odpt.Station:MIR.TsukubaExpress.MinamiSenju,Tsukuba Express Line
+st_00247,Tokyo Metro,南千住,odpt.Station:TokyoMetro.Hibiya.MinamiSenju,Hibiya Line
+st_00248,JR East,西日暮里,odpt.Station:JR-East.KeihinTohokuNegishi.NishiNippori;odpt.Station:JR-East.Yamanote.NishiNippori,Keihin-Tohoku-Negishi Line;Yamanote Line
+st_00248,Tokyo Metro,西日暮里,odpt.Station:TokyoMetro.Chiyoda.NishiNippori,Chiyoda Line
+st_00248,Tokyo Metropolitan Bureau of Transportation,西日暮里,odpt.Station:Toei.NipporiToneri.NishiNippori,Nippori-Toneri Liner
+st_00249,Tokyo Metropolitan Bureau of Transportation,荒川一中前,odpt.Station:Toei.Arakawa.ArakawaItchumae,Tokyo Sakura Tram (Arakawa Line)
+st_00250,JR East,巣鴨,odpt.Station:JR-East.Yamanote.Sugamo,Yamanote Line
+st_00250,Tokyo Metropolitan Bureau of Transportation,巣鴨,odpt.Station:Toei.Mita.Sugamo,Mita Line
+st_00251,Tokyo Metropolitan Bureau of Transportation,荒川区役所前,odpt.Station:Toei.Arakawa.Arakawakuyakushomae,Tokyo Sakura Tram (Arakawa Line)
+st_00252,Tokyo Metropolitan Bureau of Transportation,巣鴨新田,odpt.Station:Toei.Arakawa.Sugamoshinden,Tokyo Sakura Tram (Arakawa Line)
+st_00253,JR East,駒込,odpt.Station:JR-East.Yamanote.Komagome,Yamanote Line
+st_00253,Tokyo Metro,駒込,odpt.Station:TokyoMetro.Namboku.Komagome,Namboku Line
+st_00254,Seibu Railway,練馬,odpt.Station:Seibu.Ikebukuro.Nerima;odpt.Station:Seibu.SeibuYurakucho.Nerima;odpt.Station:Seibu.Toshima.Nerima,Ikebukuro Line;Seibu Yurakucho Line;Toshima Line
+st_00254,Tokyo Metropolitan Bureau of Transportation,練馬,odpt.Station:Toei.Oedo.Nerima,Oedo Line
+st_00255,Tokyo Metro,千川,odpt.Station:TokyoMetro.Fukutoshin.Senkawa;odpt.Station:TokyoMetro.Yurakucho.Senkawa,Fukutoshin Line;Yurakucho Line
+st_00256,Tokyo Metropolitan Bureau of Transportation,荒川二丁目,odpt.Station:Toei.Arakawa.ArakawaNichome,Tokyo Sakura Tram (Arakawa Line)
+st_00257,Tokyo Tama Intercity Monorail,桜街道,odpt.Station:TamaMonorail.TamaMonorail.Sakurakaido,Tama Monorail Line
+st_00258,Tokyo Metropolitan Bureau of Transportation,庚申塚,odpt.Station:Toei.Arakawa.Koshinzuka,Tokyo Sakura Tram (Arakawa Line)
+st_00259,Tokyo Metropolitan Bureau of Transportation,新庚申塚,odpt.Station:Toei.Arakawa.ShinKoshinzuka;odpt.Station:Toei.Mita.NishiSugamo,Mita Line;Tokyo Sakura Tram (Arakawa Line)
+st_00260,Tokyo Metropolitan Bureau of Transportation,豊島園,odpt.Station:Toei.Oedo.Toshimaen,Oedo Line
+st_00261,Tokyo Metropolitan Bureau of Transportation,荒川七丁目,odpt.Station:Toei.Arakawa.ArakawaNanachome,Tokyo Sakura Tram (Arakawa Line)
+st_00262,Keisei Electric Railway,町屋,odpt.Station:Keisei.Main.Machiya,Keisei Main Line
+st_00262,Tokyo Metro,町屋,odpt.Station:TokyoMetro.Chiyoda.Machiya,Chiyoda Line
+st_00262,Tokyo Metropolitan Bureau of Transportation,町屋駅前,odpt.Station:Toei.Arakawa.MachiyaEkimae,Tokyo Sakura Tram (Arakawa Line)
+st_00263,Tokyo Metropolitan Bureau of Transportation,赤土小学校前,odpt.Station:Toei.NipporiToneri.AkadoShogakkomae,Nippori-Toneri Liner
+st_00264,Seibu Railway,小竹向原,odpt.Station:Seibu.SeibuYurakucho.KotakeMukaihara,Seibu Yurakucho Line
+st_00264,Tokyo Metro,小竹向原,odpt.Station:TokyoMetro.Fukutoshin.KotakeMukaihara;odpt.Station:TokyoMetro.Yurakucho.KotakeMukaihara,Fukutoshin Line;Yurakucho Line
+st_00265,Tokyo Metropolitan Bureau of Transportation,町屋二丁目,odpt.Station:Toei.Arakawa.MachiyaNichome,Tokyo Sakura Tram (Arakawa Line)
+st_00266,Tokyo Metropolitan Bureau of Transportation,西ヶ原四丁目,odpt.Station:Toei.Arakawa.NishigaharaYonchome,Tokyo Sakura Tram (Arakawa Line)
+st_00267,Tokyo Metropolitan Bureau of Transportation,東尾久三丁目,odpt.Station:Toei.Arakawa.HigashiOguSanchome,Tokyo Sakura Tram (Arakawa Line)
+st_00268,Tokyo Tama Intercity Monorail,上北台,odpt.Station:TamaMonorail.TamaMonorail.Kamikitadai,Tama Monorail Line
+st_00269,Tokyo Metro,西ケ原,odpt.Station:TokyoMetro.Namboku.Nishigahara,Namboku Line
+st_00270,Tokyo Metropolitan Bureau of Transportation,滝野川一丁目,odpt.Station:Toei.Arakawa.TakinogawaItchome,Tokyo Sakura Tram (Arakawa Line)
+st_00271,Tokyo Metropolitan Bureau of Transportation,熊野前,odpt.Station:Toei.Arakawa.Kumanomae;odpt.Station:Toei.NipporiToneri.Kumanomae,Nippori-Toneri Liner;Tokyo Sakura Tram (Arakawa Line)
+st_00272,JR East,板橋,odpt.Station:JR-East.SaikyoKawagoe.Itabashi,Saikyo-Kawagoe Line
+st_00272,Tokyo Metropolitan Bureau of Transportation,新板橋,odpt.Station:Toei.Mita.ShinItabashi,Mita Line
+st_00273,Tokyo Metro,氷川台,odpt.Station:TokyoMetro.Fukutoshin.Hikawadai;odpt.Station:TokyoMetro.Yurakucho.Hikawadai,Fukutoshin Line;Yurakucho Line
+st_00274,JR East,北千住,odpt.Station:JR-East.JobanRapid.KitaSenju,Joban Rapid Line
+st_00274,Metropolitan Intercity Railway,北千住,odpt.Station:MIR.TsukubaExpress.KitaSenju,Tsukuba Express Line
+st_00274,Tobu Railway,北千住,odpt.Station:Tobu.TobuSkytree.KitaSenju,Tobu Skytree Line
+st_00274,Tokyo Metro,北千住,odpt.Station:TokyoMetro.Chiyoda.KitaSenju;odpt.Station:TokyoMetro.Hibiya.KitaSenju,Chiyoda Line;Hibiya Line
+st_00275,Tokyo Metropolitan Bureau of Transportation,宮ノ前,odpt.Station:Toei.Arakawa.Miyanomae,Tokyo Sakura Tram (Arakawa Line)
+st_00276,Tokyo Metropolitan Bureau of Transportation,飛鳥山,odpt.Station:Toei.Arakawa.Asukayama,Tokyo Sakura Tram (Arakawa Line)
+st_00277,Tokyo Metropolitan Bureau of Transportation,小台,odpt.Station:Toei.Arakawa.Odai,Tokyo Sakura Tram (Arakawa Line)
+st_00278,Tokyo Metropolitan Bureau of Transportation,荒川遊園地前,odpt.Station:Toei.Arakawa.ArakawaYuenchimae,Tokyo Sakura Tram (Arakawa Line)
+st_00279,Tokyo Metropolitan Bureau of Transportation,栄町,odpt.Station:Toei.Arakawa.Sakaecho,Tokyo Sakura Tram (Arakawa Line)
+st_00280,Tokyo Metropolitan Bureau of Transportation,荒川車庫前,odpt.Station:Toei.Arakawa.ArakawaShakomae,Tokyo Sakura Tram (Arakawa Line)
+st_00281,Tokyo Metropolitan Bureau of Transportation,梶原,odpt.Station:Toei.Arakawa.Kajiwara,Tokyo Sakura Tram (Arakawa Line)
+st_00282,Tokyo Metropolitan Bureau of Transportation,板橋区役所前,odpt.Station:Toei.Mita.ItabashiKuyakushomae,Mita Line
+st_00283,Tokyo Metropolitan Bureau of Transportation,練馬春日町,odpt.Station:Toei.Oedo.NerimaKasugacho,Oedo Line
+st_00284,JR East,王子,odpt.Station:JR-East.KeihinTohokuNegishi.Oji,Keihin-Tohoku-Negishi Line
+st_00284,Tokyo Metro,王子,odpt.Station:TokyoMetro.Namboku.Oji,Namboku Line
+st_00284,Tokyo Metropolitan Bureau of Transportation,王子駅前,odpt.Station:Toei.Arakawa.OjiEkimae,Tokyo Sakura Tram (Arakawa Line)
+st_00285,Tokyo Metropolitan Bureau of Transportation,足立小台,odpt.Station:Toei.NipporiToneri.AdachiOdai,Nippori-Toneri Liner
+st_00286,Tokyo Metro,平和台,odpt.Station:TokyoMetro.Fukutoshin.Heiwadai;odpt.Station:TokyoMetro.Yurakucho.Heiwadai,Fukutoshin Line;Yurakucho Line
+st_00287,Tokyo Metropolitan Bureau of Transportation,光が丘,odpt.Station:Toei.Oedo.Hikarigaoka,Oedo Line
+st_00288,Tokyo Metropolitan Bureau of Transportation,板橋本町,odpt.Station:Toei.Mita.Itabashihoncho,Mita Line
+st_00289,JR East,綾瀬,odpt.Station:JR-East.JobanLocal.Ayase,Joban Local Line
+st_00289,Tokyo Metro,綾瀬,odpt.Station:TokyoMetro.Chiyoda.Ayase,Chiyoda Line
+st_00290,Tokyo Metropolitan Bureau of Transportation,扇大橋,odpt.Station:Toei.NipporiToneri.OgiOhashi,Nippori-Toneri Liner
+st_00291,Tokyo Metro,王子神谷,odpt.Station:TokyoMetro.Namboku.OjiKamiya,Namboku Line
+st_00292,Tokyo Metropolitan Bureau of Transportation,高野,odpt.Station:Toei.NipporiToneri.Koya,Nippori-Toneri Liner
+st_00293,Tokyo Metropolitan Bureau of Transportation,本蓮沼,odpt.Station:Toei.Mita.Motohasunuma,Mita Line
+st_00294,Tokyo Metro,地下鉄赤塚,odpt.Station:TokyoMetro.Fukutoshin.ChikatetsuAkatsuka;odpt.Station:TokyoMetro.Yurakucho.ChikatetsuAkatsuka,Fukutoshin Line;Yurakucho Line
+st_00295,Metropolitan Intercity Railway,青井,odpt.Station:MIR.TsukubaExpress.Aoi,Tsukuba Express Line
+st_00296,Tokyo Metropolitan Bureau of Transportation,江北,odpt.Station:Toei.NipporiToneri.Kohoku,Nippori-Toneri Liner
+st_00297,Tokyo Metropolitan Bureau of Transportation,志村坂上,odpt.Station:Toei.Mita.ShimuraSakaue,Mita Line
+st_00298,Tokyo Metro,地下鉄成増,odpt.Station:TokyoMetro.Fukutoshin.ChikatetsuNarimasu;odpt.Station:TokyoMetro.Yurakucho.ChikatetsuNarimasu,Fukutoshin Line;Yurakucho Line
+st_00299,Tokyo Metro,北綾瀬,odpt.Station:TokyoMetro.Chiyoda.KitaAyase,Chiyoda Line
+st_00300,Tokyo Metropolitan Bureau of Transportation,志村三丁目,odpt.Station:Toei.Mita.ShimuraSanchome,Mita Line
+st_00301,Tokyo Metro,志茂,odpt.Station:TokyoMetro.Namboku.Shimo,Namboku Line
+st_00302,Tokyo Metropolitan Bureau of Transportation,西新井大師西,odpt.Station:Toei.NipporiToneri.NishiaraidaishiNishi,Nippori-Toneri Liner
+st_00303,Saitama Railway,赤羽岩淵,odpt.Station:SaitamaRailway.SaitamaRailway.AkabaneIwabuchi,Saitama Railway Line
+st_00303,Tokyo Metro,赤羽岩淵,odpt.Station:TokyoMetro.Namboku.AkabaneIwabuchi,Namboku Line
+st_00304,Tokyo Metropolitan Bureau of Transportation,蓮根,odpt.Station:Toei.Mita.Hasune,Mita Line
+st_00305,Metropolitan Intercity Railway,六町,odpt.Station:MIR.TsukubaExpress.Rokucho,Tsukuba Express Line
+st_00306,Tokyo Metropolitan Bureau of Transportation,西台,odpt.Station:Toei.Mita.Nishidai,Mita Line
+st_00307,Tobu Railway,和光市,odpt.Station:Tobu.Tojo.Wakoshi,Tojo Line
+st_00307,Tokyo Metro,和光市,odpt.Station:TokyoMetro.Fukutoshin.Wakoshi;odpt.Station:TokyoMetro.Yurakucho.Wakoshi,Fukutoshin Line;Yurakucho Line
+st_00308,Tokyo Metropolitan Bureau of Transportation,谷在家,odpt.Station:Toei.NipporiToneri.Yazaike,Nippori-Toneri Liner
+st_00309,Tokyo Metropolitan Bureau of Transportation,高島平,odpt.Station:Toei.Mita.Takashimadaira,Mita Line
+st_00310,Tokyo Metropolitan Bureau of Transportation,新高島平,odpt.Station:Toei.Mita.ShinTakashimadaira,Mita Line
+st_00311,Tokyo Metropolitan Bureau of Transportation,西高島平,odpt.Station:Toei.Mita.NishiTakashimadaira,Mita Line
+st_00312,Tokyo Metropolitan Bureau of Transportation,舎人公園,odpt.Station:Toei.NipporiToneri.ToneriKoen,Nippori-Toneri Liner
+st_00313,Tokyo Metropolitan Bureau of Transportation,舎人,odpt.Station:Toei.NipporiToneri.Toneri,Nippori-Toneri Liner
+st_00314,Metropolitan Intercity Railway,八潮,odpt.Station:MIR.TsukubaExpress.Yashio,Tsukuba Express Line
+st_00315,Tokyo Metropolitan Bureau of Transportation,見沼代親水公園,odpt.Station:Toei.NipporiToneri.MinumadaiShinsuikoen,Nippori-Toneri Liner
+st_00316,Metropolitan Intercity Railway,三郷中央,odpt.Station:MIR.TsukubaExpress.MisatoChuo,Tsukuba Express Line
+st_00317,JR East,南流山,odpt.Station:JR-East.Musashino.MinamiNagareyama,Musashino Line
+st_00317,Metropolitan Intercity Railway,南流山,odpt.Station:MIR.TsukubaExpress.MinamiNagareyama,Tsukuba Express Line
+st_00318,Metropolitan Intercity Railway,流山セントラルパーク,odpt.Station:MIR.TsukubaExpress.NagareyamaCentralPark,Tsukuba Express Line
+st_00319,Metropolitan Intercity Railway,流山おおたかの森,odpt.Station:MIR.TsukubaExpress.NagareyamaOtakanomori,Tsukuba Express Line
+st_00319,Tobu Railway,流山おおたかの森,odpt.Station:Tobu.TobuUrbanPark.NagareyamaOtakanomori,Tobu Urban Park Line
+st_00320,Metropolitan Intercity Railway,柏の葉キャンパス,odpt.Station:MIR.TsukubaExpress.KashiwanohaCampus,Tsukuba Express Line
+st_00321,Metropolitan Intercity Railway,柏たなか,odpt.Station:MIR.TsukubaExpress.KashiwaTanaka,Tsukuba Express Line
+st_00322,Kanto Railway,守谷,odpt.Station:KantoRailway.Joso.Moriya,Joso Line
+st_00322,Metropolitan Intercity Railway,守谷,odpt.Station:MIR.TsukubaExpress.Moriya,Tsukuba Express Line
+st_00323,Metropolitan Intercity Railway,みらい平,odpt.Station:MIR.TsukubaExpress.Miraidaira,Tsukuba Express Line
+st_00324,Metropolitan Intercity Railway,みどりの,odpt.Station:MIR.TsukubaExpress.Midorino,Tsukuba Express Line
+st_00325,Metropolitan Intercity Railway,万博記念公園,odpt.Station:MIR.TsukubaExpress.BampakuKinenKoen,Tsukuba Express Line
+st_00326,Metropolitan Intercity Railway,研究学園,odpt.Station:MIR.TsukubaExpress.KenkyuGakuen,Tsukuba Express Line
+st_00327,Metropolitan Intercity Railway,つくば,odpt.Station:MIR.TsukubaExpress.Tsukuba,Tsukuba Express Line
+st_00328,Sagami Railway,かしわ台,odpt.Station:Sotetsu.Main.Kashiwadai,Sotetsu Main Line
+st_00329,Keio Corporation,つつじヶ丘,odpt.Station:Keio.Keio.Tsutsujigaoka,Keio Line
+st_00330,Keikyu Corporation,三崎口,odpt.Station:Keikyu.Kurihama.Misakiguchi,Kurihama Line
+st_00331,Keikyu Corporation,三浦海岸,odpt.Station:Keikyu.Kurihama.Miurakaigan,Kurihama Line
+st_00332,JR East,三鷹,odpt.Station:JR-East.ChuoSobuLocal.Mitaka,Chuo-Sobu Local Line
+st_00333,Tokyu Railways,中央林間,odpt.Station:Tokyu.DenEnToshi.ChuoRinkan,Den-En-Toshi Line
+st_00334,Tobu Railway,久喜,odpt.Station:Tobu.Isesaki.Kuki,Isesaki Line
+st_00335,Sagami Railway,二俣川,odpt.Station:Sotetsu.Main.Futamatagawa,Sotetsu Main Line
+st_00336,Tokyu Railways,二子玉川,odpt.Station:Tokyu.DenEnToshi.FutakoTamagawa,Den-En-Toshi Line
+st_00337,Keikyu Corporation,京急久里浜,odpt.Station:Keikyu.Kurihama.KeikyuKurihama,Kurihama Line
+st_00338,Keikyu Corporation,京急川崎,odpt.Station:Keikyu.Main.KeikyuKawasaki,Keikyu Main Line
+st_00339,Keikyu Corporation,京急蒲田,odpt.Station:Keikyu.Main.KeikyuKamata,Keikyu Main Line
+st_00340,Keisei Electric Railway,京成佐倉,odpt.Station:Keisei.Main.KeiseiSakura,Keisei Main Line
+st_00341,Keisei Electric Railway,京成成田,odpt.Station:Keisei.Main.KeiseiNarita,Keisei Main Line
+st_00342,Keisei Electric Railway,京成西船,odpt.Station:Keisei.Main.KeiseiNishifuna,Keisei Main Line
+st_00343,Keisei Electric Railway,京成高砂,odpt.Station:Keisei.Main.KeiseiTakasago,Keisei Main Line
+st_00344,Keio Corporation,京王八王子,odpt.Station:Keio.Keio.KeioHachioji,Keio Line
+st_00345,Odakyu Electric Railway,伊勢原,odpt.Station:Odakyu.Odawara.Isehara,Odawara Line
+st_00346,Seibu Railway,保谷,odpt.Station:Seibu.Ikebukuro.Hoya,Ikebukuro Line
+st_00347,Tokyu Railways,元住吉,odpt.Station:Tokyu.Meguro.Motosumiyoshi,Meguro Line
+st_00348,Tokyu Railways,元住吉,odpt.Station:Tokyu.Toyoko.Motosumiyoshi,Toyoko Line
+st_00349,Yokohama Minatomirai Railway,元町・中華街,odpt.Station:Minatomirai.Minatomirai.MotomachiChukagai,Minatomirai Line
+st_00350,Toyo Rapid Railway,八千代緑が丘,odpt.Station:ToyoRapid.ToyoRapid.YachiyoMidorigaoka,Toyo Rapid Line
+st_00351,Keio Corporation,八幡山,odpt.Station:Keio.Keio.HachimanYama,Keio Line
+st_00352,Tobu Railway,北春日部,odpt.Station:Tobu.TobuSkytree.KitaKasukabe,Tobu Skytree Line
+st_00353,Tobu Railway,北越谷,odpt.Station:Tobu.TobuSkytree.KitaKoshigaya,Tobu Skytree Line
+st_00354,Tobu Railway,南栗橋,odpt.Station:Tobu.Nikko.MinamiKurihashi,Nikko Line
+st_00355,Hokuso Railway,印旛日本医大,odpt.Station:Hokuso.Hokuso.ImbaNihonIdai,Hokuso Line
+st_00356,Hokuso Railway,印西牧の原,odpt.Station:Hokuso.Hokuso.InzaiMakinohara,Hokuso Line
+st_00357,JR East,取手,odpt.Station:JR-East.JobanLocal.Toride,Joban Local Line
+st_00358,Odakyu Electric Railway,向ヶ丘遊園,odpt.Station:Odakyu.Odawara.MukogaokaYuen,Odawara Line
+st_00359,Keikyu Corporation,品川,odpt.Station:Keikyu.Main.Shinagawa,Keikyu Main Line
+st_00360,Odakyu Electric Railway,唐木田,odpt.Station:Odakyu.Tama.Karakida,Tama Line
+st_00361,Sagami Railway,大和,odpt.Station:Sotetsu.Main.Yamato,Sotetsu Main Line
+st_00362,JR East,大宮,odpt.Station:JR-East.SaikyoKawagoe.Omiya,Saikyo-Kawagoe Line
+st_00363,Tokyu Railways,大岡山,odpt.Station:Tokyu.Meguro.Ookayama,Meguro Line
+st_00364,Tokyu Railways,奥沢,odpt.Station:Tokyu.Meguro.Okusawa,Meguro Line
+st_00365,Keisei Electric Railway,宗吾参道,odpt.Station:Keisei.Main.Sogosando,Keisei Main Line
+st_00366,Tobu Railway,小川町,odpt.Station:Tobu.Tojo.Ogawamachi,Tojo Line
+st_00367,Seibu Railway,小手指,odpt.Station:Seibu.Ikebukuro.Kotesashi,Ikebukuro Line
+st_00368,JR East,川越,odpt.Station:JR-East.SaikyoKawagoe.Kawagoe,Saikyo-Kawagoe Line
+st_00369,Tobu Railway,川越市,odpt.Station:Tobu.Tojo.Kawagoeshi,Tojo Line
+st_00370,Keio Corporation,府中競馬正門前,odpt.Station:Keio.Keibajo.FuchukeibaSeimommae,Keibajo Line
+st_00371,Tobu Railway,志木,odpt.Station:Tobu.Tojo.Shiki,Tojo Line
+st_00372,Odakyu Electric Railway,成城学園前,odpt.Station:Odakyu.Odawara.SeijogakuenMae,Odawara Line
+st_00373,Keisei Electric Railway,成田空港,odpt.Station:Keisei.Main.NaritaAirportTerminal1,Keisei Main Line
+st_00374,Keisei Electric Railway,成田空港,odpt.Station:Keisei.NaritaSkyAccess.NaritaAirportTerminal1,Narita Sky Access Line
+st_00375,JR East,我孫子,odpt.Station:JR-East.JobanLocal.Abiko,Joban Local Line
+st_00376,Seibu Railway,所沢,odpt.Station:Seibu.Ikebukuro.Tokorozawa,Ikebukuro Line
+st_00377,JR East,指扇,odpt.Station:JR-East.SaikyoKawagoe.Sashiogi,Saikyo-Kawagoe Line
+st_00378,Odakyu Electric Railway,新百合ヶ丘,odpt.Station:Odakyu.Odawara.ShinYurigaoka,Odawara Line
+st_00379,Odakyu Electric Railway,本厚木,odpt.Station:Odakyu.Odawara.HonAtsugi,Odawara Line
+st_00380,Tobu Railway,東武動物公園,odpt.Station:Tobu.TobuSkytree.TobuDobutsuKoen,Tobu Skytree Line
+st_00381,Toyo Rapid Railway,東葉勝田台,odpt.Station:ToyoRapid.ToyoRapid.ToyoKatsutadai,Toyo Rapid Line
+st_00382,JR East,松戸,odpt.Station:JR-East.JobanLocal.Matsudo,Joban Local Line
+st_00383,JR East,柏,odpt.Station:JR-East.JobanLocal.Kashiwa,Joban Local Line
+st_00384,Keio Corporation,桜上水,odpt.Station:Keio.Keio.Sakurajosui,Keio Line
+st_00385,Tobu Railway,森林公園,odpt.Station:Tobu.Tojo.ShinrinKoen,Tojo Line
+st_00386,Keio Corporation,橋本,odpt.Station:Keio.Sagamihara.Hashimoto,Sagamihara Line
+st_00387,Tokyu Railways,武蔵小山,odpt.Station:Tokyu.Meguro.MusashiKoyama,Meguro Line
+st_00388,Tokyu Railways,武蔵小杉,odpt.Station:Tokyu.Meguro.MusashiKosugi,Meguro Line
+st_00389,Tokyu Railways,武蔵小杉,odpt.Station:Tokyu.Toyoko.MusashiKosugi,Toyoko Line
+st_00390,JR East,武蔵浦和,odpt.Station:JR-East.SaikyoKawagoe.MusashiUrawa,Saikyo-Kawagoe Line
+st_00391,JR East,津田沼,odpt.Station:JR-East.ChuoSobuLocal.Tsudanuma,Chuo-Sobu Local Line
+st_00392,Saitama Railway,浦和美園,odpt.Station:SaitamaRailway.SaitamaRailway.UrawaMisono,Saitama Railway Line
+st_00393,Keikyu Corporation,浦賀,odpt.Station:Keikyu.Main.Uraga,Keikyu Main Line
+st_00394,Sagami Railway,海老名,odpt.Station:Sotetsu.Main.Ebina,Sotetsu Main Line
+st_00395,Odakyu Electric Railway,海老名,odpt.Station:Odakyu.Odawara.Ebina,Odawara Line
+st_00396,Seibu Railway,清瀬,odpt.Station:Seibu.Ikebukuro.Kiyose,Ikebukuro Line
+st_00397,Odakyu Electric Railway,町田,odpt.Station:Odakyu.Odawara.Machida,Odawara Line
+st_00398,Odakyu Electric Railway,相模大野,odpt.Station:Odakyu.Odawara.SagamiOno,Odawara Line
+st_00399,Seibu Railway,石神井公園,odpt.Station:Seibu.Ikebukuro.ShakujiiKoen,Ikebukuro Line
+st_00400,Keikyu Corporation,神奈川新町,odpt.Station:Keikyu.Main.KanagawaShimmachi,Keikyu Main Line
+st_00401,Tobu Railway,竹ノ塚,odpt.Station:Tobu.TobuSkytree.Takenotsuka,Tobu Skytree Line
+st_00402,Keio Corporation,笹塚,odpt.Station:Keio.KeioNew.Sasazuka,Keio New Line
+st_00403,Odakyu Hakone,箱根湯本,odpt.Station:OdakyuHakone.HakoneTozan.HakoneYumoto,Hakone-Tozan Line
+st_00404,Keikyu Corporation,羽田空港第１・第２ターミナル,odpt.Station:Keikyu.Airport.HanedaAirportTerminal1and2,Airport Line
+st_00405,Tokyu Railways,自由が丘,odpt.Station:Tokyu.Toyoko.Jiyugaoka,Toyoko Line
+st_00406,Shibayama Railway,芝山千代田,odpt.Station:Shibayama.Shibayama.ShibayamaChiyoda,Shibayama Line
+st_00407,Keio Corporation,若葉台,odpt.Station:Keio.Sagamihara.Wakabadai,Sagamihara Line
+st_00408,Tobu Railway,草加,odpt.Station:Tobu.TobuSkytree.Soka,Tobu Skytree Line
+st_00409,Tokyu Railways,菊名,odpt.Station:Tokyu.Toyoko.Kikuna,Toyoko Line
+st_00410,Seibu Railway,西所沢,odpt.Station:Seibu.Ikebukuro.NishiTokorozawa,Ikebukuro Line
+st_00411,Seibu Railway,西武球場前,odpt.Station:Seibu.Sayama.SeibukyujoMae,Sayama Line
+st_00412,Seibu Railway,西武秩父,odpt.Station:Seibu.SeibuChichibu.SeibuChichibu,Seibu Chichibu Line
+st_00413,Sagami Railway,西谷,odpt.Station:Sotetsu.SotetsuShinYokohama.Nishiya,Sotetsu Shin-Yokohama Line
+st_00414,Keio Corporation,調布,odpt.Station:Keio.Keio.Chofu,Keio Line
+st_00415,Seibu Railway,豊島園,odpt.Station:Seibu.Toshima.Toshimaen,Toshima Line
+st_00416,JR East,赤羽,odpt.Station:JR-East.SaikyoKawagoe.Akabane,Saikyo-Kawagoe Line
+st_00417,Keikyu Corporation,逗子・葉山,odpt.Station:Keikyu.Zushi.ZushiHayama,Zushi Line
+st_00418,Keikyu Corporation,金沢文庫,odpt.Station:Keikyu.Main.KanazawaBunko,Keikyu Main Line
+st_00419,Tokyu Railways,長津田,odpt.Station:Tokyu.DenEnToshi.Nagatsuta,Den-En-Toshi Line
+st_00420,Keisei Electric Railway,青砥,odpt.Station:Keisei.Oshiage.Aoto,Oshiage Line
+st_00421,Seibu Railway,飯能,odpt.Station:Seibu.Ikebukuro.Hanno,Ikebukuro Line
+st_00422,Keio Corporation,高尾,odpt.Station:Keio.Takao.Takao,Takao Line
+st_00423,Keio Corporation,高尾山口,odpt.Station:Keio.Takao.Takaosanguchi,Takao Line
+st_00424,Saitama Railway,鳩ヶ谷,odpt.Station:SaitamaRailway.SaitamaRailway.Hatogaya,Saitama Railway Line
+st_00425,Tokyu Railways,鷺沼,odpt.Station:Tokyu.DenEnToshi.Saginuma,Den-En-Toshi Line

@@ -1,0 +1,426 @@
+station_id,name,name_ja,name_source,lat,lng,pref,operators,merge_confidence,member_count
+st_00001,Shonandai,湘南台,odpt,35.396565,139.466502,Kanagawa,"Odakyu Electric Railway;Sagami Railway;Transportation Bureau, City of Yokohama",high,3
+st_00002,Totsuka,戸塚,odpt,35.401142,139.535125,Kanagawa,"JR East;Transportation Bureau, City of Yokohama",high,4
+st_00003,Konan-Chuo,港南中央,odpt,35.401317,139.591578,Kanagawa,"Transportation Bureau, City of Yokohama",single,1
+st_00004,Kaminagaya,上永谷,odpt,35.401456,139.573079,Kanagawa,"Transportation Bureau, City of Yokohama",single,1
+st_00005,Maioka,舞岡,odpt,35.402538,139.551498,Kanagawa,"Transportation Bureau, City of Yokohama",single,1
+st_00006,Shimonagaya,下永谷,odpt,35.402844,139.559275,Kanagawa,"Transportation Bureau, City of Yokohama",single,1
+st_00007,Shimoiida,下飯田,odpt,35.403362,139.482969,Kanagawa,"Transportation Bureau, City of Yokohama",single,1
+st_00008,Odoriba,踊場,odpt,35.405704,139.518501,Kanagawa,"Transportation Bureau, City of Yokohama",single,1
+st_00009,Kamiooka,上大岡,odpt,35.408451,139.595875,Kanagawa,"Keikyu Corporation;Transportation Bureau, City of Yokohama",high,2
+st_00010,Nakada,中田,odpt,35.411199,139.511324,Kanagawa,"Transportation Bureau, City of Yokohama",single,1
+st_00011,Tateba,立場,odpt,35.414230,139.500280,Kanagawa,"Transportation Bureau, City of Yokohama",single,1
+st_00012,Gumyoji,弘明寺,odpt,35.423152,139.602039,Kanagawa,"Transportation Bureau, City of Yokohama",single,1
+st_00013,Maita,蒔田,odpt,35.430203,139.610464,Kanagawa,"Transportation Bureau, City of Yokohama",single,1
+st_00014,Yoshinocho,吉野町,odpt,35.435424,139.618880,Kanagawa,"Transportation Bureau, City of Yokohama",single,1
+st_00015,Bandobashi,阪東橋,odpt,35.437646,139.625296,Kanagawa,"Transportation Bureau, City of Yokohama",single,1
+st_00016,Isezaki-Chojamachi,伊勢佐木長者町,odpt,35.441008,139.632601,Kanagawa,"Transportation Bureau, City of Yokohama",single,1
+st_00017,Kannai,関内,odpt,35.445714,139.635978,Kanagawa,"JR East;Transportation Bureau, City of Yokohama",high,2
+st_00018,Sakuragicho,桜木町,odpt,35.449761,139.630626,Kanagawa,"JR East;Transportation Bureau, City of Yokohama",high,2
+st_00019,Takashimacho,高島町,odpt,35.458945,139.623477,Kanagawa,"Transportation Bureau, City of Yokohama",single,1
+st_00020,Yokohama,横浜,odpt,35.465624,139.619948,Kanagawa,"JR East;Keikyu Corporation;Sagami Railway;Tokyu Railways;Transportation Bureau, City of Yokohama;Yokohama Minatomirai Railway",high,9
+st_00021,Mitsuzawa-kamicho,三ツ沢上町,odpt,35.476420,139.605408,Kanagawa,"Transportation Bureau, City of Yokohama",single,1
+st_00022,Mitsuzawa-shimocho,三ツ沢下町,odpt,35.476517,139.615042,Kanagawa,"Transportation Bureau, City of Yokohama",single,1
+st_00023,Katakuracho,片倉町,odpt,35.489974,139.606518,Kanagawa,"Transportation Bureau, City of Yokohama",single,1
+st_00024,Kishine-koen,岸根公園,odpt,35.495556,139.616656,Kanagawa,"Transportation Bureau, City of Yokohama",single,1
+st_00025,Shin-Yokohama,新横浜,odpt,35.508876,139.617318,Kanagawa,"JR Central;JR East;Sagami Railway;Tokyu Railways;Transportation Bureau, City of Yokohama",high,5
+st_00026,Nakayama,中山,odpt,35.515143,139.540439,Kanagawa,"JR East;Transportation Bureau, City of Yokohama",high,2
+st_00027,Kita-Shin-Yokohama,北新横浜,odpt,35.519237,139.612816,Kanagawa,"Transportation Bureau, City of Yokohama",single,1
+st_00028,Nippa,新羽,odpt,35.527081,139.612377,Kanagawa,"Transportation Bureau, City of Yokohama",single,1
+st_00029,Kawawacho,川和町,odpt,35.528382,139.549265,Kanagawa,"Transportation Bureau, City of Yokohama",single,1
+st_00030,Nakamachidai,仲町台,odpt,35.535230,139.589828,Kanagawa,"Transportation Bureau, City of Yokohama",single,1
+st_00031,Tsuzuki-fureainooka,都筑ふれあいの丘,odpt,35.536637,139.561611,Kanagawa,"Transportation Bureau, City of Yokohama",single,1
+st_00032,Center Minami,センター南,odpt,35.545633,139.574713,Kanagawa,"Transportation Bureau, City of Yokohama",high,2
+st_00033,Takata,高田,odpt,35.549594,139.620231,Kanagawa,"Transportation Bureau, City of Yokohama",single,1
+st_00034,Hiyoshi-Honcho,日吉本町,odpt,35.549961,139.633413,Kanagawa,"Transportation Bureau, City of Yokohama",single,1
+st_00035,Hiyoshi,日吉,odpt,35.553207,139.647449,Kanagawa,"Tokyu Railways;Transportation Bureau, City of Yokohama",high,4
+st_00036,Center Kita,センター北,odpt,35.553383,139.579045,Kanagawa,"Transportation Bureau, City of Yokohama",high,2
+st_00037,Higashi-Yamata,東山田,odpt,35.554184,139.604928,Kanagawa,"Transportation Bureau, City of Yokohama",single,1
+st_00038,Kita-Yamata,北山田,odpt,35.560950,139.592827,Kanagawa,"Transportation Bureau, City of Yokohama",single,1
+st_00039,Nakagawa,中川,odpt,35.562659,139.570296,Kanagawa,"Transportation Bureau, City of Yokohama",single,1
+st_00040,Azamino,あざみ野,odpt,35.568022,139.553876,Kanagawa,"Tokyu Railways;Transportation Bureau, City of Yokohama",high,2
+st_00041,Nishi-magome,西馬込,odpt,35.587050,139.706086,Kanagawa,Tokyo Metropolitan Bureau of Transportation,single,1
+st_00042,Magome,馬込,odpt,35.596773,139.711884,Kanagawa,Tokyo Metropolitan Bureau of Transportation,single,1
+st_00043,Nakanobu,中延,odpt,35.605274,139.713645,Tokyo,Tokyo Metropolitan Bureau of Transportation;Tokyu Railways,high,2
+st_00044,Oimachi,大井町,odpt,35.607410,139.734740,Tokyo,JR East;Tokyo Waterfront Area Rapid Transit;Tokyu Railways,high,3
+st_00045,Shinagawa Seaside,品川シーサイド,odpt,35.608970,139.749670,Tokyo,Tokyo Waterfront Area Rapid Transit,single,1
+st_00046,Togoshi,戸越,odpt,35.614421,139.716315,Tokyo,Tokyo Metropolitan Bureau of Transportation;Tokyu Railways,high,2
+st_00047,Telecom Center,テレコムセンター,odpt,35.617560,139.779390,Tokyo,Yurikamome,single,1
+st_00048,Osaki,大崎,odpt,35.620020,139.728200,Tokyo,JR East;Tokyo Waterfront Area Rapid Transit,high,5
+st_00049,Tennozu Isle,天王洲アイル,odpt,35.620380,139.750840,Tokyo,Tokyo Monorail;Tokyo Waterfront Area Rapid Transit,high,2
+st_00050,Tokyo International Cruise Terminal,東京国際クルーズターミナル,odpt,35.621350,139.773090,Tokyo,Yurikamome,single,1
+st_00051,Keio-Tama Center,京王多摩センター,odpt,35.623900,139.422800,Tokyo,Keio Corporation;Odakyu Electric Railway;Tokyo Tama Intercity Monorail,high,3
+st_00052,Aomi,青海,odpt,35.624790,139.781310,Tokyo,Yurikamome,single,1
+st_00053,Daiba,台場,odpt,35.625910,139.771420,Tokyo,Yurikamome,single,1
+st_00054,Gotanda,五反田,odpt,35.626878,139.723965,Tokyo,JR East;Tokyo Metropolitan Bureau of Transportation;Tokyu Railways,high,3
+st_00055,Tokyo Teleport,東京テレポート,odpt,35.627540,139.778850,Tokyo,Tokyo Waterfront Area Rapid Transit,single,1
+st_00056,Odaiba-kaihinkōen,お台場海浜公園,odpt,35.629900,139.778780,Tokyo,Yurikamome,single,1
+st_00057,Tokyo Big Sight,東京ビッグサイト,odpt,35.630250,139.791340,Tokyo,Yurikamome,single,1
+st_00058,Takanawadai,高輪台,odpt,35.631751,139.730384,Tokyo,Tokyo Metropolitan Bureau of Transportation,single,1
+st_00059,Matsugaya,松が谷,odpt,35.631800,139.422000,Tokyo,Tokyo Tama Intercity Monorail,single,1
+st_00060,Meguro,目黒,odpt,35.633060,139.715552,Tokyo,JR East;Tokyo Metro;Tokyo Metropolitan Bureau of Transportation;Tokyu Railways,high,4
+st_00061,Ariake,国際展示場,odpt,35.634625,139.792440,Tokyo,Tokyo Waterfront Area Rapid Transit;Yurikamome,high,2
+st_00062,Otsuka-Teikyo-Daigaku,大塚・帝京大学,odpt,35.636900,139.416400,Tokyo,Tokyo Tama Intercity Monorail,single,1
+st_00063,Shirokanedai,白金台,odpt,35.637811,139.725933,Tokyo,Tokyo Metro;Tokyo Metropolitan Bureau of Transportation,high,2
+st_00064,Sengakuji,泉岳寺,odpt,35.638715,139.739993,Tokyo,JR East;Keikyu Corporation;Tokyo Metropolitan Bureau of Transportation,high,4
+st_00065,Ariake-tennis-no-mori,有明テニスの森,odpt,35.639980,139.788870,Tokyo,Yurikamome,single,1
+st_00066,Shinonome,東雲,odpt,35.640600,139.803280,Tokyo,Tokyo Waterfront Area Rapid Transit,single,1
+st_00067,Shibaura-futō,芝浦ふ頭,odpt,35.641780,139.757810,Tokyo,Yurikamome,single,1
+st_00068,Chuo-Daigaku-Meisei-Daigaku,中央大学・明星大学,odpt,35.641900,139.408700,Tokyo,Tokyo Tama Intercity Monorail,single,1
+st_00069,Shirokane-takanawa,白金高輪,odpt,35.643214,139.734314,Tokyo,Tokyo Metro;Tokyo Metropolitan Bureau of Transportation,high,2
+st_00070,Naka-meguro,中目黒,odpt,35.644108,139.698833,Tokyo,Tokyo Metro;Tokyu Railways,high,2
+st_00071,Shijō-mae,市場前,odpt,35.645690,139.785650,Tokyo,Yurikamome,single,1
+st_00072,Tatsumi,辰巳,odpt,35.645775,139.810330,Tokyo,Tokyo Metro,single,1
+st_00073,Shin-kiba,新木場,odpt,35.645910,139.826693,Tokyo,JR East;Tokyo Metro;Tokyo Waterfront Area Rapid Transit,high,3
+st_00074,Mita,三田,odpt,35.647700,139.747938,Tokyo,JR East;Tokyo Metropolitan Bureau of Transportation,high,4
+st_00075,Ebisu,恵比寿,odpt,35.647040,139.708701,Tokyo,JR East;Tokyo Metro,high,4
+st_00076,Tama-dobutsukoen,多摩動物公園,odpt,35.648500,139.403800,Tokyo,Keio Corporation;Tokyo Tama Intercity Monorail,high,2
+st_00077,Shin-Toyosu,新豊洲,odpt,35.648710,139.790010,Tokyo,Yurikamome,single,1
+st_00078,Hinode,日の出,odpt,35.649230,139.759080,Tokyo,Yurikamome,single,1
+st_00079,Hiro-o,広尾,odpt,35.651499,139.722209,Tokyo,Tokyo Metro,single,1
+st_00080,Toyosu,豊洲,odpt,35.654446,139.795727,Tokyo,Tokyo Metro;Yurikamome,high,2
+st_00081,Takeshiba,竹芝,odpt,35.654000,139.761920,Tokyo,Yurikamome,single,1
+st_00082,Shibakoen,芝公園,odpt,35.654186,139.749850,Tokyo,Tokyo Metropolitan Bureau of Transportation,single,1
+st_00083,Akabanebashi,赤羽橋,odpt,35.654985,139.743989,Tokyo,Tokyo Metropolitan Bureau of Transportation,single,1
+st_00084,Hodokubo,程久保,odpt,35.655200,139.410800,Tokyo,Tokyo Tama Intercity Monorail,single,1
+st_00085,Azabu-juban,麻布十番,odpt,35.655629,139.736688,Tokyo,Tokyo Metro;Tokyo Metropolitan Bureau of Transportation,high,2
+st_00086,Hamamatsucho,浜松町,odpt,35.656771,139.755188,Tokyo,JR East;Tokyo Metropolitan Bureau of Transportation;Tokyo Monorail,high,5
+st_00087,Kachidoki,勝どき,odpt,35.658934,139.777138,Tokyo,Tokyo Metropolitan Bureau of Transportation,single,1
+st_00088,Shibuya,渋谷,odpt,35.659213,139.702093,Tokyo,JR East;Keio Corporation;Tokyo Metro;Tokyu Railways,high,9
+st_00089,Onarimon,御成門,odpt,35.660774,139.751366,Tokyo,Tokyo Metropolitan Bureau of Transportation,single,1
+st_00090,Takahatafudo,高幡不動,odpt,35.661300,139.415200,Tokyo,Keio Corporation;Tokyo Tama Intercity Monorail,high,3
+st_00091,Kamiyacho,神谷町,odpt,35.662625,139.744725,Tokyo,Tokyo Metro,single,1
+st_00092,Shiodome,汐留,odpt,35.663002,139.760027,Tokyo,Tokyo Metropolitan Bureau of Transportation;Yurikamome,high,2
+st_00093,Kasai,葛西,odpt,35.663616,139.872530,Tokyo,Tokyo Metro,single,1
+st_00094,Tsukishima,月島,odpt,35.664234,139.784158,Tokyo,Tokyo Metro;Tokyo Metropolitan Bureau of Transportation,high,2
+st_00095,Roppongi,六本木,odpt,35.663453,139.731255,Tokyo,Tokyo Metro;Tokyo Metropolitan Bureau of Transportation,high,2
+st_00096,Nishi-kasai,西葛西,odpt,35.664562,139.859600,Tokyo,Tokyo Metro,single,1
+st_00097,Tsukijishijo,築地市場,odpt,35.664919,139.766929,Tokyo,Tokyo Metropolitan Bureau of Transportation,single,1
+st_00098,Roppongi-itchome,六本木一丁目,odpt,35.665075,139.738900,Tokyo,Tokyo Metro,single,1
+st_00099,Shimbashi,新橋,odpt,35.666103,139.759163,Tokyo,JR East;Tokyo Metro;Tokyo Metropolitan Bureau of Transportation;Yurikamome,high,8
+st_00100,Omote-sando,表参道,odpt,35.665279,139.712067,Tokyo,Tokyo Metro,high,3
+st_00101,Urayasu,浦安,odpt,35.665903,139.893236,Tokyo,Tokyo Metro,single,1
+st_00102,Nogizaka,乃木坂,odpt,35.666592,139.726229,Tokyo,Tokyo Metro,single,1
+st_00103,Shintomicho,新富町,odpt,35.669229,139.773033,Tokyo,Tokyo Metro,high,2
+st_00104,Minami-sunamachi,南砂町,odpt,35.668415,139.831695,Tokyo,Tokyo Metro,single,1
+st_00105,Yoyogi-uehara,代々木上原,odpt,35.669017,139.679884,Tokyo,Odakyu Electric Railway;Tokyo Metro,high,2
+st_00106,Yoyogi-koen,代々木公園,odpt,35.669104,139.689791,Tokyo,Tokyo Metro,single,1
+st_00107,Meiji-jingumae<Harajuku>,明治神宮前〈原宿〉,odpt,35.668664,139.704592,Tokyo,JR East;Tokyo Metro,high,3
+st_00108,Uchisaiwaicho,内幸町,odpt,35.669344,139.755330,Tokyo,Tokyo Metropolitan Bureau of Transportation,single,1
+st_00109,Kiba,木場,odpt,35.669356,139.807115,Tokyo,Tokyo Metro,single,1
+st_00110,Toyocho,東陽町,odpt,35.669590,139.817680,Tokyo,Tokyo Metro,single,1
+st_00111,Higashi-ginza,東銀座,odpt,35.669522,139.767492,Tokyo,Tokyo Metro;Tokyo Metropolitan Bureau of Transportation,high,2
+st_00112,Toranomon,虎ノ門,odpt,35.668734,139.748929,Tokyo,Tokyo Metro,high,2
+st_00113,Gaiemmae,外苑前,odpt,35.670375,139.717825,Tokyo,Tokyo Metro,single,1
+st_00114,Manganji,万願寺,odpt,35.671300,139.419900,Tokyo,Tokyo Tama Intercity Monorail,single,1
+st_00115,Ginza,銀座,odpt,35.672790,139.765009,Tokyo,Tokyo Metro,high,4
+st_00116,Akasaka,赤坂,odpt,35.672104,139.736413,Tokyo,Tokyo Metro,single,1
+st_00117,Kasumigaseki,霞ケ関,odpt,35.673557,139.751837,Tokyo,Tokyo Metro,high,3
+st_00118,Minami-gyotoku,南行徳,odpt,35.672729,139.902276,Chiba,Tokyo Metro,single,1
+st_00119,Monzen-nakacho,門前仲町,odpt,35.672332,139.795612,Tokyo,Tokyo Metro;Tokyo Metropolitan Bureau of Transportation,high,2
+st_00120,Aoyama-itchome,青山一丁目,odpt,35.672938,139.724048,Tokyo,Tokyo Metro;Tokyo Metropolitan Bureau of Transportation,high,3
+st_00121,Kokkai-gijidomae,国会議事堂前,odpt,35.673274,139.742975,Tokyo,Tokyo Metro,high,4
+st_00122,Hatchobori,八丁堀,odpt,35.675368,139.777334,Tokyo,JR East;Tokyo Metro,high,2
+st_00123,Takaracho,宝町,odpt,35.675606,139.771966,Tokyo,Tokyo Metropolitan Bureau of Transportation,single,1
+st_00124,Hibiya,日比谷,odpt,35.675196,139.760481,Tokyo,JR East;Tokyo Metro;Tokyo Metropolitan Bureau of Transportation,high,6
+st_00125,Kyobashi,京橋,odpt,35.676704,139.770110,Tokyo,Tokyo Metro,single,1
+st_00126,Nagatacho,永田町,odpt,35.677666,139.738924,Tokyo,Tokyo Metro,high,5
+st_00127,Sakuradamon,桜田門,odpt,35.677459,139.751886,Tokyo,Tokyo Metro,single,1
+st_00128,Koshukaido,甲州街道,odpt,35.678200,139.409200,Tokyo,Tokyo Tama Intercity Monorail,single,1
+st_00129,Kita-sando,北参道,odpt,35.678503,139.705469,Tokyo,Tokyo Metro,single,1
+st_00130,Kayabacho,茅場町,odpt,35.679712,139.779445,Tokyo,Tokyo Metro,high,2
+st_00131,Kokuritsu-kyogijo,国立競技場,odpt,35.679896,139.714667,Tokyo,Tokyo Metropolitan Bureau of Transportation,single,1
+st_00132,Nijubashimae<Marunouchi>,二重橋前〈丸の内〉,odpt,35.680505,139.761780,Tokyo,Tokyo Metro,single,1
+st_00133,Nihombashi,日本橋,odpt,35.682017,139.774417,Tokyo,Tokyo Metro;Tokyo Metropolitan Bureau of Transportation,high,3
+st_00134,Kiyosumi-shirakawa,清澄白河,odpt,35.682237,139.799299,Tokyo,Tokyo Metro;Tokyo Metropolitan Bureau of Transportation,high,2
+st_00135,Gyotoku,行徳,odpt,35.682620,139.914185,Chiba,Tokyo Metro,single,1
+st_00136,Yoyogi,代々木,odpt,35.683505,139.701603,Tokyo,JR East;Tokyo Metropolitan Bureau of Transportation,high,3
+st_00137,Honancho,方南町,odpt,35.683515,139.657935,Tokyo,Tokyo Metro,single,1
+st_00138,Funabori,船堀,odpt,35.683760,139.863955,Tokyo,Tokyo Metropolitan Bureau of Transportation,single,1
+st_00139,Tokyo,東京,odpt,35.684932,139.764670,Tokyo,JR Central;JR East;Tokyo Metro;Tokyo Metropolitan Bureau of Transportation,high,22
+st_00140,Yotsuya,四ツ谷,odpt,35.685139,139.729864,Tokyo,JR East;Tokyo Metro,high,4
+st_00141,Kojimachi,麴町,odpt,35.684785,139.737350,Tokyo,Tokyo Metro,single,1
+st_00142,Hanzomon,半蔵門,odpt,35.685380,139.741695,Tokyo,Tokyo Metro,single,1
+st_00143,Ichinoe,一之江,odpt,35.685987,139.882586,Tokyo,Tokyo Metropolitan Bureau of Transportation,single,1
+st_00144,Ningyocho,人形町,odpt,35.685201,139.783262,Tokyo,Tokyo Metro;Tokyo Metropolitan Bureau of Transportation,high,3
+st_00145,Mitsukoshimae,三越前,odpt,35.686051,139.773331,Tokyo,JR East;Tokyo Metro,high,3
+st_00146,Yotsuya-sanchome,四谷三丁目,odpt,35.687835,139.719325,Tokyo,Tokyo Metro,single,1
+st_00147,Morishita,森下,odpt,35.687954,139.797437,Tokyo,Tokyo Metropolitan Bureau of Transportation,high,2
+st_00148,Kikukawa,菊川,odpt,35.688399,139.806057,Tokyo,Tokyo Metropolitan Bureau of Transportation,single,1
+st_00149,Shinjuku-gyoemmae,新宿御苑前,odpt,35.688525,139.710915,Tokyo,Tokyo Metro,single,1
+st_00150,Hamacho,浜町,odpt,35.688601,139.787725,Tokyo,Tokyo Metropolitan Bureau of Transportation,single,1
+st_00151,Sumiyoshi,住吉,odpt,35.688872,139.815695,Tokyo,Tokyo Metro;Tokyo Metropolitan Bureau of Transportation,high,2
+st_00152,Nishi-ojima,西大島,odpt,35.689391,139.826231,Tokyo,Tokyo Metropolitan Bureau of Transportation,single,1
+st_00153,Ojima,大島,odpt,35.689752,139.834705,Tokyo,Tokyo Metropolitan Bureau of Transportation,single,1
+st_00154,Shibasaki-Taiikukan,柴崎体育館,odpt,35.689800,139.409300,Tokyo,Tokyo Tama Intercity Monorail,single,1
+st_00155,Nishi-shinjuku-gochome,西新宿五丁目,odpt,35.689892,139.684545,Tokyo,Tokyo Metropolitan Bureau of Transportation,single,1
+st_00156,Higashi-ojima,東大島,odpt,35.689959,139.847255,Tokyo,Tokyo Metropolitan Bureau of Transportation,single,1
+st_00157,Kodemmacho,小伝馬町,odpt,35.690423,139.778758,Tokyo,Tokyo Metro,single,1
+st_00158,Takebashi,竹橋,odpt,35.690440,139.757670,Tokyo,Tokyo Metro,single,1
+st_00159,Tochomae,都庁前,odpt,35.690607,139.692677,Tokyo,Tokyo Metropolitan Bureau of Transportation,single,1
+st_00160,Nakano-fujimicho,中野富士見町,odpt,35.690820,139.668155,Tokyo,Tokyo Metro,single,1
+st_00161,Myoden,妙典,odpt,35.691014,139.924286,Chiba,Tokyo Metro,single,1
+st_00162,Shinjuku-sanchome,新宿三丁目,odpt,35.690935,139.705244,Tokyo,Tokyo Metro;Tokyo Metropolitan Bureau of Transportation,high,3
+st_00163,Ichigaya,市ケ谷,odpt,35.692333,139.736934,Tokyo,JR East;Tokyo Metro;Tokyo Metropolitan Bureau of Transportation,high,4
+st_00164,Nakano-Shimbashi,中野新橋,odpt,35.691685,139.674001,Tokyo,Tokyo Metro,single,1
+st_00165,Bakuro-yokoyama,東日本橋,odpt,35.692026,139.783946,Tokyo,JR East;Tokyo Metropolitan Bureau of Transportation,high,3
+st_00166,Akebonobashi,曙橋,odpt,35.692402,139.722317,Tokyo,Tokyo Metropolitan Bureau of Transportation,single,1
+st_00167,Shinjuku,新宿,odpt,35.690679,139.699276,Tokyo,JR East;Keio Corporation;Odakyu Electric Railway;Seibu Railway;Tokyo Metro;Tokyo Metropolitan Bureau of Transportation,high,13
+st_00168,Mizue,瑞江,odpt,35.693510,139.897700,Tokyo,Tokyo Metropolitan Bureau of Transportation,single,1
+st_00169,Kanda,神田,odpt,35.693715,139.770890,Tokyo,JR East;Tokyo Metro,high,4
+st_00170,Nishi-shinjuku,西新宿,odpt,35.694515,139.692560,Tokyo,Tokyo Metro,single,1
+st_00171,Ochanomizu,御茶ノ水,odpt,35.696808,139.765940,Tokyo,JR East;Tokyo Metro;Tokyo Metropolitan Bureau of Transportation,high,6
+st_00172,Jimbocho,神保町,odpt,35.695775,139.757918,Tokyo,Tokyo Metro;Tokyo Metropolitan Bureau of Transportation,high,3
+st_00173,Kudanshita,九段下,odpt,35.695713,139.751373,Tokyo,Tokyo Metro;Tokyo Metropolitan Bureau of Transportation,high,3
+st_00174,Akihabara,秋葉原,odpt,35.697504,139.774975,Tokyo,JR East;Metropolitan Intercity Railway;Tokyo Metro;Tokyo Metropolitan Bureau of Transportation,high,6
+st_00175,Ryogoku,両国,odpt,35.696807,139.797469,Tokyo,JR East;Tokyo Metropolitan Bureau of Transportation,high,2
+st_00176,Kinshicho,錦糸町,odpt,35.697441,139.814957,Tokyo,JR East;Tokyo Metro,high,3
+st_00177,Shin-nakano,新中野,odpt,35.697475,139.669510,Tokyo,Tokyo Metro,single,1
+st_00178,Asakusabashi,浅草橋,odpt,35.697494,139.786335,Tokyo,JR East;Tokyo Metropolitan Bureau of Transportation,high,2
+st_00179,Shin-koenji,新高円寺,odpt,35.697860,139.648510,Tokyo,Tokyo Metro,single,1
+st_00180,Nakano-sakaue,中野坂上,odpt,35.697352,139.682436,Tokyo,Tokyo Metro;Tokyo Metropolitan Bureau of Transportation,high,3
+st_00181,Higashi-shinjuku,東新宿,odpt,35.698893,139.707640,Tokyo,Tokyo Metro;Tokyo Metropolitan Bureau of Transportation,high,2
+st_00182,Higashi-koenji,東高円寺,odpt,35.697965,139.658295,Tokyo,Tokyo Metro,single,1
+st_00183,Wakamatsu-kawada,若松河田,odpt,35.699188,139.718043,Tokyo,Tokyo Metropolitan Bureau of Transportation,single,1
+st_00184,Minami-asagaya,南阿佐ケ谷,odpt,35.699455,139.635575,Tokyo,Tokyo Metro,single,1
+st_00185,Tachikawa,立川,odpt,35.697850,139.412650,Tokyo,JR East;Tokyo Tama Intercity Monorail,high,5
+st_00186,Ushigome-yanagicho,牛込柳町,odpt,35.699501,139.725040,Tokyo,Tokyo Metropolitan Bureau of Transportation,single,1
+st_00187,Ushigome-kagurazaka,牛込神楽坂,odpt,35.700911,139.735894,Tokyo,Tokyo Metropolitan Bureau of Transportation,single,1
+st_00188,Suehirocho,末広町,odpt,35.702780,139.771762,Tokyo,Tokyo Metro,single,1
+st_00189,Iidabashi,飯田橋,odpt,35.701807,139.744675,Tokyo,JR East;Tokyo Metro;Tokyo Metropolitan Bureau of Transportation,high,5
+st_00190,Kuramae,蔵前,odpt,35.704358,139.791551,Tokyo,Tokyo Metropolitan Bureau of Transportation,high,2
+st_00191,Baraki-nakayama,原木中山,odpt,35.703300,139.941915,Chiba,Tokyo Metro,single,1
+st_00192,Suidobashi,水道橋,odpt,35.703460,139.755147,Tokyo,JR East;Tokyo Metropolitan Bureau of Transportation,high,2
+st_00193,Kagurazaka,神楽坂,odpt,35.703865,139.734520,Tokyo,Tokyo Metro,single,1
+st_00194,Ogikubo,荻窪,odpt,35.704175,139.619760,Tokyo,JR East;Tokyo Metro,high,3
+st_00195,Waseda,早稲田,odpt,35.705680,139.722190,Tokyo,Tokyo Metro,single,1
+st_00196,Nakano,中野,odpt,35.705740,139.665605,Tokyo,JR East;Tokyo Metro,high,3
+st_00197,Shinozaki,篠崎,odpt,35.706022,139.903796,Chiba,Tokyo Metropolitan Bureau of Transportation,single,1
+st_00198,Yushima,湯島,odpt,35.706805,139.769981,Tokyo,Tokyo Metro,single,1
+st_00199,Shin-okachimachi,新御徒町,odpt,35.707059,139.782053,Tokyo,Metropolitan Intercity Railway;Tokyo Metropolitan Bureau of Transportation,high,2
+st_00200,Higashi-nakano,東中野,odpt,35.707160,139.683112,Tokyo,JR East;Tokyo Metropolitan Bureau of Transportation,high,2
+st_00201,Nishi-Funabashi,西船橋,odpt,35.707174,139.958767,Chiba,JR East;Tokyo Metro;Toyo Rapid Railway,high,5
+st_00202,Hongo-sanchome,本郷三丁目,odpt,35.707118,139.760339,Tokyo,Tokyo Metro;Tokyo Metropolitan Bureau of Transportation,high,2
+st_00203,Nishi-waseda,西早稲田,odpt,35.707806,139.709120,Tokyo,Tokyo Metro,single,1
+st_00204,Okachimachi,御徒町,odpt,35.707456,139.774184,Tokyo,JR East;Tokyo Metro;Tokyo Metropolitan Bureau of Transportation,high,5
+st_00205,Honjo-azumabashi,本所吾妻橋,odpt,35.708565,139.804397,Tokyo,Tokyo Metropolitan Bureau of Transportation,single,1
+st_00206,Asakusa,浅草,odpt,35.709833,139.797158,Tokyo,Tobu Railway;Tokyo Metro;Tokyo Metropolitan Bureau of Transportation,high,3
+st_00207,Edogawabashi,江戸川橋,odpt,35.709295,139.734130,Tokyo,Tokyo Metro,single,1
+st_00208,Kasuga,後楽園,odpt,35.708430,139.752105,Tokyo,Tokyo Metro;Tokyo Metropolitan Bureau of Transportation,high,4
+st_00209,Tawaramachi,田原町,odpt,35.709917,139.790306,Tokyo,Tokyo Metro,single,1
+st_00210,Takamatsu,高松,odpt,35.710000,139.413300,Tokyo,Tokyo Tama Intercity Monorail,single,1
+st_00211,Ochiai,落合,odpt,35.710635,139.685965,Tokyo,Tokyo Metro,single,1
+st_00212,Oshiage,押上,odpt,35.709646,139.813364,Tokyo,Keisei Electric Railway;Tobu Railway;Tokyo Metro;Tokyo Metropolitan Bureau of Transportation,high,4
+st_00213,Inaricho,稲荷町,odpt,35.711389,139.782210,Tokyo,Tokyo Metro,single,1
+st_00214,Waseda,早稲田,odpt,35.711760,139.719003,Tokyo,Tokyo Metropolitan Bureau of Transportation,single,1
+st_00215,Ueno,上野,odpt,35.711697,139.776343,Tokyo,JR East;Keisei Electric Railway;Tokyo Metro,high,13
+st_00216,Omokagebashi,面影橋,odpt,35.713012,139.714199,Tokyo,Tokyo Metropolitan Bureau of Transportation,single,1
+st_00217,Takadanobaba,高田馬場,odpt,35.713280,139.705045,Tokyo,JR East;Seibu Railway;Tokyo Metro,high,3
+st_00218,Nakai,中井,odpt,35.713935,139.686296,Tokyo,Seibu Railway;Tokyo Metropolitan Bureau of Transportation,high,2
+st_00219,Asakusa,浅草,odpt,35.714000,139.792390,Tokyo,Metropolitan Intercity Railway,single,1
+st_00220,Tachihi,立飛,odpt,35.714300,139.417100,Tokyo,Tokyo Tama Intercity Monorail,single,1
+st_00221,Gakushuinshita,学習院下,odpt,35.716347,139.712529,Tokyo,Tokyo Metropolitan Bureau of Transportation,single,1
+st_00222,Myogadani,茗荷谷,odpt,35.717200,139.736895,Tokyo,Tokyo Metro,single,1
+st_00223,Nezu,根津,odpt,35.717325,139.765750,Tokyo,Tokyo Metro,single,1
+st_00224,Todaimae,東大前,odpt,35.718014,139.757880,Tokyo,Tokyo Metro,single,1
+st_00225,Izumi-Taiikukan,泉体育館,odpt,35.718800,139.419600,Tokyo,Tokyo Tama Intercity Monorail,single,1
+st_00226,Gokokuji,護国寺,odpt,35.719180,139.727450,Tokyo,Tokyo Metro,single,1
+st_00227,Iriya,入谷,odpt,35.720565,139.784466,Tokyo,Tokyo Metro,single,1
+st_00228,Kishibojimmae,雑司が谷,odpt,35.720384,139.714938,Tokyo,Tokyo Metro;Tokyo Metropolitan Bureau of Transportation,high,2
+st_00229,Hakusan,白山,odpt,35.721682,139.752134,Tokyo,Tokyo Metropolitan Bureau of Transportation,single,1
+st_00230,Keisei-Yawata,本八幡,odpt,35.722819,139.926613,Chiba,JR East;Keisei Electric Railway;Tokyo Metropolitan Bureau of Transportation,high,3
+st_00231,Sunagawa-Nanaban,砂川七番,odpt,35.723400,139.418100,Tokyo,Tokyo Tama Intercity Monorail,single,1
+st_00232,Ochiai-minami-nagasaki,落合南長崎,odpt,35.723435,139.683389,Tokyo,Tokyo Metropolitan Bureau of Transportation,single,1
+st_00233,Toden-zoshigaya,都電雑司ヶ谷,odpt,35.724081,139.717835,Tokyo,Tokyo Metropolitan Bureau of Transportation,single,1
+st_00234,Hon-komagome,本駒込,odpt,35.724365,139.753812,Tokyo,Tokyo Metro,single,1
+st_00235,Higashi-ikebukuro,東池袋,odpt,35.725674,139.719634,Tokyo,Tokyo Metro;Tokyo Metropolitan Bureau of Transportation,high,2
+st_00236,Sendagi,千駄木,odpt,35.725746,139.763303,Tokyo,Tokyo Metro,single,1
+st_00237,Shin-otsuka,新大塚,odpt,35.726130,139.729354,Tokyo,Tokyo Metro,single,1
+st_00238,Sengoku,千石,odpt,35.727772,139.744984,Tokyo,Tokyo Metropolitan Bureau of Transportation,single,1
+st_00239,Mukohara,向原,odpt,35.728775,139.724759,Tokyo,Tokyo Metropolitan Bureau of Transportation,single,1
+st_00240,Nippori,日暮里,odpt,35.728793,139.771121,Tokyo,JR East;Keisei Electric Railway;Tokyo Metropolitan Bureau of Transportation,high,5
+st_00241,Ikebukuro,池袋,odpt,35.729958,139.711062,Tokyo,JR East;Seibu Railway;Tobu Railway;Tokyo Metro,high,8
+st_00242,Otsuka,大塚,odpt,35.731188,139.729098,Tokyo,JR East;Tokyo Metropolitan Bureau of Transportation,high,2
+st_00243,Tamagawa-Josui,玉川上水,odpt,35.732200,139.417700,Tokyo,Seibu Railway;Tokyo Tama Intercity Monorail,high,2
+st_00244,Minowa,三ノ輪,odpt,35.730746,139.791337,Tokyo,Tokyo Metro;Tokyo Metropolitan Bureau of Transportation,high,2
+st_00245,Shin-egota,新江古田,odpt,35.732579,139.670498,Tokyo,Tokyo Metropolitan Bureau of Transportation,single,1
+st_00246,Kanamecho,要町,odpt,35.733215,139.698480,Tokyo,Tokyo Metro,high,2
+st_00247,Minami-Senju,南千住,odpt,35.732875,139.798945,Tokyo,JR East;Metropolitan Intercity Railway;Tokyo Metro,high,3
+st_00248,Nishi-nippori,西日暮里,odpt,35.733047,139.767529,Tokyo,JR East;Tokyo Metro;Tokyo Metropolitan Bureau of Transportation,high,4
+st_00249,Arakawa-itchumae,荒川一中前,odpt,35.733768,139.788841,Tokyo,Tokyo Metropolitan Bureau of Transportation,single,1
+st_00250,Sugamo,巣鴨,odpt,35.733793,139.738154,Tokyo,JR East;Tokyo Metropolitan Bureau of Transportation,high,2
+st_00251,Arakawakuyakushomae,荒川区役所前,odpt,35.734913,139.786416,Tokyo,Tokyo Metropolitan Bureau of Transportation,single,1
+st_00252,Sugamoshinden,巣鴨新田,odpt,35.735682,139.727684,Tokyo,Tokyo Metropolitan Bureau of Transportation,single,1
+st_00253,Komagome,駒込,odpt,35.735913,139.746909,Tokyo,JR East;Tokyo Metro,high,2
+st_00254,Nerima,練馬,odpt,35.737411,139.654762,Tokyo,Seibu Railway;Tokyo Metropolitan Bureau of Transportation,high,4
+st_00255,Senkawa,千川,odpt,35.738175,139.689400,Tokyo,Tokyo Metro,high,2
+st_00256,Arakawa-nichome,荒川二丁目,odpt,35.738573,139.784704,Tokyo,Tokyo Metropolitan Bureau of Transportation,single,1
+st_00257,Sakurakaido,桜街道,odpt,35.739000,139.416600,Tokyo,Tokyo Tama Intercity Monorail,single,1
+st_00258,Koshinzuka,庚申塚,odpt,35.739504,139.729625,Tokyo,Tokyo Metropolitan Bureau of Transportation,single,1
+st_00259,Nishi-sugamo,新庚申塚,odpt,35.742319,139.729523,Tokyo,Tokyo Metropolitan Bureau of Transportation,high,2
+st_00260,Toshimaen,豊島園,odpt,35.741711,139.649116,Tokyo,Tokyo Metropolitan Bureau of Transportation,single,1
+st_00261,Arakawa-nanachome,荒川七丁目,odpt,35.741923,139.784210,Tokyo,Tokyo Metropolitan Bureau of Transportation,single,1
+st_00262,Machiya,町屋,odpt,35.742426,139.780469,Tokyo,Keisei Electric Railway;Tokyo Metro;Tokyo Metropolitan Bureau of Transportation,high,3
+st_00263,Akado-shogakkomae,赤土小学校前,odpt,35.742868,139.769025,Tokyo,Tokyo Metropolitan Bureau of Transportation,single,1
+st_00264,Kotake-mukaihara,小竹向原,odpt,35.743395,139.679520,Tokyo,Seibu Railway;Tokyo Metro,high,3
+st_00265,Machiya-nichome,町屋二丁目,odpt,35.743919,139.776416,Tokyo,Tokyo Metropolitan Bureau of Transportation,single,1
+st_00266,Nishigahara-yonchome,西ヶ原四丁目,odpt,35.744222,139.732665,Tokyo,Tokyo Metropolitan Bureau of Transportation,single,1
+st_00267,Higashi-ogu-sanchome,東尾久三丁目,odpt,35.745626,139.773867,Tokyo,Tokyo Metropolitan Bureau of Transportation,single,1
+st_00268,Kamikitadai,上北台,odpt,35.745800,139.415900,Tokyo,Tokyo Tama Intercity Monorail,single,1
+st_00269,Nishigahara,西ケ原,odpt,35.745945,139.742260,Tokyo,Tokyo Metro,single,1
+st_00270,Takinogawa-itchome,滝野川一丁目,odpt,35.747283,139.735420,Tokyo,Tokyo Metropolitan Bureau of Transportation,single,1
+st_00271,Kumanomae,熊野前,odpt,35.748500,139.769843,Tokyo,Tokyo Metropolitan Bureau of Transportation,high,2
+st_00272,Itabashi,新板橋,odpt,35.748772,139.719808,Tokyo,JR East;Tokyo Metropolitan Bureau of Transportation,high,2
+st_00273,Hikawadai,氷川台,odpt,35.749620,139.665470,Tokyo,Tokyo Metro,high,2
+st_00274,Kita-senju,北千住,odpt,35.749618,139.805108,Tokyo,JR East;Metropolitan Intercity Railway;Tobu Railway;Tokyo Metro,high,5
+st_00275,Miyanomae,宮ノ前,odpt,35.749811,139.766190,Tokyo,Tokyo Metropolitan Bureau of Transportation,single,1
+st_00276,Asukayama,飛鳥山,odpt,35.750109,139.737333,Tokyo,Tokyo Metropolitan Bureau of Transportation,single,1
+st_00277,Odai,小台,odpt,35.750477,139.761739,Tokyo,Tokyo Metropolitan Bureau of Transportation,single,1
+st_00278,Arakawa-yuenchimae,荒川遊園地前,odpt,35.750646,139.757517,Tokyo,Tokyo Metropolitan Bureau of Transportation,single,1
+st_00279,Sakaecho,栄町,odpt,35.750865,139.742186,Tokyo,Tokyo Metropolitan Bureau of Transportation,single,1
+st_00280,Arakawa-shakomae,荒川車庫前,odpt,35.750865,139.752461,Tokyo,Tokyo Metropolitan Bureau of Transportation,single,1
+st_00281,Kajiwara,梶原,odpt,35.751070,139.747268,Tokyo,Tokyo Metropolitan Bureau of Transportation,single,1
+st_00282,Itabashi-kuyakushomae,板橋区役所前,odpt,35.751372,139.710120,Tokyo,Tokyo Metropolitan Bureau of Transportation,single,1
+st_00283,Nerima-kasugacho,練馬春日町,odpt,35.751410,139.640300,Tokyo,Tokyo Metropolitan Bureau of Transportation,single,1
+st_00284,Oji,王子,odpt,35.753726,139.737704,Tokyo,JR East;Tokyo Metro;Tokyo Metropolitan Bureau of Transportation,high,3
+st_00285,Adachi-odai,足立小台,odpt,35.754655,139.770376,Tokyo,Tokyo Metropolitan Bureau of Transportation,single,1
+st_00286,Heiwadai,平和台,odpt,35.757555,139.654300,Tokyo,Tokyo Metro,high,2
+st_00287,Hikarigaoka,光が丘,odpt,35.758527,139.628901,Tokyo,Tokyo Metropolitan Bureau of Transportation,single,1
+st_00288,Itabashihoncho,板橋本町,odpt,35.761309,139.705544,Tokyo,Tokyo Metropolitan Bureau of Transportation,single,1
+st_00289,Ayase,綾瀬,odpt,35.762285,139.824890,Tokyo,JR East;Tokyo Metro,high,2
+st_00290,Ogi-ohashi,扇大橋,odpt,35.763906,139.770798,Tokyo,Tokyo Metropolitan Bureau of Transportation,single,1
+st_00291,Oji-kamiya,王子神谷,odpt,35.765292,139.735641,Tokyo,Tokyo Metro,single,1
+st_00292,Koya,高野,odpt,35.768351,139.770692,Tokyo,Tokyo Metropolitan Bureau of Transportation,single,1
+st_00293,Motohasunuma,本蓮沼,odpt,35.768566,139.702410,Tokyo,Tokyo Metropolitan Bureau of Transportation,single,1
+st_00294,Chikatetsu-akatsuka,地下鉄赤塚,odpt,35.769981,139.644001,Tokyo,Tokyo Metro,high,2
+st_00295,Aoi,青井,odpt,35.772500,139.820330,Tokyo,Metropolitan Intercity Railway,single,1
+st_00296,Kohoku,江北,odpt,35.773954,139.770290,Tokyo,Tokyo Metropolitan Bureau of Transportation,single,1
+st_00297,Shimura-sakaue,志村坂上,odpt,35.776082,139.695097,Tokyo,Tokyo Metropolitan Bureau of Transportation,single,1
+st_00298,Chikatetsu-narimasu,地下鉄成増,odpt,35.776740,139.631170,Tokyo,Tokyo Metro,high,2
+st_00299,Kita-ayase,北綾瀬,odpt,35.776890,139.832095,Tokyo,Tokyo Metro,single,1
+st_00300,Shimura-sanchome,志村三丁目,odpt,35.777468,139.685751,Tokyo,Tokyo Metropolitan Bureau of Transportation,single,1
+st_00301,Shimo,志茂,odpt,35.778025,139.732500,Tokyo,Tokyo Metro,single,1
+st_00302,Nishiaraidaishi-nishi,西新井大師西,odpt,35.781510,139.770077,Tokyo,Tokyo Metropolitan Bureau of Transportation,single,1
+st_00303,Akabane-iwabuchi,赤羽岩淵,odpt,35.783355,139.722110,Tokyo,Saitama Railway;Tokyo Metro,high,2
+st_00304,Hasune,蓮根,odpt,35.784262,139.678947,Tokyo,Tokyo Metropolitan Bureau of Transportation,single,1
+st_00305,Rokuchō,六町,odpt,35.784920,139.821810,Tokyo,Metropolitan Intercity Railway,single,1
+st_00306,Nishidai,西台,odpt,35.787074,139.672867,Tokyo,Tokyo Metropolitan Bureau of Transportation,single,1
+st_00307,Wakoshi,和光市,odpt,35.788350,139.612865,Tokyo,Tobu Railway;Tokyo Metro,high,3
+st_00308,Yazaike,谷在家,odpt,35.788787,139.770036,Tokyo,Tokyo Metropolitan Bureau of Transportation,single,1
+st_00309,Takashimadaira,高島平,odpt,35.788908,139.661361,Tokyo,Tokyo Metropolitan Bureau of Transportation,single,1
+st_00310,Shin-takashimadaira,新高島平,odpt,35.790289,139.654050,Tokyo,Tokyo Metropolitan Bureau of Transportation,single,1
+st_00311,Nishi-takashimadaira,西高島平,odpt,35.791965,139.645421,Tokyo,Tokyo Metropolitan Bureau of Transportation,single,1
+st_00312,Toneri-koen,舎人公園,odpt,35.796384,139.770159,Tokyo,Tokyo Metropolitan Bureau of Transportation,single,1
+st_00313,Toneri,舎人,odpt,35.805690,139.770069,Tokyo,Tokyo Metropolitan Bureau of Transportation,single,1
+st_00314,Yashio,八潮,odpt,35.807860,139.844830,Tokyo,Metropolitan Intercity Railway,single,1
+st_00315,Minumadai-shinsuikoen,見沼代親水公園,odpt,35.814541,139.770707,Tokyo,Tokyo Metropolitan Bureau of Transportation,single,1
+st_00316,Misato-chūō,三郷中央,odpt,35.824170,139.878060,Tokyo,Metropolitan Intercity Railway,single,1
+st_00317,Minami-Nagareyama,南流山,odpt,35.837860,139.904330,Chiba,JR East;Metropolitan Intercity Railway,high,2
+st_00318,Nagareyama-centralpark,流山セントラルパーク,odpt,35.854470,139.915220,Saitama,Metropolitan Intercity Railway,single,1
+st_00319,Nagareyama-otakanomori,流山おおたかの森,odpt,35.871860,139.925060,Saitama,Metropolitan Intercity Railway;Tobu Railway,high,2
+st_00320,Kashiwanoha-campus,柏の葉キャンパス,odpt,35.893360,139.952500,Saitama,Metropolitan Intercity Railway,single,1
+st_00321,Kashiwa-Tanaka,柏たなか,odpt,35.911000,139.957500,Saitama,Metropolitan Intercity Railway,single,1
+st_00322,Moriya,守谷,odpt,35.950690,139.992250,Saitama,Kanto Railway;Metropolitan Intercity Railway,high,2
+st_00323,Miraidaira,みらい平,odpt,35.994750,140.038310,Saitama,Metropolitan Intercity Railway,single,1
+st_00324,Midorino,みどりの,odpt,36.029940,140.056250,Saitama,Metropolitan Intercity Railway,single,1
+st_00325,Bampaku-kinenkōen,万博記念公園,odpt,36.058470,140.059440,Saitama,Metropolitan Intercity Railway,single,1
+st_00326,Kenkyū-gakuen,研究学園,odpt,36.082170,140.082390,Saitama,Metropolitan Intercity Railway,single,1
+st_00327,Tsukuba,つくば,odpt,36.082560,140.111690,Saitama,Metropolitan Intercity Railway,single,1
+st_00328,Kashiwadai,かしわ台,odpt,,,,Sagami Railway,single,1
+st_00329,Tsutsujigaoka,つつじヶ丘,odpt,,,,Keio Corporation,single,1
+st_00330,Misakiguchi,三崎口,odpt,,,,Keikyu Corporation,single,1
+st_00331,Miurakaigan,三浦海岸,odpt,,,,Keikyu Corporation,single,1
+st_00332,Mitaka,三鷹,odpt,,,,JR East,single,1
+st_00333,Chuo-rinkan,中央林間,odpt,,,,Tokyu Railways,single,1
+st_00334,Kuki,久喜,odpt,,,,Tobu Railway,single,1
+st_00335,Futamatagawa,二俣川,odpt,,,,Sagami Railway,single,1
+st_00336,Futako-tamagawa,二子玉川,odpt,,,,Tokyu Railways,single,1
+st_00337,Keikyu-kurihama,京急久里浜,odpt,,,,Keikyu Corporation,single,1
+st_00338,Keikyu-kawasaki,京急川崎,odpt,,,,Keikyu Corporation,single,1
+st_00339,Keikyu-kamata,京急蒲田,odpt,,,,Keikyu Corporation,single,1
+st_00340,Keisei-Sakura,京成佐倉,odpt,,,,Keisei Electric Railway,single,1
+st_00341,Keisei-Narita,京成成田,odpt,,,,Keisei Electric Railway,single,1
+st_00342,Keisei-Nishifuna,京成西船,odpt,,,,Keisei Electric Railway,single,1
+st_00343,Keisei-Takasago,京成高砂,odpt,,,,Keisei Electric Railway,single,1
+st_00344,Keio-hachioji,京王八王子,odpt,,,,Keio Corporation,single,1
+st_00345,Isehara,伊勢原,odpt,,,,Odakyu Electric Railway,single,1
+st_00346,Hoya,保谷,odpt,,,,Seibu Railway,single,1
+st_00347,Motosumiyoshi,元住吉,odpt,,,,Tokyu Railways,single,1
+st_00348,Motosumiyoshi,元住吉,odpt,,,,Tokyu Railways,single,1
+st_00349,Motomachi-Chukagai,元町・中華街,odpt,,,,Yokohama Minatomirai Railway,single,1
+st_00350,Yachiyo-Midorigaoka,八千代緑が丘,odpt,,,,Toyo Rapid Railway,single,1
+st_00351,Hachiman-yama,八幡山,odpt,,,,Keio Corporation,single,1
+st_00352,Kita-kasukabe,北春日部,odpt,,,,Tobu Railway,single,1
+st_00353,Kita-koshigaya,北越谷,odpt,,,,Tobu Railway,single,1
+st_00354,Minami-kurihashi,南栗橋,odpt,,,,Tobu Railway,single,1
+st_00355,Imba-Nihon-Idai,印旛日本医大,odpt,,,,Hokuso Railway,single,1
+st_00356,Inzai-Makinohara,印西牧の原,odpt,,,,Hokuso Railway,single,1
+st_00357,Toride,取手,odpt,,,,JR East,single,1
+st_00358,Mukogaoka-Yuen,向ヶ丘遊園,odpt,,,,Odakyu Electric Railway,single,1
+st_00359,Shinagawa,品川,odpt,,,,Keikyu Corporation,single,1
+st_00360,Karakida,唐木田,odpt,,,,Odakyu Electric Railway,single,1
+st_00361,Yamato,大和,odpt,,,,Sagami Railway,single,1
+st_00362,Omiya,大宮,odpt,,,,JR East,single,1
+st_00363,Ookayama,大岡山,odpt,,,,Tokyu Railways,single,1
+st_00364,Okusawa,奥沢,odpt,,,,Tokyu Railways,single,1
+st_00365,Sogosando,宗吾参道,odpt,,,,Keisei Electric Railway,single,1
+st_00366,Ogawamachi,小川町,odpt,,,,Tobu Railway,single,1
+st_00367,Kotesashi,小手指,odpt,,,,Seibu Railway,single,1
+st_00368,Kawagoe,川越,odpt,,,,JR East,single,1
+st_00369,Kawagoeshi,川越市,odpt,,,,Tobu Railway,single,1
+st_00370,Fuchukeiba-seimommae,府中競馬正門前,odpt,,,,Keio Corporation,single,1
+st_00371,Shiki,志木,odpt,,,,Tobu Railway,single,1
+st_00372,Seijogakuen-Mae,成城学園前,odpt,,,,Odakyu Electric Railway,single,1
+st_00373,Narita Airport Terminal 1,成田空港,odpt,,,,Keisei Electric Railway,single,1
+st_00374,Narita Airport Terminal 1,成田空港,odpt,,,,Keisei Electric Railway,single,1
+st_00375,Abiko,我孫子,odpt,,,,JR East,single,1
+st_00376,Tokorozawa,所沢,odpt,,,,Seibu Railway,single,1
+st_00377,Sashiogi,指扇,odpt,,,,JR East,single,1
+st_00378,Shin-Yurigaoka,新百合ヶ丘,odpt,,,,Odakyu Electric Railway,single,1
+st_00379,Hon-Atsugi,本厚木,odpt,,,,Odakyu Electric Railway,single,1
+st_00380,Tobu-dobutsu-koen,東武動物公園,odpt,,,,Tobu Railway,single,1
+st_00381,Toyo-Katsutadai,東葉勝田台,odpt,,,,Toyo Rapid Railway,single,1
+st_00382,Matsudo,松戸,odpt,,,,JR East,single,1
+st_00383,Kashiwa,柏,odpt,,,,JR East,single,1
+st_00384,Sakurajosui,桜上水,odpt,,,,Keio Corporation,single,1
+st_00385,Shinrin-koen,森林公園,odpt,,,,Tobu Railway,single,1
+st_00386,Hashimoto,橋本,odpt,,,,Keio Corporation,single,1
+st_00387,Musashi-koyama,武蔵小山,odpt,,,,Tokyu Railways,single,1
+st_00388,Musashi-kosugi,武蔵小杉,odpt,,,,Tokyu Railways,single,1
+st_00389,Musashi-kosugi,武蔵小杉,odpt,,,,Tokyu Railways,single,1
+st_00390,Musashi-Urawa,武蔵浦和,odpt,,,,JR East,single,1
+st_00391,Tsudanuma,津田沼,odpt,,,,JR East,single,1
+st_00392,Urawa-Misono,浦和美園,odpt,,,,Saitama Railway,single,1
+st_00393,Uraga,浦賀,odpt,,,,Keikyu Corporation,single,1
+st_00394,Ebina,海老名,odpt,,,,Sagami Railway,single,1
+st_00395,Ebina,海老名,odpt,,,,Odakyu Electric Railway,single,1
+st_00396,Kiyose,清瀬,odpt,,,,Seibu Railway,single,1
+st_00397,Machida,町田,odpt,,,,Odakyu Electric Railway,single,1
+st_00398,Sagami-Ono,相模大野,odpt,,,,Odakyu Electric Railway,single,1
+st_00399,Shakujii-Koen,石神井公園,odpt,,,,Seibu Railway,single,1
+st_00400,Kanagawa-shimmachi,神奈川新町,odpt,,,,Keikyu Corporation,single,1
+st_00401,Takenotsuka,竹ノ塚,odpt,,,,Tobu Railway,single,1
+st_00402,Sasazuka,笹塚,odpt,,,,Keio Corporation,single,1
+st_00403,Hakone-Yumoto,箱根湯本,odpt,,,,Odakyu Hakone,single,1
+st_00404,Haneda Airport Terminal 1 and 2,羽田空港第１・第２ターミナル,odpt,,,,Keikyu Corporation,single,1
+st_00405,Jiyugaoka,自由が丘,odpt,,,,Tokyu Railways,single,1
+st_00406,Shibayama-Chiyoda,芝山千代田,odpt,,,,Shibayama Railway,single,1
+st_00407,Wakabadai,若葉台,odpt,,,,Keio Corporation,single,1
+st_00408,Soka,草加,odpt,,,,Tobu Railway,single,1
+st_00409,Kikuna,菊名,odpt,,,,Tokyu Railways,single,1
+st_00410,Nishi-Tokorozawa,西所沢,odpt,,,,Seibu Railway,single,1
+st_00411,Seibukyujo-Mae,西武球場前,odpt,,,,Seibu Railway,single,1
+st_00412,Seibu-Chichibu,西武秩父,odpt,,,,Seibu Railway,single,1
+st_00413,Nishiya,西谷,odpt,,,,Sagami Railway,single,1
+st_00414,Chofu,調布,odpt,,,,Keio Corporation,single,1
+st_00415,Toshimaen,豊島園,odpt,,,,Seibu Railway,single,1
+st_00416,Akabane,赤羽,odpt,,,,JR East,single,1
+st_00417,Zushi-hayama,逗子・葉山,odpt,,,,Keikyu Corporation,single,1
+st_00418,Kanazawa-bunko,金沢文庫,odpt,,,,Keikyu Corporation,single,1
+st_00419,Nagatsuta,長津田,odpt,,,,Tokyu Railways,single,1
+st_00420,Aoto,青砥,odpt,,,,Keisei Electric Railway,single,1
+st_00421,Hanno,飯能,odpt,,,,Seibu Railway,single,1
+st_00422,Takao,高尾,odpt,,,,Keio Corporation,single,1
+st_00423,Takaosanguchi,高尾山口,odpt,,,,Keio Corporation,single,1
+st_00424,Hatogaya,鳩ヶ谷,odpt,,,,Saitama Railway,single,1
+st_00425,Saginuma,鷺沼,odpt,,,,Tokyu Railways,single,1

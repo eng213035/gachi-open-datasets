@@ -1,0 +1,11 @@
+reason,name_ja,a,b,distance_m
+same_name_missing_coords,成田空港,odpt.Station:Keisei.Main.NaritaAirportTerminal1,odpt.Station:Keisei.NaritaSkyAccess.NaritaAirportTerminal1,
+same_name_missing_coords,浅草,odpt.Station:MIR.TsukubaExpress.Asakusa,odpt.Station:Tobu.TobuSkytree.Asakusa,
+same_name_far_apart,浅草,odpt.Station:MIR.TsukubaExpress.Asakusa,odpt.Station:TokyoMetro.Ginza.Asakusa,606
+same_name_missing_coords,海老名,odpt.Station:Sotetsu.Main.Ebina,odpt.Station:Odakyu.Odawara.Ebina,
+same_name_far_apart,早稲田,odpt.Station:Toei.Arakawa.Waseda,odpt.Station:TokyoMetro.Tozai.Waseda,735
+same_name_far_apart,浅草,odpt.Station:Toei.Asakusa.Asakusa,odpt.Station:MIR.TsukubaExpress.Asakusa,678
+same_name_missing_coords,豊島園,odpt.Station:Toei.Oedo.Toshimaen,odpt.Station:Seibu.Toshima.Toshimaen,
+same_name_missing_coords,小川町,odpt.Station:Toei.Shinjuku.Ogawamachi,odpt.Station:Tobu.Tojo.Ogawamachi,
+same_name_missing_coords,元住吉,odpt.Station:Tokyu.Meguro.Motosumiyoshi,odpt.Station:Tokyu.Toyoko.Motosumiyoshi,
+same_name_missing_coords,武蔵小杉,odpt.Station:Tokyu.Meguro.MusashiKosugi,odpt.Station:Tokyu.Toyoko.MusashiKosugi,

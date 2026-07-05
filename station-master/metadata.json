@@ -1,0 +1,17 @@
+{
+  "name": "Japan Station Master (Entity-Resolved)",
+  "version": "1.0.0",
+  "temporal_coverage": "2026 snapshot (ODPT catalog state as of harvest date)",
+  "geographic_coverage": "Greater Tokyo (all operators currently published by ODPT — see README for the operator list; nationwide coverage is planned as v2)",
+  "last_updated": "2026-07-05",
+  "next_update_expected": "2027-07 (annual)",
+  "license": "CC BY 4.0 (data) + MIT (pipeline code) — see LICENSE-DATA.txt and LICENSE",
+  "doi": "PENDING — filled in after first Zenodo registration",
+  "homepage": "https://github.com/gachi-tokusuru/gachi-open-datasets/tree/main/station-master",
+  "source": "Public Transportation Open Data Center (ODPT) — odpt:Station, odpt:Operator, odpt:Railway",
+  "row_counts": {
+    "stations.csv": 425,
+    "station_members.csv": 579,
+    "lines.csv": 94
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "gachi-open-datasets",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Pipeline that produces gachi-tokusuru's canonical, maintained Japan open datasets (station master, ridership, ...).",
+  "scripts": {
+    "harvest:odpt": "node pipeline/harvest/odpt-harvest.mjs",
+    "build:station-master": "node pipeline/build-station-master.mjs",
+    "build:ridership": "node pipeline/build-ridership.mjs",
+    "build": "npm run build:station-master && npm run build:ridership",
+    "validate": "node pipeline/validate.mjs"
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,41 @@
+LICENSE FOR DATASETS (CSV files under station-master/ and station-ridership/)
+===============================================================================
+
+The datasets in this repository are derived works of data published by the
+Public Transportation Open Data Center (ODPT, https://www.odpt.org/) under
+the Public Transportation Open Data Basic License
+("公共交通オープンデータ基本ライセンス"). That license permits copying,
+redistribution, and modification — commercial or non-commercial — on
+condition of attribution. It is, in substance, equivalent to CC BY.
+
+We license our derived datasets (the merged/entity-resolved CSVs, not the
+raw ODPT feed) under:
+
+    Creative Commons Attribution 4.0 International (CC BY 4.0)
+    https://creativecommons.org/licenses/by/4.0/
+
+REQUIRED ATTRIBUTION WHEN YOU REDISTRIBUTE OR BUILD ON THIS DATA
+-----------------------------------------------------------------------------
+
+1. State that you are using data made available by the Public Transportation
+   Open Data Center ("本データセットは公共交通オープンデータセンターにおいて
+   提供されるデータを利用して作成しています").
+2. State that accuracy and completeness of the data are not guaranteed by
+   ODPT, its data-providing operators, or gachi-tokusuru.
+3. State the snapshot/extraction date (see metadata.json `last_updated` /
+   the README's "本データセットは○年○月時点のスナップショット" line).
+4. Do not direct inquiries about the data to the transit operators
+   themselves — direct them to gachi-tokusuru (contact via
+   https://api.gachi-tokusuru.com), per ODPT's developer guidelines.
+5. Also cite gachi-tokusuru as the entity-resolution/dataset publisher
+   (see each dataset's README "Cite as" section).
+
+Individual source data (e.g. Tokyo Metropolitan Bureau of Transportation
+records) may separately be available under plain CC BY 4.0 as noted by
+their operator-level catalog page on ODPT. Screenshots of the relevant
+catalog/license pages as of the harvest date are kept in
+docs/odpt-license-screenshots/ for provenance.
+
+This file itself, and the CC BY 4.0 terms, take precedence over any
+conflicting statement elsewhere in this repo for the dataset CSVs
+specifically. The pipeline *code* is separately MIT-licensed (see LICENSE).
