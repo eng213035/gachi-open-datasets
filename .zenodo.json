@@ -1,0 +1,19 @@
+{
+  "upload_type": "dataset",
+  "title": "Japan Station Master & Ridership — Canonical Open Datasets (Greater Tokyo)",
+  "description": "<p>Two combinable, maintained open datasets built from the Public Transportation Open Data Center (ODPT), sharing a common <code>station_id</code> join key:</p><ul><li><strong>Station Master</strong> — entity-resolved: one row per physical station (e.g. Shinjuku resolved to a single entity across JR East, Keio, Odakyu, Seibu, Tokyo Metro and Toei), with the per-operator source records preserved and a merge-confidence flag. 425 physical stations from 720 operator-line records; 94 lines.</li><li><strong>Station Ridership 2000-2025</strong> — annual per-station passenger journeys (3,144 tidy rows, 292 stations), joined to the station master. Captures the COVID trough and recovery station by station.</li></ul><p>Coverage is Greater Tokyo (ODPT's currently-published operators); nationwide coverage is planned as v2. Existing English-language datasets on this topic are largely hand-built, stale, or incomplete &mdash; these are annually-refreshed, schema-frozen alternatives with transparent methodology. Full harvest/build/validate pipeline is included in the repository. Data derives from ODPT under the Public Transportation Open Data Basic License (CC BY 4.0 equivalent); required attribution is in LICENSE-DATA.txt.</p>",
+  "creators": [
+    { "name": "gachi-tokusuru" }
+  ],
+  "keywords": [
+    "japan",
+    "railway",
+    "station",
+    "ridership",
+    "entity-resolution",
+    "transportation",
+    "covid-19"
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open"
+}
