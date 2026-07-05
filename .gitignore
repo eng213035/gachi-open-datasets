@@ -1,1 +1,12 @@
 node_modules/
+
+# Internal working docs — NOT published to the public dataset repo / DOI
+STRATEGY-AKIYA.md
+docs/WORKLOG-*.md
+docs/station-master-v2-review.md
+docs/housing-vacancy-stage1-review.md
+docs/zenodo-metadata-v2.md
+docs/kaggle-description-v2.md
+docs/clean_data.py
+docs/romanized_review.csv
+docs/romanized_review_cleaned.csv

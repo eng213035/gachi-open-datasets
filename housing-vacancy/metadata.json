@@ -1,0 +1,24 @@
+{
+  "name": "Japan Municipality Housing Vacancy 2003-2023",
+  "version": "1.0.0",
+  "temporal_coverage": "2003, 2008, 2013, 2018, 2023 (Housing and Land Survey years; no municipality-level table exists for 1998)",
+  "geographic_coverage": "Nationwide municipalities tabulated by the Housing and Land Survey (a sample survey; small municipalities are not broken out every year). Station bridge is Greater Tokyo only.",
+  "last_updated": "2026-07-05",
+  "next_update_expected": "2029 (next Housing and Land Survey is 2028; results publish ~2029)",
+  "license": "CC BY 4.0 (data) + MIT (pipeline code) — see LICENSE-DATA.txt and ../LICENSE",
+  "doi": null,
+  "homepage": "https://github.com/eng213035/gachi-open-datasets/tree/main/housing-vacancy",
+  "sources": [
+    "Housing and Land Survey (Statistics Bureau of Japan) via e-Stat — vacancy counts",
+    "Soumu 全国地方公共団体コード / 改正一覧表 — codes, kana, mergers",
+    "GSI (Geospatial Information Authority of Japan) Address Search — municipality coordinates",
+    "Japan Station Master (this repo) — station bridge"
+  ],
+  "row_counts": {
+    "municipality_vacancy.csv": 6388,
+    "municipalities.csv": 1901,
+    "municipality_crosswalk.csv": 80,
+    "low_confidence_review.csv": 561
+  },
+  "notes": "total_dwellings/vacant_total/vacant_other are official published counts, verbatim. vacancy_rate is computed (e-Stat publishes no municipality-level rate). Designated cities appear as their wards."
+}

@@ -60,10 +60,53 @@ passes over those records:
 `medium`, so downstream users can filter to only-explicit merges if they want
 a more conservative join.
 
+## Nationwide expansion (station-master v2)
+
+v2 keeps every v1 station frozen and **appends** nationwide stations from MLIT
+国土数値情報 N02. The mechanism and the conventions specific to the new rows:
+
+- **Freeze by verbatim passthrough.** The 425 v1 stations (and their members and
+  lines) are emitted byte-for-byte from an immutable snapshot in
+  `pipeline/frozen/*.v1.csv` — never recomputed. New IDs (`st_00426`+) continue
+  the same `st_` counter and are pinned in `pipeline/id-lock.csv` (keyed by N02
+  station group codes), so re-harvesting N02 stays append-only. Rule #3's diff
+  gate (`validate.mjs`) is what guarantees no v1 value ever moves.
+- **N02 entity resolution.** Pass 1 groups N02 records by the operator-authored
+  group code `N02_005g` (a transfer-hub grouping — e.g. Shinjuku's seven
+  JR/private/subway lines share one code — the N02 analogue of ODPT's
+  `connectingStation`). Pass 2 merges only same-name + ≤300 m + **same
+  prefecture** pairs. Same name across prefectures, or beyond 300 m, is never
+  merged (误统合 is worse than 误分离; the latter is fixable, the former breaks
+  IDs). Each N02 cluster is then cross-matched to the v1 stations by normalized
+  name + ≤300 m; a match means it duplicates an already-published station and is
+  dropped rather than issued a new ID.
+- **`name_source` vocabulary.** `odpt` (v1, ODPT's own English title);
+  `wikidata` (CC0 English label matched by normalized name + proximity); or
+  `romanized` (machine Hepburn from kuromoji, used only when no Wikidata match
+  exists — a best-effort transliteration of the kanji, explicitly non-
+  authoritative and downstream-filterable). Every station has a non-empty
+  English `name`.
+- **Kanji-romanization exception.** The "never romanise from kanji" rule (see
+  `romaji.mjs`) still holds for *authoritative* names: v1 stays ODPT romaji,
+  and Wikidata supplies real English labels (including irregular readings such
+  as 放出=Hanaten, 特牛=Kottoi). Only the `romanized` fallback transliterates
+  kanji, and it is flagged as such so a consumer can exclude it. This is looser
+  than the municipality rule (readings only from official furigana) because
+  station names vary less and the flag makes the provenance explicit.
+- **Operator names / source IDs on new rows.** N02 provides Japanese operator
+  names only, so nationwide `stations.operators` and
+  `station_members.operator` carry Japanese names (ODPT-derived Tokyo rows keep
+  English). `station_members.odpt_id` holds `n02:<station code>` source IDs for
+  N02 members (the column name is kept for schema-freeze compatibility; it means
+  "source record ID"). N02 lines have no canonical stop order, so their
+  `station_order` is a deduplicated `station_id` list, not a route sequence.
+
 ## Known limitation: prefecture is approximate
 
-`stations.csv.pref` is derived from a coarse lat/lng bounding-box heuristic
-(`pipeline/lib/geo.mjs`), not a real polygon/geocoder, because ODPT's coverage
-is entirely Greater Tokyo. Stations near prefectural borders (Tokyo/Saitama,
-Tokyo/Kanagawa, Tokyo/Chiba) can be misclassified. A proper boundary lookup
-is a welcome contribution.
+For the 425 v1 (Greater-Tokyo) rows, `stations.csv.pref` is the original coarse
+lat/lng bounding-box heuristic (`pipeline/lib/geo.mjs`) and is frozen. For the
+nationwide v2 rows, `pref` is the prefecture of the **nearest municipality
+centroid** (reusing the geocode cache) — a strict improvement over the bounding
+box, but still point-based, so stations right on a prefectural border can be
+misclassified. Neither method is a true polygon lookup; a boundary-based
+contribution is welcome.

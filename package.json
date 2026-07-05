@@ -6,10 +6,23 @@
   "description": "Pipeline that produces gachi-tokusuru's canonical, maintained Japan open datasets (station master, ridership, ...).",
   "scripts": {
     "harvest:odpt": "node pipeline/harvest/odpt-harvest.mjs",
+    "harvest:n02": "node pipeline/harvest/n02-harvest.mjs",
+    "harvest:wikidata": "node pipeline/harvest/wikidata-stations-harvest.mjs",
+    "harvest:p11": "node pipeline/harvest/p11-harvest.mjs",
+    "harvest:n02-readings": "node pipeline/harvest/n02-readings.mjs",
+    "harvest:estat-hls": "node pipeline/harvest/estat-hls-harvest.mjs",
+    "harvest:soumu": "node pipeline/harvest/soumu-code-harvest.mjs",
+    "harvest:geocode": "node pipeline/harvest/municipality-geocode.mjs",
     "build:station-master": "node pipeline/build-station-master.mjs",
     "build:ridership": "node pipeline/build-ridership.mjs",
-    "build": "npm run build:station-master && npm run build:ridership",
+    "build:vacancy": "node pipeline/build-vacancy.mjs",
+    "build:municipalities": "node pipeline/build-municipalities.mjs",
+    "build:crosswalk": "node pipeline/build-crosswalk.mjs",
+    "build": "npm run build:station-master && npm run build:ridership && npm run build:vacancy && npm run build:municipalities && npm run build:crosswalk",
     "validate": "node pipeline/validate.mjs"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "kuromoji": "0.1.2"
+  }
 }

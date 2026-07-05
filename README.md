@@ -17,11 +17,12 @@ rebuilding the plumbing each time.
 
 | Dataset | What it is | Status |
 |---|---|---|
-| [station-master/](station-master/) | Entity-resolved Japan station master (Greater Tokyo) — one row per physical station across all operators | v1.0.0 |
+| [station-master/](station-master/) | Entity-resolved Japan station master (**nationwide**, 9,145 stations) — one row per physical station across all operators | v2.0.0 |
 | [station-ridership/](station-ridership/) | Annual per-station ridership, 2000-2025, joined to station-master's `station_id` | v1.0.0 |
+| [housing-vacancy/](housing-vacancy/) | Municipality-level housing vacancy from the Housing and Land Survey, 2003–2023 (five surveys); current-municipality master + merge crosswalk, bridged to `station_id` | v1.0.0 |
 
-Both datasets are also published to Zenodo (DOI, canonical archival copy)
-and Kaggle (discovery/exposure). See each dataset's README for the exact
+The station datasets are also published to Zenodo (DOI, canonical archival
+copy) and Kaggle (discovery/exposure). See each dataset's README for the exact
 citation.
 
 ## Repo layout
@@ -29,13 +30,17 @@ citation.
 ```
 datasets/
 ├── pipeline/            # harvest + build + validate — shared by all datasets
-│   ├── harvest/          # source-specific harvesters (currently: ODPT)
-│   ├── lib/              # entity resolution, geo helpers, CSV writer
+│   ├── harvest/          # source-specific harvesters (ODPT, MLIT N02, Wikidata, e-Stat, Soumu, GSI)
+│   ├── frozen/           # immutable v1 published CSV snapshot (the station-master freeze anchor)
+│   ├── id-lock.csv       # nationwide station_id lock (append-only across refreshes)
+│   ├── lib/              # entity resolution, geo, CSV, xlsx reader, kana→romaji
 │   ├── build-station-master.mjs
 │   ├── build-ridership.mjs
+│   ├── build-vacancy.mjs / build-municipalities.mjs / build-crosswalk.mjs
 │   └── validate.mjs      # schema + referential integrity + no-silent-rewrite gate
 ├── station-master/       # dataset 1 (README, metadata.json, CSVs)
 ├── station-ridership/    # dataset 2 (README, metadata.json, CSVs)
+├── housing-vacancy/      # dataset 3 (README, metadata.json, LICENSE-DATA, CSVs)
 ├── shared/
 │   ├── conventions.md    # the rules every dataset here follows
 │   └── station_ids.csv   # thin join-key export (derived from station-master)
@@ -46,7 +51,10 @@ datasets/
 
 ```
 export ODPT_TOKEN=...          # see ~/gachi-mcp-run/secrets/odpt-env
-npm run harvest:odpt           # refreshes pipeline/cache/*.json from ODPT
+npm run harvest:odpt           # refreshes ODPT cache (425 Tokyo stations)
+npm run harvest:n02            # refreshes MLIT N02 nationwide rail cache
+npm run harvest:wikidata       # refreshes Wikidata English-name cache (CC0)
+npm run harvest:n02-readings   # kuromoji Hepburn fallback cache (needs npm install)
 npm run build                  # regenerates all dataset CSVs, deterministically
 npm run validate               # schema check + diff-vs-last-commit + referential integrity
 ```
@@ -63,5 +71,5 @@ mutated history requires a human decision and a CHANGELOG.md entry.
 
 ## Want more?
 
-Latest-year data, full nationwide coverage, and per-station API/MCP query
+Latest-year data, live per-station updates, and per-station API/MCP query
 access: https://api.gachi-tokusuru.com

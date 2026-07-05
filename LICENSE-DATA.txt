@@ -36,6 +36,32 @@ their operator-level catalog page on ODPT. Screenshots of the relevant
 catalog/license pages as of the harvest date are kept in
 docs/odpt-license-screenshots/ for provenance.
 
+ADDITIONAL SOURCES FOR station-master v2 (nationwide stations)
+-----------------------------------------------------------------------------
+
+The nationwide stations added in station-master v2 (station_id st_00426 and up)
+are derived from the following sources, in addition to ODPT:
+
+1. MLIT 国土数値情報（鉄道データ） N02-24 — nationwide station geometry, line
+   names and operators. Published free for general use under the 国土数値情報
+   利用約款 (CC BY 4.0-compatible; https://nlftp.mlit.go.jp/ksj/other/agreement.html).
+   Required attribution, reproduced when you redistribute:
+
+       「国土数値情報（鉄道データ）」（国土交通省）を加工して作成
+       (Processed from MLIT National Land Numerical Information — Railway data,
+        N02-24. Source: https://nlftp.mlit.go.jp/ksj/ )
+
+   The result is processed/derived data and must not be presented as if it were
+   an official government product. See docs/n02-license-check.md.
+
+2. Wikidata — English station names (the `name` column where `name_source` is
+   `wikidata`). Released under CC0 1.0 (public domain dedication); no attribution
+   is legally required, but we credit Wikidata and its contributors.
+
+3. kuromoji (IPADIC) — machine Hepburn transliteration used only for the `name`
+   column where `name_source` is `romanized`. This is our own processing, not a
+   third-party dataset.
+
 This file itself, and the CC BY 4.0 terms, take precedence over any
 conflicting statement elsewhere in this repo for the dataset CSVs
 specifically. The pipeline *code* is separately MIT-licensed (see LICENSE).

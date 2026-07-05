@@ -1,18 +1,19 @@
 {
   "name": "Japan Station Master (Entity-Resolved)",
-  "version": "1.0.0",
-  "temporal_coverage": "2026 snapshot (ODPT catalog state as of harvest date)",
-  "geographic_coverage": "Greater Tokyo (all operators currently published by ODPT — see README for the operator list; nationwide coverage is planned as v2)",
+  "version": "2.0.0",
+  "temporal_coverage": "2026 snapshot (ODPT catalog state + MLIT N02-24 as of harvest date)",
+  "geographic_coverage": "Japan (nationwide). The 425 Greater-Tokyo stations from ODPT (English romaji + operator-declared transfer links) are preserved unchanged from v1; nationwide stations are added from MLIT 国土数値情報 N02 — see README.",
   "last_updated": "2026-07-05",
   "next_update_expected": "2027-07 (annual)",
   "license": "CC BY 4.0 (data) + MIT (pipeline code) — see LICENSE-DATA.txt and LICENSE",
   "doi": "10.5281/zenodo.21199500",
   "doi_version_v1": "10.5281/zenodo.21199501",
+  "doi_version_v2": "PENDING — assigned when v2.0.0 is released on Zenodo",
   "homepage": "https://github.com/eng213035/gachi-open-datasets/tree/main/station-master",
-  "source": "Public Transportation Open Data Center (ODPT) — odpt:Station, odpt:Operator, odpt:Railway",
+  "source": "Public Transportation Open Data Center (ODPT) — odpt:Station/Operator/Railway (425 Tokyo stations); MLIT 国土数値情報 N02-24 (鉄道) — nationwide stations/lines/operators; Wikidata (CC0) — English station names; kuromoji (IPADIC) — Hepburn fallback for names without a Wikidata match",
   "row_counts": {
-    "stations.csv": 425,
-    "station_members.csv": 579,
-    "lines.csv": 94
+    "stations.csv": 9145,
+    "station_members.csv": 9659,
+    "lines.csv": 681
   }
 }

@@ -1,0 +1,55 @@
+LICENSE FOR DATASET (CSV files under housing-vacancy/)
+===============================================================================
+
+The datasets in this folder are derived works of Japanese government open data.
+We license our derived CSVs under:
+
+    Creative Commons Attribution 4.0 International (CC BY 4.0)
+    https://creativecommons.org/licenses/by/4.0/
+
+The pipeline *code* is separately MIT-licensed (see ../LICENSE).
+
+
+SOURCES AND REQUIRED ATTRIBUTION
+-----------------------------------------------------------------------------
+
+1. Vacancy counts — Housing and Land Survey (住宅・土地統計調査), Statistics
+   Bureau of Japan (総務省統計局), obtained via e-Stat (政府統計の総合窓口).
+   e-Stat content is provided under the Government of Japan Standard Terms of
+   Use (政府標準利用規約 第2.0版), which are compatible with CC BY 4.0.
+   Required source credit (as redistributed):
+
+       出典：政府統計の総合窓口(e-Stat)「住宅・土地統計調査」（総務省統計局）
+       Source: Housing and Land Survey, Statistics Bureau of Japan, via e-Stat
+       (https://www.e-stat.go.jp/).
+
+   The `total_dwellings`, `vacant_total` and `vacant_other` columns are official
+   published values reproduced verbatim. `vacancy_rate` is computed by
+   gachi-tokusuru from those published counts (see README) and is not an
+   official e-Stat value.
+
+2. Municipality codes, names, kana readings, and merger (改廃) records —
+   総務省「全国地方公共団体コード」および「都道府県コード及び市区町村コード改正
+   一覧表」(Ministry of Internal Affairs and Communications). Provided under the
+   Government of Japan Standard Terms of Use (CC BY 4.0 compatible). English
+   names for municipalities dissolved before 2023 are Hepburn romanisations of
+   the official Soumu kana readings.
+
+3. Municipality coordinates — 国土地理院 (Geospatial Information Authority of
+   Japan, GSI) Address Search API. Representative points, not polygon centroids.
+
+4. Station bridge — English station names and station_id via the Japan Station
+   Master in this repository, itself derived from the Public Transportation Open
+   Data Center (ODPT); see ../LICENSE-DATA.txt.
+
+
+NOTES WHEN YOU REDISTRIBUTE OR BUILD ON THIS DATA
+-----------------------------------------------------------------------------
+
+- State the snapshot date (see metadata.json `last_updated`).
+- State that accuracy and completeness are not guaranteed, and that this is a
+  derived work, not an official government product.
+- The Housing and Land Survey is a sample survey; municipality coverage is
+  partial and varies by year (see README).
+- This file and the CC BY 4.0 terms take precedence over any conflicting
+  statement elsewhere in this repo for the housing-vacancy CSVs specifically.

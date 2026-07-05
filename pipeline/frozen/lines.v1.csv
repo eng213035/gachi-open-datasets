@@ -1,0 +1,95 @@
+line_id,name,name_ja,operator,station_order
+odpt.Railway:Hokuso.Hokuso,Hokuso Line,北総線,Hokuso Railway,st_00355|st_00356
+odpt.Railway:JR-Central.TokaidoShinkansen,Tokaido-Shinkansen,東海道新幹線,JR Central,st_00025|st_00139
+odpt.Railway:JR-East.AkitaShinkansen,Akita-Shinkansen,秋田新幹線,JR East,st_00139|st_00215
+odpt.Railway:JR-East.ChuoRapid,Chuo Rapid Line,中央線快速,JR East,st_00139|st_00140|st_00167|st_00169|st_00171|st_00185|st_00194|st_00196
+odpt.Railway:JR-East.ChuoSobuLocal,Chuo-Sobu Local Line,中央・総武線各駅停車,JR East,st_00136|st_00140|st_00163|st_00167|st_00171|st_00174|st_00175|st_00176|st_00178|st_00189|st_00192|st_00194|st_00196|st_00200|st_00201|st_00230|st_00332|st_00391
+odpt.Railway:JR-East.HokurikuShinkansen,Hokuriku-Shinkansen,北陸新幹線,JR East,st_00139|st_00215
+odpt.Railway:JR-East.JobanLocal,Joban Local Line,常磐線各駅停車,JR East,st_00289|st_00357|st_00375|st_00382|st_00383
+odpt.Railway:JR-East.JobanRapid,Joban Rapid Line,常磐線快速,JR East,st_00099|st_00139|st_00215|st_00240|st_00247|st_00274
+odpt.Railway:JR-East.JoetsuShinkansen,Joetsu-Shinkansen,上越新幹線,JR East,st_00139|st_00215
+odpt.Railway:JR-East.KeihinTohokuNegishi,Keihin-Tohoku-Negishi Line,京浜東北線・根岸線,JR East,st_00017|st_00018|st_00020|st_00044|st_00064|st_00074|st_00086|st_00099|st_00124|st_00139|st_00169|st_00174|st_00204|st_00215|st_00240|st_00248|st_00284
+odpt.Railway:JR-East.Keiyo,Keiyo Line,京葉線,JR East,st_00073|st_00122|st_00139|st_00201
+odpt.Railway:JR-East.Musashino,Musashino Line,武蔵野線,JR East,st_00201|st_00317
+odpt.Railway:JR-East.Nambu,Nambu Line,南武線,JR East,st_00185
+odpt.Railway:JR-East.Ome,Ome Line,青梅線,JR East,st_00185
+odpt.Railway:JR-East.SaikyoKawagoe,Saikyo-Kawagoe Line,埼京線・川越線,JR East,st_00048|st_00075|st_00088|st_00167|st_00241|st_00272|st_00362|st_00368|st_00377|st_00390|st_00416
+odpt.Railway:JR-East.ShonanShinjuku,Shonan-Shinjuku Line,湘南新宿ライン,JR East,st_00002|st_00020|st_00048|st_00075|st_00088|st_00167|st_00241
+odpt.Railway:JR-East.SobuRapid,Sobu Rapid Line,総武線快速,JR East,st_00139|st_00145|st_00165|st_00176
+odpt.Railway:JR-East.SotetsuDirect,Sotetsu Direct Connection Line,相鉄直通線,JR East,st_00048
+odpt.Railway:JR-East.Takasaki,Takasaki Line,高崎線,JR East,st_00139|st_00215
+odpt.Railway:JR-East.TohokuShinkansen,Tohoku-Shinkansen,東北新幹線,JR East,st_00139|st_00215
+odpt.Railway:JR-East.Tokaido,Tokaido Line,東海道線,JR East,st_00002|st_00020|st_00099|st_00139
+odpt.Railway:JR-East.Utsunomiya,Utsunomiya Line,宇都宮線,JR East,st_00139|st_00215
+odpt.Railway:JR-East.YamagataShinkansen,Yamagata-Shinkansen,山形新幹線,JR East,st_00139|st_00215
+odpt.Railway:JR-East.Yamanote,Yamanote Line,山手線,JR East,st_00048|st_00054|st_00060|st_00064|st_00074|st_00075|st_00086|st_00088|st_00099|st_00107|st_00124|st_00136|st_00139|st_00167|st_00169|st_00174|st_00204|st_00215|st_00217|st_00240|st_00241|st_00242|st_00248|st_00250|st_00253
+odpt.Railway:JR-East.Yokohama,Yokohama Line,横浜線,JR East,st_00025|st_00026
+odpt.Railway:JR-East.Yokosuka,Yokosuka Line,横須賀線,JR East,st_00002|st_00020|st_00099|st_00139
+odpt.Railway:KantoRailway.Joso,Joso Line,常総線,Kanto Railway,st_00322
+odpt.Railway:Keikyu.Airport,Airport Line,空港線,Keikyu Corporation,st_00404
+odpt.Railway:Keikyu.Kurihama,Kurihama Line,久里浜線,Keikyu Corporation,st_00330|st_00331|st_00337
+odpt.Railway:Keikyu.Main,Keikyu Main Line,京急本線,Keikyu Corporation,st_00009|st_00020|st_00064|st_00338|st_00339|st_00359|st_00393|st_00400|st_00418
+odpt.Railway:Keikyu.Zushi,Zushi Line,逗子線,Keikyu Corporation,st_00417
+odpt.Railway:Keio.Dobutsuen,Dobutsuen Line,動物園線,Keio Corporation,st_00076|st_00090
+odpt.Railway:Keio.Inokashira,Inokashira Line,井の頭線,Keio Corporation,st_00088
+odpt.Railway:Keio.Keibajo,Keibajo Line,競馬場線,Keio Corporation,st_00370
+odpt.Railway:Keio.Keio,Keio Line,京王線,Keio Corporation,st_00090|st_00167|st_00329|st_00344|st_00351|st_00384|st_00414
+odpt.Railway:Keio.KeioNew,Keio New Line,京王新線,Keio Corporation,st_00167|st_00402
+odpt.Railway:Keio.Sagamihara,Sagamihara Line,相模原線,Keio Corporation,st_00051|st_00386|st_00407
+odpt.Railway:Keio.Takao,Takao Line,高尾線,Keio Corporation,st_00422|st_00423
+odpt.Railway:Keisei.Main,Keisei Main Line,京成本線,Keisei Electric Railway,st_00215|st_00230|st_00240|st_00262|st_00340|st_00341|st_00342|st_00343|st_00365|st_00373
+odpt.Railway:Keisei.NaritaSkyAccess,Narita Sky Access Line,成田スカイアクセス線,Keisei Electric Railway,st_00374
+odpt.Railway:Keisei.Oshiage,Oshiage Line,押上線,Keisei Electric Railway,st_00212|st_00420
+odpt.Railway:Minatomirai.Minatomirai,Minatomirai Line,みなとみらい線,Yokohama Minatomirai Railway,st_00020|st_00349
+odpt.Railway:MIR.TsukubaExpress,Tsukuba Express Line,つくばエクスプレス,Metropolitan Intercity Railway,st_00174|st_00199|st_00219|st_00247|st_00274|st_00295|st_00305|st_00314|st_00316|st_00317|st_00318|st_00319|st_00320|st_00321|st_00322|st_00323|st_00324|st_00325|st_00326|st_00327
+odpt.Railway:Odakyu.Enoshima,Enoshima Line,江ノ島線,Odakyu Electric Railway,st_00001
+odpt.Railway:Odakyu.Odawara,Odawara Line,小田原線,Odakyu Electric Railway,st_00105|st_00167|st_00345|st_00358|st_00372|st_00378|st_00379|st_00395|st_00397|st_00398
+odpt.Railway:Odakyu.Tama,Tama Line,多摩線,Odakyu Electric Railway,st_00051|st_00360
+odpt.Railway:OdakyuHakone.HakoneTozan,Hakone-Tozan Line,箱根登山線,Odakyu Hakone,st_00403
+odpt.Railway:SaitamaRailway.SaitamaRailway,Saitama Railway Line,埼玉高速鉄道線,Saitama Railway,st_00303|st_00392|st_00424
+odpt.Railway:Seibu.Haijima,Haijima Line,拝島線,Seibu Railway,st_00243
+odpt.Railway:Seibu.Ikebukuro,Ikebukuro Line,池袋線,Seibu Railway,st_00241|st_00254|st_00346|st_00367|st_00376|st_00396|st_00399|st_00410|st_00421
+odpt.Railway:Seibu.Sayama,Sayama Line,狭山線,Seibu Railway,st_00411
+odpt.Railway:Seibu.SeibuChichibu,Seibu Chichibu Line,西武秩父線,Seibu Railway,st_00412
+odpt.Railway:Seibu.SeibuYurakucho,Seibu Yurakucho Line,西武有楽町線,Seibu Railway,st_00254|st_00264
+odpt.Railway:Seibu.Shinjuku,Shinjuku Line,新宿線,Seibu Railway,st_00167|st_00217|st_00218
+odpt.Railway:Seibu.Toshima,Toshima Line,豊島線,Seibu Railway,st_00254|st_00415
+odpt.Railway:Shibayama.Shibayama,Shibayama Line,芝山鉄道線,Shibayama Railway,st_00406
+odpt.Railway:Sotetsu.Izumino,Izumino Line,いずみ野線,Sagami Railway,st_00001
+odpt.Railway:Sotetsu.Main,Sotetsu Main Line,相鉄本線,Sagami Railway,st_00020|st_00328|st_00335|st_00361|st_00394
+odpt.Railway:Sotetsu.SotetsuShinYokohama,Sotetsu Shin-Yokohama Line,相鉄新横浜線,Sagami Railway,st_00025|st_00413
+odpt.Railway:TamaMonorail.TamaMonorail,Tama Monorail Line,多摩モノレール,Tokyo Tama Intercity Monorail,st_00051|st_00059|st_00062|st_00068|st_00076|st_00084|st_00090|st_00114|st_00128|st_00154|st_00185|st_00210|st_00220|st_00225|st_00231|st_00243|st_00257|st_00268
+odpt.Railway:Tobu.Isesaki,Isesaki Line,伊勢崎線,Tobu Railway,st_00334
+odpt.Railway:Tobu.Nikko,Nikko Line,日光線,Tobu Railway,st_00354
+odpt.Railway:Tobu.TobuSkytree,Tobu Skytree Line,東武スカイツリーライン,Tobu Railway,st_00206|st_00274|st_00352|st_00353|st_00380|st_00401|st_00408
+odpt.Railway:Tobu.TobuSkytreeBranch,Tobu Skytree Branch Line,東武スカイツリーライン(押上-曳舟),Tobu Railway,st_00212
+odpt.Railway:Tobu.TobuUrbanPark,Tobu Urban Park Line,東武アーバンパークライン,Tobu Railway,st_00319
+odpt.Railway:Tobu.Tojo,Tojo Line,東上線,Tobu Railway,st_00241|st_00307|st_00366|st_00369|st_00371|st_00385
+odpt.Railway:Toei.Arakawa,Tokyo Sakura Tram (Arakawa Line),東京さくらトラム（都電荒川線）,Tokyo Metropolitan Bureau of Transportation,st_00244|st_00249|st_00251|st_00256|st_00261|st_00262|st_00265|st_00267|st_00271|st_00275|st_00277|st_00278|st_00280|st_00281|st_00279|st_00284|st_00276|st_00270|st_00266|st_00259|st_00258|st_00252|st_00242|st_00239|st_00235|st_00233|st_00228|st_00221|st_00216|st_00214
+odpt.Railway:Toei.Asakusa,Asakusa Line,浅草線,Tokyo Metropolitan Bureau of Transportation,st_00041|st_00042|st_00043|st_00046|st_00054|st_00058|st_00064|st_00074|st_00086|st_00099|st_00111|st_00123|st_00133|st_00144|st_00165|st_00178|st_00190|st_00206|st_00205|st_00212
+odpt.Railway:Toei.Mita,Mita Line,三田線,Tokyo Metropolitan Bureau of Transportation,st_00060|st_00063|st_00069|st_00074|st_00082|st_00089|st_00108|st_00124|st_00139|st_00172|st_00192|st_00208|st_00229|st_00238|st_00250|st_00259|st_00272|st_00282|st_00288|st_00293|st_00297|st_00300|st_00304|st_00306|st_00309|st_00310|st_00311
+odpt.Railway:Toei.NipporiToneri,Nippori-Toneri Liner,日暮里・舎人ライナー,Tokyo Metropolitan Bureau of Transportation,st_00240|st_00248|st_00263|st_00271|st_00285|st_00290|st_00292|st_00296|st_00302|st_00308|st_00312|st_00313|st_00315
+odpt.Railway:Toei.Oedo,Oedo Line,大江戸線,Tokyo Metropolitan Bureau of Transportation,st_00159|st_00167|st_00181|st_00183|st_00186|st_00187|st_00189|st_00208|st_00202|st_00204|st_00199|st_00190|st_00175|st_00147|st_00134|st_00119|st_00094|st_00087|st_00097|st_00092|st_00086|st_00083|st_00085|st_00095|st_00120|st_00131|st_00136|st_00155|st_00180|st_00200|st_00218|st_00232|st_00245|st_00254|st_00260|st_00283|st_00287
+odpt.Railway:Toei.Shinjuku,Shinjuku Line,新宿線,Tokyo Metropolitan Bureau of Transportation,st_00167|st_00162|st_00166|st_00163|st_00173|st_00172|st_00171|st_00174|st_00165|st_00150|st_00147|st_00148|st_00151|st_00152|st_00153|st_00156|st_00138|st_00143|st_00168|st_00197|st_00230
+odpt.Railway:TokyoMetro.Chiyoda,Chiyoda Line,千代田線,Tokyo Metro,st_00105|st_00106|st_00107|st_00100|st_00102|st_00116|st_00121|st_00117|st_00124|st_00132|st_00139|st_00171|st_00198|st_00223|st_00236|st_00248|st_00262|st_00274|st_00289|st_00299
+odpt.Railway:TokyoMetro.Fukutoshin,Fukutoshin Line,副都心線,Tokyo Metro,st_00307|st_00298|st_00294|st_00286|st_00273|st_00264|st_00255|st_00246|st_00241|st_00228|st_00203|st_00181|st_00162|st_00129|st_00107|st_00088
+odpt.Railway:TokyoMetro.Ginza,Ginza Line,銀座線,Tokyo Metro,st_00088|st_00100|st_00113|st_00120|st_00126|st_00121|st_00112|st_00099|st_00115|st_00125|st_00133|st_00145|st_00169|st_00188|st_00204|st_00215|st_00213|st_00209|st_00206
+odpt.Railway:TokyoMetro.Hanzomon,Hanzomon Line,半蔵門線,Tokyo Metro,st_00088|st_00100|st_00120|st_00126|st_00142|st_00173|st_00172|st_00139|st_00145|st_00144|st_00134|st_00151|st_00176|st_00212
+odpt.Railway:TokyoMetro.Hibiya,Hibiya Line,日比谷線,Tokyo Metro,st_00070|st_00075|st_00079|st_00095|st_00091|st_00112|st_00117|st_00124|st_00115|st_00111|st_00103|st_00122|st_00130|st_00144|st_00157|st_00174|st_00204|st_00215|st_00227|st_00244|st_00247|st_00274
+odpt.Railway:TokyoMetro.Marunouchi,Marunouchi Line,丸ノ内線,Tokyo Metro,st_00194|st_00184|st_00179|st_00182|st_00177|st_00180|st_00170|st_00167|st_00162|st_00149|st_00146|st_00140|st_00126|st_00121|st_00117|st_00115|st_00139|st_00171|st_00202|st_00208|st_00222|st_00237|st_00241
+odpt.Railway:TokyoMetro.MarunouchiBranch,Marunouchi Branch Line,丸ノ内線支線,Tokyo Metro,st_00137|st_00160|st_00164|st_00180
+odpt.Railway:TokyoMetro.Namboku,Namboku Line,南北線,Tokyo Metro,st_00060|st_00063|st_00069|st_00085|st_00098|st_00121|st_00126|st_00140|st_00163|st_00189|st_00208|st_00224|st_00234|st_00253|st_00269|st_00284|st_00291|st_00301|st_00303
+odpt.Railway:TokyoMetro.Tozai,Tozai Line,東西線,Tokyo Metro,st_00196|st_00211|st_00217|st_00195|st_00193|st_00189|st_00173|st_00158|st_00139|st_00133|st_00130|st_00119|st_00109|st_00110|st_00104|st_00096|st_00093|st_00101|st_00118|st_00135|st_00161|st_00191|st_00201
+odpt.Railway:TokyoMetro.Yurakucho,Yurakucho Line,有楽町線,Tokyo Metro,st_00307|st_00298|st_00294|st_00286|st_00273|st_00264|st_00255|st_00246|st_00241|st_00235|st_00226|st_00207|st_00189|st_00163|st_00141|st_00126|st_00127|st_00124|st_00115|st_00103|st_00094|st_00080|st_00072|st_00073
+odpt.Railway:TokyoMonorail.HanedaAirport,Haneda Airport Line,羽田空港線,Tokyo Monorail,st_00049|st_00086
+odpt.Railway:Tokyu.DenEnToshi,Den-En-Toshi Line,田園都市線,Tokyu Railways,st_00040|st_00088|st_00333|st_00336|st_00419|st_00425
+odpt.Railway:Tokyu.Ikegami,Ikegami Line,池上線,Tokyu Railways,st_00046|st_00054
+odpt.Railway:Tokyu.Meguro,Meguro Line,目黒線,Tokyu Railways,st_00035|st_00060|st_00347|st_00363|st_00364|st_00387|st_00388
+odpt.Railway:Tokyu.Oimachi,Oimachi Line,大井町線,Tokyu Railways,st_00043|st_00044
+odpt.Railway:Tokyu.TokyuShinYokohama,Tokyu Shin-Yokohama Line,東急新横浜線,Tokyu Railways,st_00025|st_00035
+odpt.Railway:Tokyu.Toyoko,Toyoko Line,東横線,Tokyu Railways,st_00020|st_00035|st_00070|st_00088|st_00348|st_00389|st_00405|st_00409
+odpt.Railway:ToyoRapid.ToyoRapid,Toyo Rapid Line,東葉高速線,Toyo Rapid Railway,st_00201|st_00350|st_00381
+odpt.Railway:TWR.Rinkai,Rinkai Line,りんかい線,Tokyo Waterfront Area Rapid Transit,st_00073|st_00066|st_00061|st_00055|st_00049|st_00045|st_00044|st_00048
+odpt.Railway:YokohamaMunicipal.Blue,Blue Line,ブルーライン,"Transportation Bureau, City of Yokohama",st_00001|st_00007|st_00011|st_00010|st_00008|st_00002|st_00005|st_00006|st_00004|st_00003|st_00009|st_00012|st_00013|st_00014|st_00015|st_00016|st_00017|st_00018|st_00019|st_00020|st_00022|st_00021|st_00023|st_00024|st_00025|st_00027|st_00028|st_00030|st_00032|st_00036|st_00039|st_00040
+odpt.Railway:YokohamaMunicipal.Green,Green Line,グリーンライン,"Transportation Bureau, City of Yokohama",st_00026|st_00029|st_00031|st_00032|st_00036|st_00038|st_00037|st_00033|st_00034|st_00035
+odpt.Railway:Yurikamome.Yurikamome,Yurikamome line,ゆりかもめ,Yurikamome,st_00099|st_00092|st_00081|st_00078|st_00067|st_00056|st_00053|st_00050|st_00047|st_00052|st_00057|st_00061|st_00065|st_00071|st_00077|st_00080
