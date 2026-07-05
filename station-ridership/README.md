@@ -6,8 +6,16 @@ station, operator by operator, in one tidy CSV.
 
 ## Cite as
 
-> gachi-tokusuru (2026). *Japan Station Ridership 2000-2025*, v1.0.0.
-> Zenodo. https://doi.org/PENDING
+This dataset is published together with Japan Station Master as one
+combinable Zenodo record (they share a `station_id` join key):
+
+> gachi-tokusuru (2026). *Japan Station Master & Ridership — Canonical Open
+> Datasets (Greater Tokyo)* (v1.0.0) [Data set]. Zenodo.
+> https://doi.org/10.5281/zenodo.21199500
+
+(The DOI above is the concept DOI — it always resolves to the latest annual
+version. To cite this exact release, use the v1.0.0 DOI
+`10.5281/zenodo.21199501`.)
 
 ## License
 

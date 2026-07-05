@@ -1,5 +1,7 @@
 # gachi-open-datasets
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21199500.svg)](https://doi.org/10.5281/zenodo.21199500)
+
 Canonical, maintained open datasets built from Japanese public transit data.
 Existing English-language datasets on this topic are largely hand-built,
 stale, or incomplete (see each dataset's README for specifics) — these are

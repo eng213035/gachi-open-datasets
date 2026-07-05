@@ -4,6 +4,22 @@ Everything up to this point (harvest, build, validate, READMEs, licenses) is
 automated/done. These steps are inherently manual — they create or touch
 external accounts, which is out of scope for the pipeline itself.
 
+## STATUS (2026-07-05)
+
+- [x] **GitHub** — published: https://github.com/eng213035/gachi-open-datasets (public)
+- [x] **Zenodo** — published via GitHub integration, single DOI for the
+      combined repo (chosen over 2 separate DOIs for annual auto-update).
+      - Concept DOI (always latest): **10.5281/zenodo.21199500**
+      - v1.0.0 version DOI: **10.5281/zenodo.21199501**
+      - `.zenodo.json` in repo root controls the metadata (type=dataset,
+        CC BY 4.0, keywords). Each future GitHub Release auto-mints a new
+        version DOI — no manual Zenodo step needed at annual update.
+- [ ] **Kaggle** — not done (needs Kaggle login; see below)
+- [ ] **ODPT license screenshots** — URLs/text recorded, PNGs not captured
+      (see docs/odpt-license-screenshots/README.md)
+- [ ] **api.gachi-tokusuru.com "Open Datasets" section + llms.txt** — not done
+- [ ] **Precursor-repo outreach** — not done (do after Kaggle is live)
+
 ## 1. GitHub
 
 1. Create repo `gachi-open-datasets` under your account/org (public, MIT+CC

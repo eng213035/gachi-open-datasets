@@ -6,7 +6,8 @@
   "last_updated": "2026-07-05",
   "next_update_expected": "2027-07 (annual)",
   "license": "CC BY 4.0 (data) + MIT (pipeline code) — see LICENSE-DATA.txt and LICENSE",
-  "doi": "PENDING — filled in after first Zenodo registration",
+  "doi": "10.5281/zenodo.21199500",
+  "doi_version_v1": "10.5281/zenodo.21199501",
   "homepage": "https://github.com/eng213035/gachi-open-datasets/tree/main/station-master",
   "source": "Public Transportation Open Data Center (ODPT) — odpt:Station, odpt:Operator, odpt:Railway",
   "row_counts": {
