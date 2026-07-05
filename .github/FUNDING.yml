@@ -1,2 +1,3 @@
-# TODO before publishing: replace with your real GitHub Sponsors username/org.
-github: [gachi-tokusuru]
+# Renders a "Sponsor" button on the repo. Requires GitHub Sponsors to be
+# enabled on this account; until then the button simply won't show.
+github: [eng213035]
