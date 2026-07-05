@@ -14,7 +14,11 @@ external accounts, which is out of scope for the pipeline itself.
       - `.zenodo.json` in repo root controls the metadata (type=dataset,
         CC BY 4.0, keywords). Each future GitHub Release auto-mints a new
         version DOI — no manual Zenodo step needed at annual update.
-- [ ] **Kaggle** — not done (needs Kaggle login; see below)
+- [x] **Kaggle** — published (public, combined single dataset to match Zenodo):
+      https://www.kaggle.com/datasets/takufujii/japan-station-master-and-ridership-2000-2025-tokyo
+      Imported via GitHub-repo link; License=CC BY 4.0; tags=Transportation,
+      Rail Transport, Japan, Coronavirus; description carries the Zenodo DOI,
+      GitHub link, and the "Want more?" API/MCP hook.
 - [ ] **ODPT license screenshots** — URLs/text recorded, PNGs not captured
       (see docs/odpt-license-screenshots/README.md)
 - [ ] **api.gachi-tokusuru.com "Open Datasets" section + llms.txt** — not done
