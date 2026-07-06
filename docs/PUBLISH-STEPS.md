@@ -15,7 +15,7 @@ external accounts, which is out of scope for the pipeline itself.
         CC BY 4.0, keywords). Each future GitHub Release auto-mints a new
         version DOI — no manual Zenodo step needed at annual update.
 - [x] **Kaggle** — published (public, combined single dataset to match Zenodo):
-      https://www.kaggle.com/datasets/takufujii/japan-station-master-and-ridership-2000-2025-tokyo
+      https://www.kaggle.com/datasets/gachidata/japan-stations-ridership-and-akiya-2003-2025
       Imported via GitHub-repo link; License=CC BY 4.0; tags=Transportation,
       Rail Transport, Japan, Coronavirus; description carries the Zenodo DOI,
       GitHub link, and the "Want more?" API/MCP hook.

@@ -32,8 +32,8 @@ combinable Zenodo record (they share a `station_id` join key):
 > https://doi.org/10.5281/zenodo.21199500
 
 (The DOI above is the concept DOI — it always resolves to the latest version.
-To cite this exact release, use the v2.0.0 version DOI, assigned when v2 is
-published on Zenodo. The v1.0.0 Greater-Tokyo release remains citable at
+To cite this exact release, use the v2.0.0 version DOI
+`10.5281/zenodo.21207225`. The v1.0.0 Greater-Tokyo release remains citable at
 `10.5281/zenodo.21199501`.)
 
 ## License
