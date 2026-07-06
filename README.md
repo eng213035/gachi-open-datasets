@@ -63,6 +63,17 @@ npm run validate               # schema check + diff-vs-last-commit + referentia
 changed silently (see `shared/conventions.md` rule #3) — new rows are fine,
 mutated history requires a human decision and a CHANGELOG.md entry.
 
+## Sources
+
+Primary sources (dataset catalog / landing pages). See each dataset's
+`LICENSE-DATA.txt` for the exact required attribution wording.
+
+- **ODPT** (Public Transportation Open Data Center) — station names & Tokyo ridership: https://developer.odpt.org/
+- **MLIT 国土数値情報 N02/P11** — nationwide stations & bus stops: https://nlftp.mlit.go.jp/ksj/
+- **Wikidata** (CC0) — English station names: https://www.wikidata.org/
+- **Statistics Bureau of Japan (住宅・土地統計調査), via e-Stat** — housing vacancy: https://www.stat.go.jp/data/jyutaku/ · https://www.e-stat.go.jp/
+- **MIC (総務省)** — municipality codes & merger records; **GSI 国土地理院** — municipality coordinates (see `housing-vacancy/LICENSE-DATA.txt`).
+
 ## License
 
 - Dataset CSVs: CC BY 4.0 (see `LICENSE-DATA.txt` — required attribution

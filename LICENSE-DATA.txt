@@ -2,7 +2,8 @@ LICENSE FOR DATASETS (CSV files under station-master/ and station-ridership/)
 ===============================================================================
 
 The datasets in this repository are derived works of data published by the
-Public Transportation Open Data Center (ODPT, https://www.odpt.org/) under
+Public Transportation Open Data Center (ODPT, https://www.odpt.org/ ;
+developer catalog: https://developer.odpt.org/) under
 the Public Transportation Open Data Basic License
 ("公共交通オープンデータ基本ライセンス"). That license permits copying,
 redistribution, and modification — commercial or non-commercial — on
@@ -54,9 +55,10 @@ are derived from the following sources, in addition to ODPT:
    The result is processed/derived data and must not be presented as if it were
    an official government product. See docs/n02-license-check.md.
 
-2. Wikidata — English station names (the `name` column where `name_source` is
-   `wikidata`). Released under CC0 1.0 (public domain dedication); no attribution
-   is legally required, but we credit Wikidata and its contributors.
+2. Wikidata (https://www.wikidata.org/) — English station names (the `name`
+   column where `name_source` is `wikidata`). Released under CC0 1.0 (public
+   domain dedication); no attribution is legally required, but we credit
+   Wikidata and its contributors.
 
 3. kuromoji (IPADIC) — machine Hepburn transliteration used only for the `name`
    column where `name_source` is `romanized`. This is our own processing, not a

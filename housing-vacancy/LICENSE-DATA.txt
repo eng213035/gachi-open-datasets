@@ -21,7 +21,7 @@ SOURCES AND REQUIRED ATTRIBUTION
 
        出典：政府統計の総合窓口(e-Stat)「住宅・土地統計調査」（総務省統計局）
        Source: Housing and Land Survey, Statistics Bureau of Japan, via e-Stat
-       (https://www.e-stat.go.jp/).
+       (survey: https://www.stat.go.jp/data/jyutaku/ ; portal: https://www.e-stat.go.jp/).
 
    The `total_dwellings`, `vacant_total` and `vacant_other` columns are official
    published values reproduced verbatim. `vacancy_rate` is computed by
