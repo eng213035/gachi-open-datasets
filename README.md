@@ -72,7 +72,11 @@ Primary sources (dataset catalog / landing pages). See each dataset's
 - **MLIT 国土数値情報 N02/P11** — nationwide stations & bus stops: https://nlftp.mlit.go.jp/ksj/
 - **Wikidata** (CC0) — English station names: https://www.wikidata.org/
 - **Statistics Bureau of Japan (住宅・土地統計調査), via e-Stat** — housing vacancy: https://www.stat.go.jp/data/jyutaku/ · https://www.e-stat.go.jp/
-- **MIC (総務省)** — municipality codes & merger records; **GSI 国土地理院** — municipality coordinates (see `housing-vacancy/LICENSE-DATA.txt`).
+- **MIC (総務省)** — municipality codes & merger records: https://www.soumu.go.jp/denshijiti/code.html
+- **GSI 国土地理院** — municipality coordinates (Address Search API): https://maps.gsi.go.jp/
+
+Exact required attribution wording for the housing-vacancy sources is in
+[housing-vacancy/LICENSE-DATA.txt](housing-vacancy/LICENSE-DATA.txt).
 
 ## License
 
