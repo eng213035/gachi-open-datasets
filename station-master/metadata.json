@@ -9,6 +9,7 @@
   "doi": "10.5281/zenodo.21199500",
   "doi_version_v1": "10.5281/zenodo.21199501",
   "doi_version_v2": "10.5281/zenodo.21207225",
+  "doi_version_v2_1": "10.5281/zenodo.21287663",
   "homepage": "https://github.com/eng213035/gachi-open-datasets/tree/main/station-master",
   "source": "Public Transportation Open Data Center (ODPT) — odpt:Station/Operator/Railway (425 Tokyo stations); MLIT 国土数値情報 N02-24 (鉄道) — nationwide stations/lines/operators; Wikidata (CC0) — English station names; kuromoji (IPADIC) — Hepburn fallback for names without a Wikidata match",
   "row_counts": {
