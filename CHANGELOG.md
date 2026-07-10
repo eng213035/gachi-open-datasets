@@ -4,6 +4,23 @@ Entries here explain *why* whenever a previously-published data value
 changes (per `shared/conventions.md` rule #3) — new rows appended in an
 annual update don't need an entry; corrected/removed historical values do.
 
+## 2026-07-09 — station-master v2.1.0 (romaji corrections)
+
+- **227 corrected romanizations in `station-master/stations.csv`** (the `name`
+  column only). No `station_id`, coordinates, operators, line links, or row
+  counts changed — English readings only, so existing joins are unaffected. Two
+  error classes were fixed:
+  - **Mis-readings** — e.g. the suffix 橋 read as *-kyo* instead of *-bashi*;
+    石垣 as *Ishikaki* → *Ishigaki*.
+  - **Leaked neighbouring-station names** — a `name` that had picked up an
+    adjacent station's romaji: 国際展示場 *Ariake* → *Kokusai-tenjijo*,
+    後楽園 *Kasuga* → *Korakuen*, 東日本橋 *Bakuro-yokoyama* → *Higashi-nihombashi*.
+- **Method**: audited all 8,650 distinct name→romaji pairs; 3.0% were flagged,
+  and the 227 genuine errors applied. Macron-only differences and
+  official-English/loanword forms were excluded (kept as correct).
+- **Why this is a correction (rule #3)**: these `name` values were published in
+  v2.0.0 and were wrong; they are now fixed. IDs are unchanged.
+
 ## 2026-07-05 — station-master v2.0.0 (nationwide)
 
 - **Nationwide expansion.** `station-master` grows from 425 Greater-Tokyo

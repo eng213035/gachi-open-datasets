@@ -17,7 +17,7 @@ rebuilding the plumbing each time.
 
 | Dataset | What it is | Status |
 |---|---|---|
-| [station-master/](station-master/) | Entity-resolved Japan station master (**nationwide**, 9,145 stations) — one row per physical station across all operators | v2.0.0 |
+| [station-master/](station-master/) | Entity-resolved Japan station master (**nationwide**, 9,145 stations) — one row per physical station across all operators | v2.1.0 |
 | [station-ridership/](station-ridership/) | Annual per-station ridership, 2000-2025, joined to station-master's `station_id` | v1.0.0 |
 | [housing-vacancy/](housing-vacancy/) | Municipality-level housing vacancy from the Housing and Land Survey, 2003–2023 (five surveys); current-municipality master + merge crosswalk, bridged to `station_id` | v1.0.0 |
 
