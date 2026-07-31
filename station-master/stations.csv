@@ -195,7 +195,7 @@ st_00193,Kagurazaka,神楽坂,odpt,35.703865,139.734520,Tokyo,Tokyo Metro,single
 st_00194,Ogikubo,荻窪,odpt,35.704175,139.619760,Tokyo,JR East;Tokyo Metro,high,3
 st_00195,Waseda,早稲田,odpt,35.705680,139.722190,Tokyo,Tokyo Metro,single,1
 st_00196,Nakano,中野,odpt,35.705740,139.665605,Tokyo,JR East;Tokyo Metro,high,3
-st_00197,Shinozaki,篠崎,odpt,35.706022,139.903796,Chiba,Tokyo Metropolitan Bureau of Transportation,single,1
+st_00197,Shinozaki,篠崎,odpt,35.706022,139.903796,Tokyo,Tokyo Metropolitan Bureau of Transportation,single,1
 st_00198,Yushima,湯島,odpt,35.706805,139.769981,Tokyo,Tokyo Metro,single,1
 st_00199,Shin-okachimachi,新御徒町,odpt,35.707059,139.782053,Tokyo,Metropolitan Intercity Railway;Tokyo Metropolitan Bureau of Transportation,high,2
 st_00200,Higashi-nakano,東中野,odpt,35.707160,139.683112,Tokyo,JR East;Tokyo Metropolitan Bureau of Transportation,high,2
@@ -547,7 +547,7 @@ st_00545,Isoichi,五十市,wikidata,31.718720,131.033200,Miyazaki,九州旅客�
 st_00546,Kushikino,串木野,wikidata,31.721810,130.274400,Kagoshima,九州旅客鉄道,single,1
 st_00547,Nishi-Miyakonojo,西都城,wikidata,31.722400,131.056710,Miyazaki,九州旅客鉄道,single,1
 st_00548,Chosa,帖佐,wikidata,31.726150,130.632140,Kagoshima,九州旅客鉄道,single,1
-st_00549,Takarabe,財部,wikidata,31.728760,130.990630,Miyazaki,九州旅客鉄道,single,1
+st_00549,Takarabe,財部,wikidata,31.728760,130.990630,Kagoshima,九州旅客鉄道,single,1
 st_00550,Mimata,三股,wikidata,31.733420,131.118620,Miyazaki,九州旅客鉄道,single,1
 st_00551,Kinko,錦江,wikidata,31.736630,130.652650,Kagoshima,九州旅客鉄道,single,1
 st_00552,Miyakonojo,都城,wikidata,31.736640,131.073100,Miyazaki,九州旅客鉄道,high,2
@@ -555,13 +555,13 @@ st_00553,Kouchiumi,小内海,wikidata,31.738100,131.466380,Miyazaki,九州旅客
 st_00554,Kajiki,加治木,wikidata,31.739450,130.669540,Kagoshima,九州旅客鉄道,single,1
 st_00555,Hayato,隼人,wikidata,31.743030,130.739380,Kagoshima,九州旅客鉄道,high,2
 st_00556,Kokubu,国分,wikidata,31.743740,130.763580,Kagoshima,九州旅客鉄道,single,1
-st_00557,Kitamata,北俣,wikidata,31.745220,130.959510,Miyazaki,九州旅客鉄道,single,1
+st_00557,Kitamata,北俣,wikidata,31.745220,130.959510,Kagoshima,九州旅客鉄道,single,1
 st_00558,Mochibaru,餅原,wikidata,31.756720,131.132140,Miyazaki,九州旅客鉄道,single,1
 st_00559,Uchiumi,内海,wikidata,31.758780,131.467200,Miyazaki,九州旅客鉄道,single,1
 st_00560,Hyuga Shonai,日向庄内,wikidata,31.762600,131.061490,Miyazaki,九州旅客鉄道,single,1
 st_00561,Hinatayama,日当山,wikidata,31.763820,130.749490,Kagoshima,九州旅客鉄道,single,1
 st_00562,Kobanchaya,木場茶屋,wikidata,31.766860,130.308130,Kagoshima,九州旅客鉄道,single,1
-st_00563,Osumi-Okawara,大隅大川原,wikidata,31.772800,130.923480,Miyazaki,九州旅客鉄道,single,1
+st_00563,Osumi-Okawara,大隅大川原,wikidata,31.772800,130.923480,Kagoshima,九州旅客鉄道,single,1
 st_00564,Yamanokuchi,山之口,wikidata,31.781960,131.152680,Miyazaki,九州旅客鉄道,single,1
 st_00565,Kita-Naganoda,北永野田,wikidata,31.782400,130.873820,Kagoshima,九州旅客鉄道,single,1
 st_00566,Tanigashira,谷頭,wikidata,31.789730,131.053870,Miyazaki,九州旅客鉄道,single,1
@@ -611,7 +611,7 @@ st_00609,Nishi Kobayashi,西小林,wikidata,32.009540,130.921380,Miyazaki,九州
 st_00610,Yoshimatsu,吉松,wikidata,32.011280,130.738280,Kagoshima,九州旅客鉄道,high,2
 st_00611,Sadowara,佐土原,wikidata,32.023330,131.477500,Miyazaki,九州旅客鉄道,single,1
 st_00612,Akune,阿久根,wikidata,32.024350,130.196120,Kagoshima,肥薩おれんじ鉄道,single,1
-st_00613,Tsurumaru,鶴丸,wikidata,32.030350,130.748420,Miyazaki,九州旅客鉄道,single,1
+st_00613,Tsurumaru,鶴丸,wikidata,32.030350,130.748420,Kagoshima,九州旅客鉄道,single,1
 st_00614,Ebino Iino,えびの飯野,wikidata,32.030540,130.870560,Miyazaki,九州旅客鉄道,single,1
 st_00615,Ebino Uwae,えびの上江,wikidata,32.035700,130.849630,Miyazaki,九州旅客鉄道,single,1
 st_00616,Ebino,えびの,wikidata,32.042370,130.815480,Miyazaki,九州旅客鉄道,single,1
@@ -623,7 +623,7 @@ st_00621,Hyuga-Shintomi,日向新富,wikidata,32.071640,131.500690,Miyazaki,九�
 st_00622,Masaki,真幸,wikidata,32.074300,130.728860,Miyazaki,九州旅客鉄道,single,1
 st_00623,Nishi-Izumi,西出水,wikidata,32.075090,130.338520,Kagoshima,肥薩おれんじ鉄道,single,1
 st_00624,Izumi,出水,wikidata,32.088890,130.358370,Kagoshima,九州旅客鉄道;肥薩おれんじ鉄道,high,2
-st_00625,Yatake,矢岳,wikidata,32.104770,130.769950,Miyazaki,九州旅客鉄道,single,1
+st_00625,Yatake,矢岳,wikidata,32.104770,130.769950,Kumamoto,九州旅客鉄道,single,1
 st_00626,Komenotsu,米ノ津,wikidata,32.121480,130.341580,Kagoshima,肥薩おれんじ鉄道,single,1
 st_00627,Takanabe,高鍋,wikidata,32.123730,131.534250,Miyazaki,九州旅客鉄道,single,1
 st_00628,Okoba,大畑,wikidata,32.164830,130.787270,Kumamoto,九州旅客鉄道,single,1
@@ -750,7 +750,7 @@ st_00748,Minami-Kumamoto,南熊本,wikidata,32.784880,130.711190,Kumamoto,九州
 st_00749,Tasakibashi,田崎橋,romanized,32.785100,130.688520,Kumamoto,熊本市,single,1
 st_00750,Nagasakidaigaku,長崎大学,romanized,32.785170,129.862450,Nagasaki,長崎電気軌道,single,1
 st_00751,Shogyokokomae,商業高校前,romanized,32.785380,130.739090,Kumamoto,熊本市,single,1
-st_00752,Sotaro,宗太郎,wikidata,32.785990,131.706670,Miyazaki,九州旅客鉄道,single,1
+st_00752,Sotaro,宗太郎,wikidata,32.785990,131.706670,Oita,九州旅客鉄道,single,1
 st_00753,Nihongiguchi,二本木口,romanized,32.787170,130.689430,Kumamoto,熊本市,single,1
 st_00754,Wakabamachi,若葉町,romanized,32.787326,129.861818,Nagasaki,長崎電気軌道,single,1
 st_00755,Shiritsutaiikukanmaekenchodori,市立体育館前（県庁通）,romanized,32.788220,130.734970,Kumamoto,熊本市,single,1
@@ -875,7 +875,7 @@ st_00873,Onoshimo,大野下,wikidata,32.921760,130.501480,Kumamoto,九州旅客�
 st_00874,Suwa,諏訪,wikidata,32.924286,129.959980,Nagasaki,九州旅客鉄道,single,1
 st_00875,Konagai,小長井,wikidata,32.924710,130.186910,Nagasaki,九州旅客鉄道,single,1
 st_00876,Tamana,玉名,wikidata,32.925910,130.547430,Kumamoto,九州旅客鉄道,single,1
-st_00877,Bungo-Ogi,豊後荻,wikidata,32.927180,131.297140,Kumamoto,九州旅客鉄道,single,1
+st_00877,Bungo-Ogi,豊後荻,wikidata,32.927180,131.297140,Oita,九州旅客鉄道,single,1
 st_00878,Naomi,直見,wikidata,32.927700,131.807290,Oita,九州旅客鉄道,single,1
 st_00879,Ichinokawa,市ノ川,wikidata,32.927910,131.007250,Kumamoto,九州旅客鉄道,single,1
 st_00880,Sukumo,宿毛,wikidata,32.932530,132.713980,Kochi,土佐くろしお鉄道,single,1
@@ -934,7 +934,7 @@ st_00932,Ogushigo,小串郷,wikidata,33.064010,129.834130,Nagasaki,九州旅客�
 st_00933,Saga-Koen,佐賀公園,wikidata,33.064240,133.106230,Kochi,土佐くろしお鉄道,single,1
 st_00934,Hishiro,日代,wikidata,33.066200,131.919030,Oita,九州旅客鉄道,single,1
 st_00935,Kawatana,川棚,wikidata,33.068310,129.863130,Nagasaki,九州旅客鉄道,single,1
-st_00936,Shin-Omuta,新大牟田,wikidata,33.070375,130.488959,Kumamoto,九州旅客鉄道,single,1
+st_00936,Shin-Omuta,新大牟田,wikidata,33.070375,130.488959,Fukuoka,九州旅客鉄道,single,1
 st_00937,Hizen-Nanaura,肥前七浦,wikidata,33.071390,130.144960,Saga,九州旅客鉄道,single,1
 st_00938,Kuranaga,倉永,wikidata,33.072210,130.463730,Fukuoka,西日本鉄道,single,1
 st_00939,Tsukumi,津久見,wikidata,33.072770,131.864210,Oita,九州旅客鉄道,single,1
@@ -977,12 +977,12 @@ st_00975,Yakabe,矢加部,wikidata,33.173580,130.415930,Fukuoka,西日本鉄道,
 st_00976,Sashiu,佐志生,wikidata,33.174980,131.817740,Oita,九州旅客鉄道,single,1
 st_00977,Utsuigawa,打井川,wikidata,33.175510,133.029340,Kochi,四国旅客鉄道,single,1
 st_00978,Oita-Daigaku-mae,大分大学前,wikidata,33.176630,131.619680,Oita,九州旅客鉄道,single,1
-st_00979,Ekawasaki,江川崎,wikidata,33.178330,132.782840,Ehime,四国旅客鉄道,single,1
+st_00979,Ekawasaki,江川崎,wikidata,33.178330,132.782840,Kochi,四国旅客鉄道,single,1
 st_00980,Chikugo-Funagoya,筑後船小屋,wikidata,33.178582,130.492092,Fukuoka,九州旅客鉄道,high,2
 st_00981,Arita,有田,wikidata,33.184250,129.880850,Saga,九州旅客鉄道;松浦鉄道,high,2
 st_00982,Shonai,庄内,wikidata,33.185080,131.401170,Oita,九州旅客鉄道,single,1
 st_00983,Onoya,小野屋,wikidata,33.185380,131.452090,Oita,九州旅客鉄道,single,1
-st_00984,Nishigaho,西ヶ方,romanized,33.187160,132.767060,Ehime,四国旅客鉄道,single,1
+st_00984,Nishigaho,西ヶ方,romanized,33.187160,132.767060,Kochi,四国旅客鉄道,single,1
 st_00985,Tenjinyama,天神山,wikidata,33.187410,131.438250,Oita,九州旅客鉄道,single,1
 st_00986,Kita-Sasebo,北佐世保,wikidata,33.187430,129.720090,Nagasaki,松浦鉄道,single,1
 st_00987,Hizen-Shiroishi,肥前白石,wikidata,33.187560,130.135820,Saga,九州旅客鉄道,single,1
@@ -1005,7 +1005,7 @@ st_01003,Yamanota,山の田,wikidata,33.196670,129.723140,Nagasaki,松浦鉄道,
 st_01004,Mukainoharu,向之原,wikidata,33.196760,131.514470,Oita,九州旅客鉄道,single,1
 st_01005,Yunohira,湯平,wikidata,33.197450,131.353790,Oita,九州旅客鉄道,single,1
 st_01006,Tanagata,棚方,wikidata,33.201910,129.651870,Nagasaki,松浦鉄道,single,1
-st_01007,Hage,半家,wikidata,33.202020,132.792300,Ehime,四国旅客鉄道,single,1
+st_01007,Hage,半家,wikidata,33.202020,132.792300,Kochi,四国旅客鉄道,single,1
 st_01008,Zoshuku,蔵宿,wikidata,33.202460,129.850590,Saga,松浦鉄道,single,1
 st_01009,Senpukuji,泉福寺,wikidata,33.206290,129.727250,Nagasaki,松浦鉄道,single,1
 st_01010,Masaru,真申,wikidata,33.206810,129.651150,Nagasaki,松浦鉄道,single,1
@@ -1025,7 +1025,7 @@ st_01023,Kaize,皆瀬,wikidata,33.213430,129.701360,Nagasaki,松浦鉄道,single
 st_01024,Minami-Oita,南大分,wikidata,33.213930,131.586660,Oita,九州旅客鉄道,single,1
 st_01025,Kitagata,北方,wikidata,33.216310,130.082590,Saga,九州旅客鉄道,single,1
 st_01026,Kohoku,江北,wikidata,33.219210,130.159500,Saga,九州旅客鉄道,high,2
-st_01027,Tosa-Showa,土佐昭和,wikidata,33.220040,132.897550,Ehime,四国旅客鉄道,single,1
+st_01027,Tosa-Showa,土佐昭和,wikidata,33.220040,132.897550,Kochi,四国旅客鉄道,single,1
 st_01028,Furukofu,古国府,wikidata,33.220610,131.608670,Oita,九州旅客鉄道,single,1
 st_01029,Ogi,大木,wikidata,33.221850,129.849890,Saga,松浦鉄道,single,1
 st_01030,Koura,小浦,wikidata,33.222250,129.641550,Nagasaki,松浦鉄道,single,1
@@ -1039,7 +1039,7 @@ st_01037,Hikiji,引治,wikidata,33.229390,131.183480,Oita,九州旅客鉄道,sin
 st_01038,Yamadani,山谷,wikidata,33.229440,129.849330,Saga,松浦鉄道,single,1
 st_01039,Oita,大分,wikidata,33.232890,131.606080,Oita,九州旅客鉄道,high,3
 st_01040,Kozaki,幸崎,wikidata,33.234000,131.795140,Oita,九州旅客鉄道,single,1
-st_01041,Tokawa,十川,wikidata,33.234900,132.855940,Ehime,四国旅客鉄道,single,1
+st_01041,Tokawa,十川,wikidata,33.234900,132.855940,Kochi,四国旅客鉄道,single,1
 st_01042,Saza,佐々,wikidata,33.236490,129.646620,Nagasaki,松浦鉄道,single,1
 st_01043,Sakanoichi,坂ノ市,wikidata,33.236680,131.751260,Oita,九州旅客鉄道,single,1
 st_01044,Maki,牧,wikidata,33.237310,131.638180,Oita,九州旅客鉄道,single,1
@@ -1075,7 +1075,7 @@ st_01073,Yoshii,吉井,wikidata,33.266340,129.685150,Nagasaki,松浦鉄道,singl
 st_01074,Kawahigashi,川東,wikidata,33.267110,129.863630,Saga,松浦鉄道,single,1
 st_01075,Higashi-Beppu,東別府,wikidata,33.267880,131.510160,Oita,九州旅客鉄道,single,1
 st_01076,Fukata,深田,wikidata,33.267980,132.660300,Ehime,四国旅客鉄道,single,1
-st_01077,Daizenji,大善寺,wikidata,33.269660,130.473830,Saga,西日本鉄道,single,1
+st_01077,Daizenji,大善寺,wikidata,33.269660,130.473830,Fukuoka,西日本鉄道,single,1
 st_01078,Kami-Imari,上伊万里,wikidata,33.269910,129.892950,Saga,九州旅客鉄道,single,1
 st_01079,Imari,伊万里,wikidata,33.271830,129.877330,Saga,九州旅客鉄道;松浦鉄道,high,2
 st_01080,Momonokawa,桃川,wikidata,33.271920,129.957090,Saga,九州旅客鉄道,single,1
@@ -1129,7 +1129,7 @@ st_01127,Komanaki,駒鳴,wikidata,33.319770,129.972400,Saga,九州旅客鉄道,s
 st_01128,Kurume,久留米,wikidata,33.319959,130.501451,Fukuoka,九州旅客鉄道,high,3
 st_01129,Zendoji,善導寺,wikidata,33.319970,130.607990,Fukuoka,九州旅客鉄道,single,1
 st_01130,Chikugo-Kusano,筑後草野,wikidata,33.322080,130.641590,Fukuoka,九州旅客鉄道,single,1
-st_01131,Haze,波瀬,wikidata,33.322360,129.807190,Nagasaki,松浦鉄道,single,1
+st_01131,Haze,波瀬,wikidata,33.322360,129.807190,Saga,松浦鉄道,single,1
 st_01132,Kyuragi,厳木,wikidata,33.323420,130.059930,Saga,九州旅客鉄道,single,1
 st_01133,Yoshinosatokoen,吉野ヶ里公園,romanized,33.323970,130.397600,Saga,九州旅客鉄道,single,1
 st_01134,Teruoka,光岡,wikidata,33.327600,130.919190,Oita,九州旅客鉄道,single,1
@@ -1139,16 +1139,16 @@ st_01137,Goromaru,五郎丸,wikidata,33.330240,130.539630,Fukuoka,西日本鉄�
 st_01138,Kamegawa,亀川,wikidata,33.330780,131.492980,Oita,九州旅客鉄道,single,1
 st_01139,Iwaya,岩屋,wikidata,33.331150,130.038530,Saga,九州旅客鉄道,single,1
 st_01140,Ukiha,うきは,wikidata,33.335080,130.789580,Fukuoka,九州旅客鉄道,single,1
-st_01141,Uranosaki,浦ノ崎,wikidata,33.335190,129.792610,Nagasaki,松浦鉄道,single,1
+st_01141,Uranosaki,浦ノ崎,wikidata,33.335190,129.792610,Saga,松浦鉄道,single,1
 st_01142,Gakko-Mae,学校前,wikidata,33.336060,130.547190,Fukuoka,西日本鉄道,single,1
 st_01143,Sari,佐里,wikidata,33.337400,129.978400,Saga,九州旅客鉄道,single,1
-st_01144,Fukushimaguchi,福島口,wikidata,33.338430,129.790090,Nagasaki,松浦鉄道,single,1
+st_01144,Fukushimaguchi,福島口,wikidata,33.338430,129.790090,Saga,松浦鉄道,single,1
 st_01145,Tanushimaru,田主丸,wikidata,33.338450,130.691620,Fukuoka,九州旅客鉄道,single,1
 st_01146,Chikugo-Yoshii,筑後吉井,wikidata,33.341020,130.752000,Fukuoka,九州旅客鉄道,single,1
 st_01147,Koganchaya,古賀茶屋,wikidata,33.343560,130.566600,Fukuoka,西日本鉄道,single,1
 st_01148,Matsuura,松浦,wikidata,33.344120,129.707310,Nagasaki,松浦鉄道,single,1
 st_01149,Nishi-Tabira,西田平,wikidata,33.344780,129.590690,Nagasaki,松浦鉄道,single,1
-st_01150,Imayama,今山,wikidata,33.344890,130.876770,Fukuoka,九州旅客鉄道,single,1
+st_01150,Imayama,今山,wikidata,33.344890,130.876770,Oita,九州旅客鉄道,single,1
 st_01151,Kitano,北野,wikidata,33.345390,130.582840,Fukuoka,西日本鉄道,single,1
 st_01152,Nakabaru,中原,wikidata,33.346760,130.441350,Saga,九州旅客鉄道,single,1
 st_01153,Ochi,相知,wikidata,33.347070,130.018680,Saga,九州旅客鉄道,single,1
@@ -1161,7 +1161,7 @@ st_01159,Shimo-Uwa,下宇和,wikidata,33.350090,132.530950,Ehime,四国旅客鉄
 st_01160,Oki,大城,wikidata,33.351010,130.607430,Fukuoka,西日本鉄道,single,1
 st_01161,Tsukinokawa,調川,wikidata,33.351940,129.727190,Nagasaki,松浦鉄道,single,1
 st_01162,Kaneshima,金島,wikidata,33.353070,130.622820,Fukuoka,西日本鉄道,single,1
-st_01163,Ajisaka,味坂,wikidata,33.353430,130.540760,Saga,西日本鉄道,single,1
+st_01163,Ajisaka,味坂,wikidata,33.353430,130.540760,Fukuoka,西日本鉄道,single,1
 st_01164,Takashimaguchi,鷹島口,wikidata,33.354180,129.761730,Nagasaki,松浦鉄道,single,1
 st_01165,Naka-Tabira,中田平,wikidata,33.355470,129.610970,Nagasaki,松浦鉄道,single,1
 st_01166,Nishikoba,西木場,wikidata,33.355610,129.638170,Nagasaki,松浦鉄道,single,1
@@ -1173,7 +1173,7 @@ st_01171,Tabira-Hiradoguchi,たびら平戸口,wikidata,33.362530,129.583260,Nag
 st_01172,Unomachi,卯之町,wikidata,33.363460,132.509550,Ehime,四国旅客鉄道,single,1
 st_01173,Hizen-Fumoto,肥前麓,wikidata,33.365930,130.478910,Saga,九州旅客鉄道,single,1
 st_01174,Mikuriya,御厨,wikidata,33.366090,129.662120,Nagasaki,松浦鉄道,single,1
-st_01175,Otsuru,大鶴,wikidata,33.366710,130.885310,Fukuoka,九州旅客鉄道,single,1
+st_01175,Otsuru,大鶴,wikidata,33.366710,130.885310,Oita,九州旅客鉄道,single,1
 st_01176,Awa,安和,wikidata,33.367150,133.259140,Kochi,四国旅客鉄道,single,1
 st_01177,Hiji,日出,wikidata,33.368560,131.544420,Oita,九州旅客鉄道,single,1
 st_01178,Shin-Tosu,新鳥栖,wikidata,33.370209,130.490931,Saga,九州旅客鉄道,high,2
@@ -1197,7 +1197,7 @@ st_01195,Ogori,小郡,wikidata,33.397430,130.552800,Fukuoka,甘木鉄道,single,
 st_01196,Kamiura,上浦,wikidata,33.398360,130.637120,Fukuoka,西日本鉄道,single,1
 st_01197,Oitai,大板井,wikidata,33.398450,130.560700,Fukuoka,甘木鉄道,single,1
 st_01198,Matsuzaki,松崎,wikidata,33.399770,130.581640,Fukuoka,甘木鉄道,single,1
-st_01199,Yayoigaoka,弥生が丘,wikidata,33.402940,130.528690,Fukuoka,九州旅客鉄道,single,1
+st_01199,Yayoigaoka,弥生が丘,wikidata,33.402940,130.528690,Saga,九州旅客鉄道,single,1
 st_01200,Imaguma,今隈,wikidata,33.403840,130.593870,Fukuoka,甘木鉄道,single,1
 st_01201,Mada,馬田,wikidata,33.407280,130.640510,Fukuoka,西日本鉄道,single,1
 st_01202,Oma,大間,wikidata,33.407290,133.287920,Kochi,四国旅客鉄道,single,1
@@ -1229,7 +1229,7 @@ st_01227,Tsuko,津古,wikidata,33.445950,130.565470,Fukuoka,西日本鉄道,sing
 st_01228,Tonohama,唐浜,wikidata,33.445960,133.966350,Kochi,土佐くろしお鉄道,single,1
 st_01229,Hamasaki,浜崎,wikidata,33.446760,130.036700,Saga,九州旅客鉄道,single,1
 st_01230,Naka-Yamaga,中山香,wikidata,33.449200,131.504710,Oita,九州旅客鉄道,single,1
-st_01231,Haruda,原田,wikidata,33.451530,130.539390,Saga,九州旅客鉄道,high,2
+st_01231,Haruda,原田,wikidata,33.451530,130.539390,Fukuoka,九州旅客鉄道,high,2
 st_01232,Yawatahama,八幡浜,wikidata,33.458250,132.436500,Ehime,四国旅客鉄道,single,1
 st_01233,Shimoyama,下山,wikidata,33.458310,133.948130,Kochi,土佐くろしお鉄道,single,1
 st_01234,Nishi-Karatsu,西唐津,wikidata,33.460990,129.958230,Saga,九州旅客鉄道,single,1
@@ -1241,7 +1241,7 @@ st_01239,Togano,斗賀野,wikidata,33.475960,133.286770,Kochi,四国旅客鉄道
 st_01240,Chikuzen-Yamae,筑前山家,wikidata,33.477130,130.573660,Fukuoka,九州旅客鉄道,single,1
 st_01241,Tateishi,立石,wikidata,33.482080,131.477010,Oita,九州旅客鉄道,single,1
 st_01242,Tenpaizan,天拝山,wikidata,33.482230,130.530030,Fukuoka,九州旅客鉄道,single,1
-st_01243,Shikaka,鹿家,wikidata,33.484000,130.047350,Saga,九州旅客鉄道,single,1
+st_01243,Shikaka,鹿家,wikidata,33.484000,130.047350,Fukuoka,九州旅客鉄道,single,1
 st_01244,Asakuragaido,朝倉街道,wikidata,33.484590,130.532280,Fukuoka,西日本鉄道,single,1
 st_01245,Tanami,田並,wikidata,33.487970,135.718590,Wakayama,西日本旅客鉄道,single,1
 st_01246,Erinono,襟野々,wikidata,33.489070,133.300580,Kochi,四国旅客鉄道,single,1
@@ -1255,7 +1255,7 @@ st_01253,Kii-Hime,紀伊姫,wikidata,33.497030,135.796190,Wakayama,西日本旅�
 st_01254,Sakawa,佐川,wikidata,33.500200,133.292650,Kochi,四国旅客鉄道,single,1
 st_01255,Wabuka,和深,wikidata,33.501100,135.654590,Wakayama,西日本旅客鉄道,single,1
 st_01256,Hikosan,彦山,wikidata,33.501110,130.868960,Fukuoka,九州旅客鉄道,single,1
-st_01257,Fukuyoshi,福吉,wikidata,33.501400,130.079370,Saga,九州旅客鉄道,single,1
+st_01257,Fukuyoshi,福吉,wikidata,33.501400,130.079370,Fukuoka,九州旅客鉄道,single,1
 st_01258,Nishitetsu Futsukaichi,西鉄二日市,wikidata,33.502690,130.517540,Fukuoka,西日本鉄道,high,2
 st_01259,Kyujomae,球場前,wikidata,33.502800,133.891880,Kochi,土佐くろしお鉄道,single,1
 st_01260,Tofurominami,都府楼南,wikidata,33.503300,130.506450,Fukuoka,九州旅客鉄道,single,1
@@ -1399,7 +1399,7 @@ st_01397,Kami-Honami,上穂波,wikidata,33.566260,130.645110,Fukuoka,九州旅�
 st_01398,Buzen-Zenkoji,豊前善光寺,wikidata,33.566290,131.324520,Oita,九州旅客鉄道,single,1
 st_01399,Kochiekimae,高知駅前,romanized,33.566290,133.543670,Kochi,とさでん交通,single,1
 st_01400,Takamiya,高宮,wikidata,33.566470,130.415490,Fukuoka,西日本鉄道,single,1
-st_01401,Shishikui,宍喰,wikidata,33.566580,134.300530,Kochi,阿佐海岸鉄道,single,1
+st_01401,Shishikui,宍喰,wikidata,33.566580,134.300530,Tokushima,阿佐海岸鉄道,single,1
 st_01402,Kochi,高知,wikidata,33.566970,133.542020,Kochi,四国旅客鉄道,single,1
 st_01403,Kako,鹿児,romanized,33.567060,133.596740,Kochi,とさでん交通,single,1
 st_01404,Iriake,入明,wikidata,33.567200,133.529970,Kochi,四国旅客鉄道,single,1
@@ -1766,7 +1766,7 @@ st_01764,Kuwano,桑野,wikidata,33.874370,134.613140,Tokushima,四国旅客鉄�
 st_01765,Baishinji,梅津寺,wikidata,33.874910,132.707450,Ehime,伊予鉄道,single,1
 st_01766,Honjo,本城,wikidata,33.875180,130.723140,Fukuoka,九州旅客鉄道,single,1
 st_01767,Arii,有井,wikidata,33.876450,136.085810,Mie,東海旅客鉄道,single,1
-st_01768,Oboke,大歩危,wikidata,33.876700,133.766970,Kochi,四国旅客鉄道,single,1
+st_01768,Oboke,大歩危,wikidata,33.876700,133.766970,Tokushima,四国旅客鉄道,single,1
 st_01769,Edamitsu,枝光,wikidata,33.878830,130.812760,Fukuoka,九州旅客鉄道,single,1
 st_01770,Tanga,旦過,wikidata,33.880370,130.879910,Fukuoka,北九州高速鉄道,single,1
 st_01771,Heiwadori,平和通,wikidata,33.882470,130.881080,Fukuoka,北九州高速鉄道,single,1
@@ -2042,16 +2042,16 @@ st_02040,Hazama,羽間,wikidata,34.209230,133.847070,Kagawa,高松琴平電気�
 st_02041,Nishiyamaguchi,西山口,wikidata,34.209360,135.290580,Wakayama,和歌山電鐵,single,1
 st_02042,Kii-Nagashima,紀伊長島,wikidata,34.209550,136.340460,Mie,東海旅客鉄道,single,1
 st_02043,Kishi,貴志,wikidata,34.209740,135.311850,Wakayama,和歌山電鐵,single,1
-st_02044,Naguwa,南桑,wikidata,34.209760,132.020590,Shimane,錦川鉄道,single,1
-st_02045,Nekasa,根笠,wikidata,34.210250,131.998420,Shimane,錦川鉄道,single,1
-st_02046,Seiryu Miharashi,清流みはらし,wikidata,34.210890,132.006450,Shimane,錦川鉄道,single,1
+st_02044,Naguwa,南桑,wikidata,34.209760,132.020590,Yamaguchi,錦川鉄道,single,1
+st_02045,Nekasa,根笠,wikidata,34.210250,131.998420,Yamaguchi,錦川鉄道,single,1
+st_02046,Seiryu Miharashi,清流みはらし,wikidata,34.210890,132.006450,Yamaguchi,錦川鉄道,single,1
 st_02047,Sanuki-Aioi,讃岐相生,wikidata,34.212250,134.423840,Kagawa,四国旅客鉄道,single,1
 st_02048,Kanrojimae,甘露寺前,wikidata,34.213290,135.300970,Wakayama,和歌山電鐵,single,1
 st_02049,Kozaki,神前,wikidata,34.213330,135.205040,Wakayama,和歌山電鐵,single,1
 st_02050,Miyamae,宮前,wikidata,34.213780,135.189040,Wakayama,西日本旅客鉄道,single,1
 st_02051,Niho,仁保,wikidata,34.215950,131.536280,Yamaguchi,西日本旅客鉄道,single,1
 st_02052,Wakayamako,和歌山港,wikidata,34.217610,135.146600,Wakayama,南海電気鉄道,single,1
-st_02053,Otake,大竹,wikidata,34.219130,132.223060,Yamaguchi,西日本旅客鉄道,single,1
+st_02053,Otake,大竹,wikidata,34.219130,132.223060,Hiroshima,西日本旅客鉄道,single,1
 st_02054,Nigata,仁方,wikidata,34.220850,132.656680,Hiroshima,西日本旅客鉄道,single,1
 st_02055,Okada,岡田,wikidata,34.221100,133.861320,Kagawa,高松琴平電気鉄道,single,1
 st_02056,Takuma,詫間,wikidata,34.221720,133.692760,Kagawa,四国旅客鉄道,single,1
@@ -2070,7 +2070,7 @@ st_02068,Gokurakubashi,極楽橋,wikidata,34.234225,135.581915,Wakayama,南海�
 st_02069,Akiaga,安芸阿賀,wikidata,34.235330,132.601080,Hiroshima,西日本旅客鉄道,single,1
 st_02070,Ofuku,於福,wikidata,34.235790,131.207720,Yamaguchi,西日本旅客鉄道,single,1
 st_02071,Kii-Hosokawa,紀伊細川,wikidata,34.235810,135.553280,Wakayama,南海電気鉄道,single,1
-st_02072,Kawayama,河山,wikidata,34.236450,131.984270,Shimane,錦川鉄道,single,1
+st_02072,Kawayama,河山,wikidata,34.236450,131.984270,Yamaguchi,錦川鉄道,single,1
 st_02073,Wakayamashi,和歌山市,wikidata,34.236463,135.166253,Wakayama,南海電気鉄道;西日本旅客鉄道,high,3
 st_02074,Tsushimanomiya,津島ノ宮,wikidata,34.238190,133.704380,Kagawa,四国旅客鉄道,single,1
 st_02075,Hayuka,羽床,wikidata,34.240970,133.901480,Kagawa,高松琴平電気鉄道,single,1
@@ -2101,18 +2101,18 @@ st_02099,Nibu,丹生,wikidata,34.255050,134.301090,Kagawa,四国旅客鉄道,sin
 st_02100,Kinokawa,紀ノ川,wikidata,34.255120,135.165430,Wakayama,南海電気鉄道,high,2
 st_02101,Kuba,玖波,wikidata,34.255380,132.228150,Hiroshima,西日本旅客鉄道,single,1
 st_02102,Nishinosho,西ノ庄,wikidata,34.255510,135.110400,Wakayama,南海電気鉄道,single,1
-st_02103,Yanaze,柳瀬,wikidata,34.257050,131.976720,Shimane,錦川鉄道,single,1
+st_02103,Yanaze,柳瀬,wikidata,34.257050,131.976720,Yamaguchi,錦川鉄道,single,1
 st_02104,Kami-Kosawa,上古沢,wikidata,34.257130,135.547680,Wakayama,南海電気鉄道,single,1
 st_02105,Yoshiura,吉浦,wikidata,34.257420,132.527920,Hiroshima,西日本旅客鉄道,single,1
 st_02106,Nirigahama,二里ヶ浜,wikidata,34.257640,135.103740,Wakayama,南海電気鉄道,single,1
 st_02107,Umegatani,梅ヶ谷,romanized,34.257980,136.356530,Mie,東海旅客鉄道,single,1
 st_02108,Hatada,畑田,wikidata,34.259140,133.971940,Kagawa,高松琴平電気鉄道,single,1
-st_02109,Isonoura,磯ノ浦,wikidata,34.260600,135.094180,Osaka,南海電気鉄道,single,1
+st_02109,Isonoura,磯ノ浦,wikidata,34.260600,135.094180,Wakayama,南海電気鉄道,single,1
 st_02110,Shimoisaka,下井阪,wikidata,34.261990,135.339760,Wakayama,西日本旅客鉄道,single,1
 st_02111,Kazashigaoka,挿頭丘,wikidata,34.262130,133.979720,Kagawa,高松琴平電気鉄道,single,1
 st_02112,Musota,六十谷,wikidata,34.262230,135.207160,Wakayama,西日本旅客鉄道,single,1
 st_02113,Karugahama,かるが浜,wikidata,34.264130,132.517150,Hiroshima,西日本旅客鉄道,single,1
-st_02114,Nishikicho,錦町,wikidata,34.264660,131.963410,Shimane,錦川鉄道,single,1
+st_02114,Nishikicho,錦町,wikidata,34.264660,131.963410,Yamaguchi,錦川鉄道,single,1
 st_02115,Uchita,打田,wikidata,34.265180,135.364960,Wakayama,西日本旅客鉄道,single,1
 st_02116,Shimo-Kosawa,下古沢,wikidata,34.266370,135.552850,Wakayama,南海電気鉄道,single,1
 st_02117,Ido,井戸,wikidata,34.266640,134.155510,Kagawa,高松琴平電気鉄道,single,1
@@ -2129,8 +2129,8 @@ st_02127,Tadotsu,多度津,wikidata,34.271840,133.757620,Kagawa,四国旅客鉄�
 st_02128,Hiragi,平木,wikidata,34.272310,134.130900,Kagawa,高松琴平電気鉄道,single,1
 st_02129,Nate,名手,wikidata,34.272920,135.433640,Wakayama,西日本旅客鉄道,single,1
 st_02130,Nogakubumae,農学部前,wikidata,34.273930,134.125380,Kagawa,高松琴平電気鉄道,single,1
-st_02131,Kada,加太,wikidata,34.275270,135.080430,Osaka,南海電気鉄道,single,1
-st_02132,Wakayamadaigakumae,和歌山大学前,wikidata,34.275867,135.146918,Osaka,南海電気鉄道,single,1
+st_02131,Kada,加太,wikidata,34.275270,135.080430,Wakayama,南海電気鉄道,single,1
+st_02132,Wakayamadaigakumae,和歌山大学前,wikidata,34.275867,135.146918,Wakayama,南海電気鉄道,single,1
 st_02133,Ouchiyama,大内山,wikidata,34.278380,136.359620,Mie,東海旅客鉄道,single,1
 st_02134,Ikenobe,池戸,wikidata,34.278740,134.119660,Kagawa,高松琴平電気鉄道,single,1
 st_02135,Shinome,篠目,wikidata,34.279520,131.562500,Yamaguchi,西日本旅客鉄道,single,1
@@ -2279,7 +2279,7 @@ st_02277,Ujinayonchome,宇品四丁目,romanized,34.360340,132.464120,Hiroshima,
 st_02278,Ozaki,尾崎,wikidata,34.360590,135.239570,Osaka,南海電気鉄道,single,1
 st_02279,Izumi-Sunagawa,和泉砂川,wikidata,34.360960,135.281960,Osaka,西日本旅客鉄道,single,1
 st_02280,Sanyojogakuenmae,山陽女学園前,romanized,34.361770,132.341100,Hiroshima,広島電鉄,single,1
-st_02281,Jifuku,地福,wikidata,34.362370,131.673590,Shimane,西日本旅客鉄道,single,1
+st_02281,Jifuku,地福,wikidata,34.362370,131.673590,Yamaguchi,西日本旅客鉄道,single,1
 st_02282,Rakurakuen,楽々園,romanized,34.364280,132.351600,Hiroshima,広島電鉄,single,1
 st_02283,Ujinasanchome,宇品三丁目,romanized,34.364340,132.464480,Hiroshima,広島電鉄,single,1
 st_02284,Saekikuyakushomae,佐伯区役所前,romanized,34.365510,132.362150,Hiroshima,広島電鉄,single,1
@@ -2311,7 +2311,7 @@ st_02309,Hirodenhonshamae,広電本社前,romanized,34.377570,132.458180,Hiroshi
 st_02310,Minamimachinichome,皆実町二丁目,romanized,34.377570,132.466080,Hiroshima,広島電鉄,single,1
 st_02311,Mukainada,向洋,wikidata,34.377640,132.505380,Hiroshima,西日本旅客鉄道,single,1
 st_02312,Kusatsuminami,草津南,romanized,34.378000,132.398060,Hiroshima,広島電鉄,single,1
-st_02313,Nabekura,鍋倉,wikidata,34.378110,131.693690,Shimane,西日本旅客鉄道,single,1
+st_02313,Nabekura,鍋倉,wikidata,34.378110,131.693690,Yamaguchi,西日本旅客鉄道,single,1
 st_02314,Kaminogo,上之郷,wikidata,34.379010,136.811360,Mie,近畿日本鉄道,single,1
 st_02315,Ii,飯井,wikidata,34.379060,131.294450,Yamaguchi,西日本旅客鉄道,single,1
 st_02316,Funairikawaguchimachi,舟入川口町,romanized,34.379860,132.439300,Hiroshima,広島電鉄,single,1
@@ -2379,7 +2379,7 @@ st_02377,Hiroshima,広島,wikidata,34.397323,132.475795,Hiroshima,広島電鉄;�
 st_02378,Jogakuinmae,女学院前,romanized,34.398380,132.464970,Hiroshima,広島電鉄,single,1
 st_02379,Nishi-Hiroshima,西広島,wikidata,34.398400,132.428480,Hiroshima,西日本旅客鉄道,single,1
 st_02380,Amami,天見,wikidata,34.398470,135.595450,Osaka,南海電気鉄道,single,1
-st_02381,Tokusa,徳佐,wikidata,34.399130,131.719870,Shimane,西日本旅客鉄道,single,1
+st_02381,Tokusa,徳佐,wikidata,34.399130,131.719870,Yamaguchi,西日本旅客鉄道,single,1
 st_02382,Yaga,矢賀,wikidata,34.399330,132.497870,Hiroshima,西日本旅客鉄道,single,1
 st_02383,Shukukeienmae,縮景園前,romanized,34.399660,132.465370,Hiroshima,広島電鉄,single,1
 st_02384,Hagurazaki,羽倉崎,wikidata,34.399920,135.300620,Osaka,南海電気鉄道,single,1
@@ -2415,7 +2415,7 @@ st_02413,Iharanosato,井原里,wikidata,34.419710,135.330870,Osaka,南海電気�
 st_02414,Kawazoe,川添,wikidata,34.419970,136.473870,Mie,東海旅客鉄道,single,1
 st_02415,Yoshinoguchi,吉野口,wikidata,34.420690,135.750515,Nara,西日本旅客鉄道;近畿日本鉄道,high,2
 st_02416,Nagose,名越,wikidata,34.421600,135.374740,Osaka,水間鉄道,single,1
-st_02417,Funahirayama,船平山,wikidata,34.421780,131.734250,Shimane,西日本旅客鉄道,single,1
+st_02417,Funahirayama,船平山,wikidata,34.421780,131.734250,Yamaguchi,西日本旅客鉄道,single,1
 st_02418,Seno,瀬野,wikidata,34.421980,132.597740,Hiroshima,西日本旅客鉄道,single,1
 st_02419,Mikanodai,美加の台,wikidata,34.424310,135.577570,Osaka,南海電気鉄道,single,1
 st_02420,Sechigo,清児,wikidata,34.425030,135.372210,Osaka,水間鉄道,single,1
@@ -2536,7 +2536,7 @@ st_02534,Matsushita,松下,wikidata,34.496350,136.798950,Mie,東海旅客鉄道,
 st_02535,Izumigaoka,泉ケ丘,wikidata,34.497220,135.511720,Osaka,泉北高速鉄道,single,1
 st_02536,Tokida,外城田,wikidata,34.497670,136.596270,Mie,東海旅客鉄道,single,1
 st_02537,Miyamachi,宮町,wikidata,34.498100,136.698080,Mie,近畿日本鉄道,single,1
-st_02538,Daimon,大門,wikidata,34.498250,133.439840,Okayama,西日本旅客鉄道,single,1
+st_02538,Daimon,大門,wikidata,34.498250,133.439840,Hiroshima,西日本旅客鉄道,single,1
 st_02539,Ukiana,浮孔,wikidata,34.498320,135.754100,Nara,近畿日本鉄道,single,1
 st_02540,Shinodayama,信太山,wikidata,34.499630,135.432470,Osaka,西日本旅客鉄道,single,1
 st_02541,Shirakiyama,白木山,wikidata,34.500280,132.587640,Hiroshima,西日本旅客鉄道,single,1
@@ -2561,7 +2561,7 @@ st_02559,Kita-Shinoda,北信太,wikidata,34.509920,135.440920,Osaka,西日本旅
 st_02560,Kaguyama,香久山,wikidata,34.510900,135.825880,Nara,西日本旅客鉄道,single,1
 st_02561,Iwaki,磐城,wikidata,34.510980,135.711160,Nara,近畿日本鉄道,single,1
 st_02562,Kabe,可部,wikidata,34.511930,132.510780,Hiroshima,西日本旅客鉄道,single,1
-st_02563,Ise-Okitsu,伊勢奥津,wikidata,34.512310,136.260350,Nara,東海旅客鉄道,single,1
+st_02563,Ise-Okitsu,伊勢奥津,wikidata,34.512310,136.260350,Mie,東海旅客鉄道,single,1
 st_02564,Miminashi,耳成,wikidata,34.512430,135.815510,Nara,近畿日本鉄道,single,1
 st_02565,Daifuku,大福,wikidata,34.512790,135.829090,Nara,近畿日本鉄道,single,1
 st_02566,Obata,小俣,wikidata,34.513060,136.684520,Mie,近畿日本鉄道,single,1
@@ -2605,7 +2605,7 @@ st_02603,Nijojinjaguchi,二上神社口,wikidata,34.531700,135.694370,Nara,近�
 st_02604,Nichihara,日原,wikidata,34.532130,131.831880,Shimane,西日本旅客鉄道,single,1
 st_02605,Hachihama,八浜,wikidata,34.532130,133.920950,Okayama,西日本旅客鉄道,single,1
 st_02606,Otori,鳳,wikidata,34.532270,135.459180,Osaka,西日本旅客鉄道,single,1
-st_02607,Hitsu,比津,wikidata,34.532660,136.270970,Nara,東海旅客鉄道,single,1
+st_02607,Hitsu,比津,wikidata,34.532660,136.270970,Mie,東海旅客鉄道,single,1
 st_02608,Kiyo,木与,wikidata,34.532790,131.503480,Yamaguchi,西日本旅客鉄道,single,1
 st_02609,Kaminotaishi,上ノ太子,wikidata,34.532840,135.638080,Osaka,近畿日本鉄道,single,1
 st_02610,Hagoromo,羽衣,wikidata,34.533520,135.441380,Osaka,南海電気鉄道,high,2
@@ -2658,7 +2658,7 @@ st_02656,Shiwaguchi,志和口,wikidata,34.554700,132.658080,Hiroshima,西日本�
 st_02657,Tokuwa,徳和,wikidata,34.554720,136.553240,Mie,東海旅客鉄道,single,1
 st_02658,Ishizu,石津,romanized,34.555220,135.454880,Osaka,阪堺電気軌道,single,1
 st_02659,Osaka-Kyoikudai-mae,大阪教育大前,wikidata,34.555250,135.645340,Osaka,近畿日本鉄道,single,1
-st_02660,Ise-Yachi,伊勢八知,wikidata,34.555420,136.264030,Nara,東海旅客鉄道,single,1
+st_02660,Ise-Yachi,伊勢八知,wikidata,34.555420,136.264030,Mie,東海旅客鉄道,single,1
 st_02661,Nakamozu,中百舌鳥,wikidata,34.555570,135.505263,Osaka,南海電気鉄道;大阪市高速電気軌道;泉北高速鉄道,high,3
 st_02662,Mozu,百舌鳥,wikidata,34.557870,135.488750,Osaka,西日本旅客鉄道,single,1
 st_02663,Ishizugawa,石津川,wikidata,34.558600,135.452820,Osaka,南海電気鉄道,single,1
@@ -2670,7 +2670,7 @@ st_02668,Shizumi,志都美,wikidata,34.561360,135.701960,Nara,西日本旅客鉄
 st_02669,Urada,浦田,wikidata,34.561920,133.749640,Okayama,水島臨海鉄道,single,1
 st_02670,Takagi,高木,wikidata,34.563170,133.252890,Hiroshima,西日本旅客鉄道,single,1
 st_02671,Shin-Kurashiki,新倉敷,wikidata,34.564090,133.677190,Okayama,西日本旅客鉄道,high,2
-st_02672,Goryo,御領,wikidata,34.564600,133.402100,Okayama,井原鉄道,single,1
+st_02672,Goryo,御領,wikidata,34.564600,133.402100,Hiroshima,井原鉄道,single,1
 st_02673,Higashiminato,東湊,romanized,34.564630,135.462540,Osaka,阪堺電気軌道,single,1
 st_02674,Higashi-Matsusaka,東松阪,wikidata,34.565800,136.545830,Mie,近畿日本鉄道,single,1
 st_02675,Mikunigaoka,三国ヶ丘,wikidata,34.565845,135.492150,Osaka,南海電気鉄道;西日本旅客鉄道,high,2
@@ -2694,7 +2694,7 @@ st_02692,Iwami,石見,wikidata,34.571780,135.785820,Nara,近畿日本鉄道,sing
 st_02693,Utago,宇田郷,wikidata,34.572290,131.549370,Yamaguchi,西日本旅客鉄道,single,1
 st_02694,Terajimachi,寺地町,romanized,34.573430,135.469220,Osaka,阪堺電気軌道,single,1
 st_02695,Eganosho,恵我ノ荘,wikidata,34.573760,135.572420,Osaka,近畿日本鉄道,single,1
-st_02696,Ise-Kamakura,伊勢鎌倉,wikidata,34.574280,136.278610,Nara,東海旅客鉄道,single,1
+st_02696,Ise-Kamakura,伊勢鎌倉,wikidata,34.574280,136.278610,Mie,東海旅客鉄道,single,1
 st_02697,Kawachi-Katakami,河内堅上,wikidata,34.574340,135.663190,Osaka,西日本旅客鉄道,single,1
 st_02698,Nagara,長柄,wikidata,34.574780,135.835030,Nara,西日本旅客鉄道,single,1
 st_02699,Takaminosato,高見ノ里,wikidata,34.575170,135.545430,Osaka,近畿日本鉄道,single,1
@@ -2706,7 +2706,7 @@ st_02704,Sakaishi,堺市,wikidata,34.576970,135.498320,Osaka,西日本旅客鉄�
 st_02705,Hatakeda,畠田,wikidata,34.577100,135.703310,Nara,西日本旅客鉄道,single,1
 st_02706,Matsusaka,松阪,wikidata,34.577333,136.535640,Mie,東海旅客鉄道;近畿日本鉄道,high,3
 st_02707,Nishitomii,西富井,wikidata,34.578100,133.743380,Okayama,水島臨海鉄道,single,1
-st_02708,Sambommatsu,三本松,wikidata,34.578390,136.035380,Mie,近畿日本鉄道,single,1
+st_02708,Sambommatsu,三本松,wikidata,34.578390,136.035380,Nara,近畿日本鉄道,single,1
 st_02709,Nunose,布忍,wikidata,34.578450,135.539120,Osaka,近畿日本鉄道,single,1
 st_02710,Ikebe,池部,wikidata,34.578920,135.736800,Nara,近畿日本鉄道,single,1
 st_02711,Daikoji,大小路,romanized,34.578950,135.474350,Osaka,阪堺電気軌道,single,1
@@ -2752,7 +2752,7 @@ st_02750,Kaminosho,上ノ庄,wikidata,34.598180,136.499000,Mie,東海旅客鉄�
 st_02751,Akameguchi,赤目口,wikidata,34.599960,136.074500,Mie,近畿日本鉄道,single,1
 st_02752,Abiko,我孫子,wikidata,34.600090,135.512890,Osaka,大阪市高速電気軌道,single,1
 st_02753,Kurashikishi,倉敷市,wikidata,34.600370,133.764340,Okayama,水島臨海鉄道,single,1
-st_02754,Ise-Takehara,伊勢竹原,wikidata,34.600390,136.309410,Nara,東海旅客鉄道,single,1
+st_02754,Ise-Takehara,伊勢竹原,wikidata,34.600390,136.309410,Mie,東海旅客鉄道,single,1
 st_02755,Shigisanshita,信貴山下,wikidata,34.600560,135.695120,Nara,近畿日本鉄道,single,1
 st_02756,Abikomichi,我孫子道,romanized,34.600600,135.488850,Osaka,阪堺電気軌道,single,1
 st_02757,Abikomae,我孫子前,wikidata,34.600640,135.496900,Osaka,南海電気鉄道,single,1
@@ -2786,7 +2786,7 @@ st_02784,Sumiyoshihigashi,住吉東,wikidata,34.612630,135.497640,Osaka,南海�
 st_02785,Sumiyoshitaisha,住吉大社,wikidata,34.613630,135.490490,Osaka,南海電気鉄道,single,1
 st_02786,Nanko-higashi,南港東,wikidata,34.613800,135.437920,Osaka,大阪市高速電気軌道,single,1
 st_02787,Nankoguchi,南港口,wikidata,34.613810,135.445440,Osaka,大阪市高速電気軌道,single,1
-st_02788,Takayasuyama,高安山,wikidata,34.614150,135.653220,Nara,近畿日本鉄道,single,1
+st_02788,Takayasuyama,高安山,wikidata,34.614150,135.653220,Osaka,近畿日本鉄道,single,1
 st_02789,Sumiyoshi,住吉,romanized,34.614303,135.491970,Osaka,阪堺電気軌道,high,2
 st_02790,Mukaihara,向原,wikidata,34.614810,132.719940,Hiroshima,西日本旅客鉄道,single,1
 st_02791,Ise-Nakahara,伊勢中原,wikidata,34.614960,136.497650,Mie,近畿日本鉄道,single,1
@@ -2867,7 +2867,7 @@ st_02865,Kitatengachaya,北天下茶屋,romanized,34.636110,135.500160,Osaka,阪
 st_02866,Tengachaya,天下茶屋,wikidata,34.637255,135.496875,Osaka,南海電気鉄道;大阪市高速電気軌道,high,2
 st_02867,Kobe Airport,神戸空港,wikidata,34.637330,135.228460,Hyogo,神戸新交通,single,1
 st_02868,Sumaura-koen,須磨浦公園,wikidata,34.637690,135.099730,Hyogo,山陽電気鉄道,single,1
-st_02869,Esaki,江崎,wikidata,34.637790,131.662030,Shimane,西日本旅客鉄道,single,1
+st_02869,Esaki,江崎,wikidata,34.637790,131.662030,Yamaguchi,西日本旅客鉄道,single,1
 st_02870,Sekinomiya,関ノ宮,wikidata,34.637970,136.339820,Mie,東海旅客鉄道,single,1
 st_02871,Tobu-shijo-mae,東部市場前,wikidata,34.638510,135.537020,Osaka,西日本旅客鉄道,single,1
 st_02872,Nishi-Tengachaya,西天下茶屋,wikidata,34.638890,135.488990,Osaka,南海電気鉄道,single,1
@@ -3261,7 +3261,7 @@ st_03259,Tamagashiwa,玉柏,wikidata,34.717220,133.965270,Okayama,西日本旅�
 st_03260,Washizu,鷲津,wikidata,34.717330,137.545040,Shizuoka,東海旅客鉄道,single,1
 st_03261,Hachiman,八幡,wikidata,34.717500,137.736170,Shizuoka,遠州鉄道,single,1
 st_03262,Amagasaki Center Pool-mae,尼崎センタープール前,wikidata,34.717930,135.395390,Hyogo,阪神電気鉄道,single,1
-st_03263,Kuise,杭瀬,wikidata,34.718050,135.439210,Osaka,阪神電気鉄道,single,1
+st_03263,Kuise,杭瀬,wikidata,34.718050,135.439210,Hyogo,阪神電気鉄道,single,1
 st_03264,Deyashiki,出屋敷,wikidata,34.718210,135.405090,Hyogo,阪神電気鉄道,single,1
 st_03265,Mukogawa,武庫川,wikidata,34.718245,135.382045,Hyogo,阪神電気鉄道,high,2
 st_03266,Ashihara,芦原,wikidata,34.718260,137.380070,Aichi,豊橋鉄道,single,1
@@ -3288,7 +3288,7 @@ st_03286,Suzurandai,鈴蘭台,wikidata,34.723170,135.145930,Hyogo,神戸電鉄,h
 st_03287,Sembayashi-Omiya,千林大宮,wikidata,34.723500,135.549010,Osaka,大阪市高速電気軌道,single,1
 st_03288,Sukenobu,助信,wikidata,34.723920,137.738580,Shizuoka,遠州鉄道,single,1
 st_03289,Koshien,甲子園,wikidata,34.724200,135.362700,Hyogo,阪神電気鉄道,single,1
-st_03290,Takanohara,高の原,wikidata,34.724330,135.791850,Kyoto,近畿日本鉄道,single,1
+st_03290,Takanohara,高の原,wikidata,34.724330,135.791850,Nara,近畿日本鉄道,single,1
 st_03291,Mikage,御影,wikidata,34.724390,135.251150,Hyogo,阪急電鉄,single,1
 st_03292,Sembayashi,千林,wikidata,34.724670,135.555240,Osaka,京阪電気鉄道,single,1
 st_03293,Gakken Kita-Ikoma,学研北生駒,wikidata,34.725110,135.724030,Nara,近畿日本鉄道,single,1
@@ -3297,7 +3297,7 @@ st_03295,Nishinakajima-Minamigata,西中島南方,wikidata,34.725590,135.498630,
 st_03296,Kamikawatachi,上川立,wikidata,34.725630,132.785090,Hiroshima,西日本旅客鉄道,single,1
 st_03297,Minamikata,南方,wikidata,34.725720,135.500080,Osaka,阪急電鉄,single,1
 st_03298,Nishi-Suzurandai,西鈴蘭台,wikidata,34.725760,135.135360,Hyogo,神戸電鉄,single,1
-st_03299,Gakken Nara-Tomigaoka,学研奈良登美ヶ丘,wikidata,34.726450,135.750000,Kyoto,近畿日本鉄道,single,1
+st_03299,Gakken Nara-Tomigaoka,学研奈良登美ヶ丘,wikidata,34.726450,135.750000,Nara,近畿日本鉄道,single,1
 st_03300,Settsu-Motoyama,摂津本山,wikidata,34.726590,135.276710,Hyogo,西日本旅客鉄道,single,1
 st_03301,Suzurandai-nishiguchi,鈴蘭台西口,wikidata,34.726650,135.141140,Hyogo,神戸電鉄,single,1
 st_03302,Ichibe,市部,wikidata,34.726749,136.148559,Mie,伊賀鉄道,single,1
@@ -3373,7 +3373,7 @@ st_03371,Utsumi,内海,wikidata,34.744950,136.874320,Aichi,名古屋鉄道,singl
 st_03372,Nishi-Katakami,西片上,wikidata,34.745070,134.183550,Okayama,西日本旅客鉄道,single,1
 st_03373,Shinobugaoka,忍ヶ丘,romanized,34.745340,135.644870,Osaka,西日本旅客鉄道,single,1
 st_03374,Shimo-Shinjo,下新庄,wikidata,34.745900,135.519990,Osaka,阪急電鉄,single,1
-st_03375,Sogo,寒河,wikidata,34.745990,134.297380,Hyogo,西日本旅客鉄道,single,1
+st_03375,Sogo,寒河,wikidata,34.745990,134.297380,Okayama,西日本旅客鉄道,single,1
 st_03376,Yamanomachi,山の街,wikidata,34.746080,135.153300,Hyogo,神戸電鉄,single,1
 st_03377,Nishinomiya-Kitaguchi,西宮北口,wikidata,34.746135,135.356815,Hyogo,阪急電鉄,high,2
 st_03378,Higashi-Kakogawa,東加古川,wikidata,34.746420,134.868600,Hyogo,西日本旅客鉄道,single,1
@@ -3395,7 +3395,7 @@ st_03393,Kurakuenguchi,苦楽園口,wikidata,34.749750,135.328900,Hyogo,阪急�
 st_03394,Tsukaguchi,塚口,wikidata,34.749930,135.425270,Hyogo,西日本旅客鉄道,single,1
 st_03395,Kami-Shinjo,上新庄,wikidata,34.751040,135.533100,Osaka,阪急電鉄,single,1
 st_03396,Kamikoma,上狛,wikidata,34.751050,135.821070,Kyoto,西日本旅客鉄道,single,1
-st_03397,Sonoda,園田,wikidata,34.751400,135.448800,Osaka,阪急電鉄,single,1
+st_03397,Sonoda,園田,wikidata,34.751400,135.448800,Hyogo,阪急電鉄,single,1
 st_03398,Zuiko Yonchome,瑞光四丁目,wikidata,34.751650,135.544380,Osaka,大阪市高速電気軌道,single,1
 st_03399,Kamate,鎌手,wikidata,34.751680,131.878440,Shimane,西日本旅客鉄道,single,1
 st_03400,Mukonoso,武庫之荘,wikidata,34.751830,135.394940,Hyogo,阪急電鉄,single,1
@@ -3466,7 +3466,7 @@ st_03464,Shiyakushomae,市役所前,romanized,34.767320,137.392780,Aichi,豊橋�
 st_03465,Iho,伊保,wikidata,34.767380,134.786910,Hyogo,山陽電気鉄道,single,1
 st_03466,Uenoshi,上野市,wikidata,34.767580,136.128780,Mie,伊賀鉄道,single,1
 st_03467,Kakogawa,加古川,wikidata,34.768295,134.838980,Hyogo,西日本旅客鉄道,high,2
-st_03468,Shimagahara,島ヶ原,romanized,34.768350,136.054590,Kyoto,西日本旅客鉄道,single,1
+st_03468,Shimagahara,島ヶ原,romanized,34.768350,136.054590,Mie,西日本旅客鉄道,single,1
 st_03469,Sekishi,積志,wikidata,34.768370,137.763630,Shizuoka,遠州鉄道,single,1
 st_03470,Sakoshi,坂越,wikidata,34.769260,134.418030,Hyogo,西日本旅客鉄道,single,1
 st_03471,Kakegawa,掛川,wikidata,34.769363,138.015123,Shizuoka,天竜浜名湖鉄道;東海旅客鉄道,high,3
@@ -3588,7 +3588,7 @@ st_03586,Tsuda,津田,wikidata,34.800940,135.697910,Osaka,西日本旅客鉄道,
 st_03587,Tamamizu,玉水,wikidata,34.800970,135.806980,Kyoto,西日本旅客鉄道,single,1
 st_03588,Katase-Shirata,片瀬白田,wikidata,34.801200,139.061330,Shizuoka,伊豆急行,single,1
 st_03589,Murano,村野,wikidata,34.801500,135.664480,Osaka,京阪電気鉄道,single,1
-st_03590,Kita-Itami,北伊丹,wikidata,34.801800,135.419380,Osaka,西日本旅客鉄道,single,1
+st_03590,Kita-Itami,北伊丹,wikidata,34.801800,135.419380,Hyogo,西日本旅客鉄道,single,1
 st_03591,Nishi-Aioi,西相生,wikidata,34.801930,134.451380,Hyogo,西日本旅客鉄道,single,1
 st_03592,Yatsugi,八次,wikidata,34.802160,132.879240,Hiroshima,西日本旅客鉄道,single,1
 st_03593,Nishi-Kiga,西気賀,wikidata,34.802360,137.621570,Shizuoka,天竜浜名湖鉄道,single,1
@@ -3603,7 +3603,7 @@ st_03601,Sanagu,佐那具,wikidata,34.804650,136.164120,Mie,西日本旅客鉄�
 st_03602,Himeji-Bessho,ひめじ別所,wikidata,34.804860,134.754040,Hyogo,西日本旅客鉄道,single,1
 st_03603,Yamada,山田,wikidata,34.805055,135.515380,Osaka,大阪モノレール;阪急電鉄,high,2
 st_03604,Doshishamae,同志社前,wikidata,34.805630,135.778350,Kyoto,西日本旅客鉄道,single,1
-st_03605,Mitsuishi,三石,wikidata,34.805700,134.276890,Hyogo,西日本旅客鉄道,single,1
+st_03605,Mitsuishi,三石,wikidata,34.805700,134.276890,Okayama,西日本旅客鉄道,single,1
 st_03606,Gosha,五社,wikidata,34.805810,135.216150,Hyogo,神戸電鉄,single,1
 st_03607,Bampaku-kinen-koen,万博記念公園,wikidata,34.806770,135.530700,Osaka,大阪モノレール,high,2
 st_03608,Kaminoma,上野間,wikidata,34.807050,136.866540,Aichi,名古屋鉄道,single,1
@@ -3681,7 +3681,7 @@ st_03679,Gamagori-Kyoteijo-Mae,蒲郡競艇場前,wikidata,34.825290,137.201830,
 st_03680,Tatsuno,竜野,wikidata,34.825370,134.521270,Hyogo,西日本旅客鉄道,single,1
 st_03681,Mikawa-Shiotsu,三河塩津,wikidata,34.825440,137.201560,Aichi,東海旅客鉄道,single,1
 st_03682,Tsuzumigaura,鼓ヶ浦,wikidata,34.825780,136.580800,Mie,近畿日本鉄道,single,1
-st_03683,Nagao,長尾,wikidata,34.825960,135.713030,Kyoto,西日本旅客鉄道,single,1
+st_03683,Nagao,長尾,wikidata,34.825960,135.713030,Osaka,西日本旅客鉄道,single,1
 st_03684,Kinoyama,木野山,wikidata,34.825980,133.613420,Okayama,西日本旅客鉄道,single,1
 st_03685,Shin-Kanaya,新金谷,wikidata,34.825980,138.137380,Shizuoka,大井川鐵道,single,1
 st_03686,Morimachibyoin-mae,森町病院前,wikidata,34.826080,137.917655,Shizuoka,天竜浜名湖鉄道,single,1
@@ -3813,7 +3813,7 @@ st_03811,Hokkeguchi,法華口,wikidata,34.875520,134.856080,Hyogo,北条鉄道,s
 st_03812,Tojo,東上,wikidata,34.876210,137.455720,Aichi,東海旅客鉄道,single,1
 st_03813,Hokoku,方谷,wikidata,34.876870,133.555830,Okayama,西日本旅客鉄道,single,1
 st_03814,Yokoyama,横山,wikidata,34.877400,135.220420,Hyogo,神戸電鉄,high,2
-st_03815,Shigaraki,信楽,wikidata,34.877580,136.061590,Kyoto,信楽高原鐵道,single,1
+st_03815,Shigaraki,信楽,wikidata,34.877580,136.061590,Shiga,信楽高原鐵道,single,1
 st_03816,Minase,水無瀬,wikidata,34.877810,135.667770,Osaka,阪急電鉄,single,1
 st_03817,Taka,高,wikidata,34.878180,133.070910,Hiroshima,西日本旅客鉄道,single,1
 st_03818,Izu-Kogen,伊豆高原,wikidata,34.878280,139.108820,Shizuoka,伊豆急行,single,1
@@ -3828,7 +3828,7 @@ st_03826,Mikkaichi,三日市,wikidata,34.880140,136.561840,Mie,近畿日本鉄�
 st_03827,Shimamoto,島本,wikidata,34.880350,135.662480,Osaka,西日本旅客鉄道,single,1
 st_03828,Cable-hachimangu-sanjo,ケーブル八幡宮山上,wikidata,34.880540,135.699970,Kyoto,京阪電気鉄道,single,1
 st_03829,Sanda Honmachi,三田本町,wikidata,34.881840,135.230040,Hyogo,神戸電鉄,single,1
-st_03830,Hashimoto,橋本,wikidata,34.882000,135.684240,Osaka,京阪電気鉄道,single,1
+st_03830,Hashimoto,橋本,wikidata,34.882000,135.684240,Kyoto,京阪電気鉄道,single,1
 st_03831,Iseda,伊勢田,wikidata,34.882560,135.779100,Kyoto,近畿日本鉄道,single,1
 st_03832,Kamio,神尾,wikidata,34.882940,138.101730,Shizuoka,大井川鐵道,single,1
 st_03833,Keburuhachimanguguchi,ケーブル八幡宮口,romanized,34.884152,135.699329,Kyoto,京阪電気鉄道,single,1
@@ -3872,12 +3872,12 @@ st_03870,Taya,多屋,wikidata,34.897380,136.830460,Aichi,名古屋鉄道,single,
 st_03871,Kawano,河曲,wikidata,34.897720,136.567460,Mie,東海旅客鉄道,single,1
 st_03872,Mimurodo,三室戸,wikidata,34.899450,135.806200,Kyoto,京阪電気鉄道,single,1
 st_03873,Meiden-Yamanaka,名電山中,wikidata,34.899660,137.242380,Aichi,名古屋鉄道,single,1
-st_03874,Kofudai,光風台,wikidata,34.899690,135.431210,Hyogo,能勢電鉄,single,1
+st_03874,Kofudai,光風台,wikidata,34.899690,135.431210,Osaka,能勢電鉄,single,1
 st_03875,Shinshiro,新城,wikidata,34.900600,137.492210,Aichi,東海旅客鉄道,single,1
 st_03876,Sumiyoshicho,住吉町,wikidata,34.901540,136.925750,Aichi,名古屋鉄道,single,1
 st_03877,Fukuyo,福用,wikidata,34.901720,138.090040,Shizuoka,大井川鐵道,single,1
 st_03878,Koka,甲賀,wikidata,34.901850,136.211910,Shiga,西日本旅客鉄道,single,1
-st_03879,Tojo,東城,wikidata,34.902110,133.273340,Okayama,西日本旅客鉄道,single,1
+st_03879,Tojo,東城,wikidata,34.902110,133.273340,Hiroshima,西日本旅客鉄道,single,1
 st_03880,Minami Woody Town,南ウッディタウン,wikidata,34.902130,135.189420,Hyogo,神戸電鉄,single,1
 st_03881,Hamada,浜田,wikidata,34.902140,132.087750,Shimane,西日本旅客鉄道,single,1
 st_03882,Okkawa,乙川,wikidata,34.903420,136.941960,Aichi,東海旅客鉄道,single,1
@@ -4018,7 +4018,7 @@ st_04016,Ryukokudai-mae-Fukakusa,龍谷大前深草,wikidata,34.963300,135.77016
 st_04017,Kuinabashi,くいな橋,wikidata,34.963470,135.758440,Kyoto,京都市,single,1
 st_04018,Hashi,波子,wikidata,34.963540,132.151330,Shimane,西日本旅客鉄道,single,1
 st_04019,Ogakie,小垣江,wikidata,34.963580,136.995320,Aichi,名古屋鉄道,single,1
-st_04020,Uchina,内名,wikidata,34.964640,133.232200,Okayama,西日本旅客鉄道,single,1
+st_04020,Uchina,内名,wikidata,34.964640,133.232200,Hiroshima,西日本旅客鉄道,single,1
 st_04021,Katsuragawa,桂川,wikidata,34.964770,135.710370,Kyoto,西日本旅客鉄道,single,1
 st_04022,Kita-Anjo,北安城,wikidata,34.964970,137.092080,Aichi,名古屋鉄道,single,1
 st_04023,Kamitobaguchi,上鳥羽口,wikidata,34.965400,135.752540,Kyoto,近畿日本鉄道,single,1
@@ -4106,7 +4106,7 @@ st_04104,Kakidaira,柿平,wikidata,34.990500,137.643970,Aichi,東海旅客鉄道
 st_04105,Harima-Tokusa,播磨徳久,wikidata,34.990510,134.386190,Hyogo,西日本旅客鉄道,single,1
 st_04106,Kariya,刈谷,wikidata,34.990860,137.009025,Aichi,名古屋鉄道;東海旅客鉄道,high,2
 st_04107,Nakanosho,中ノ庄,wikidata,34.991130,135.891550,Shiga,京阪電気鉄道,single,1
-st_04108,Oiwake,追分,wikidata,34.991450,135.837120,Kyoto,京阪電気鉄道,single,1
+st_04108,Oiwake,追分,wikidata,34.991450,135.837120,Shiga,京阪電気鉄道,single,1
 st_04109,Shinomiya,四宮,wikidata,34.991820,135.823570,Kyoto,京阪電気鉄道,single,1
 st_04110,Keihan-yamashina,京阪山科,wikidata,34.992030,135.816530,Kyoto,京阪電気鉄道,single,1
 st_04111,Chitose,千歳,wikidata,34.992270,139.966610,Chiba,東日本旅客鉄道,single,1
@@ -4117,9 +4117,9 @@ st_04115,Ken-Sogo Undojo,県総合運動場,wikidata,34.993460,138.430620,Shizuo
 st_04116,Kasumigaura,霞ヶ浦,wikidata,34.993520,136.636980,Mie,近畿日本鉄道,single,1
 st_04117,Owari-Morioka,尾張森岡,wikidata,34.993930,136.970450,Aichi,東海旅客鉄道,single,1
 st_04118,Asakura,朝倉,wikidata,34.994150,136.863770,Aichi,名古屋鉄道,single,1
-st_04119,Onuka,小奴可,wikidata,34.994230,133.211120,Tottori,西日本旅客鉄道,single,1
+st_04119,Onuka,小奴可,wikidata,34.994230,133.211120,Hiroshima,西日本旅客鉄道,single,1
 st_04120,Otani,大谷,wikidata,34.994380,135.852730,Shiga,京阪電気鉄道,single,1
-st_04121,Mimasaka-Doi,美作土居,wikidata,34.994780,134.261000,Hyogo,西日本旅客鉄道,single,1
+st_04121,Mimasaka-Doi,美作土居,wikidata,34.994780,134.261000,Okayama,西日本旅客鉄道,single,1
 st_04122,Bitchu-Kojiro,備中神代,wikidata,34.994810,133.400260,Okayama,西日本旅客鉄道,high,2
 st_04123,Ohito,大仁,wikidata,34.994810,138.937440,Shizuoka,伊豆箱根鉄道,single,1
 st_04124,Gojo,五条,wikidata,34.994950,135.759740,Kyoto,京都市,single,1
@@ -4181,7 +4181,7 @@ st_04179,Higashiyama,東山,wikidata,35.009460,135.779760,Kyoto,京都市,single
 st_04180,Owari-Yokosuka,尾張横須賀,wikidata,35.009740,136.885310,Aichi,名古屋鉄道,single,1
 st_04181,Randen-Tenjingawa,嵐電天神川,romanized,35.010130,135.714870,Kyoto,京福電気鉄道,single,1
 st_04182,Arashiyama,嵐山,wikidata,35.010260,135.681740,Kyoto,阪急電鉄,single,1
-st_04183,Dogoyama,道後山,wikidata,35.010570,133.178480,Tottori,西日本旅客鉄道,single,1
+st_04183,Dogoyama,道後山,wikidata,35.010570,133.178480,Hiroshima,西日本旅客鉄道,single,1
 st_04184,Mikawa Yatsuhashi,三河八橋,wikidata,35.010650,137.076950,Aichi,名古屋鉄道,single,1
 st_04185,Umahori,馬堀,wikidata,35.010760,135.602850,Kyoto,西日本旅客鉄道,single,1
 st_04186,Kyoto Shiyakusho-mae,京都市役所前,wikidata,35.010900,135.768400,Kyoto,京都市,single,1
@@ -4293,7 +4293,7 @@ st_04291,Shigasato,滋賀里,wikidata,35.043870,135.859330,Shiga,京阪電気鉄
 st_04292,Hirafuku,平福,wikidata,35.044010,134.372020,Hyogo,智頭急行,single,1
 st_04293,Ichijoji,一乗寺,wikidata,35.044680,135.787680,Kyoto,叡山電鉄,single,1
 st_04294,Kitaoji,北大路,wikidata,35.044910,135.758370,Kyoto,京都市,single,1
-st_04295,Yuki,油木,wikidata,35.044930,133.119280,Shimane,西日本旅客鉄道,single,1
+st_04295,Yuki,油木,wikidata,35.044930,133.119280,Hiroshima,西日本旅客鉄道,single,1
 st_04296,Mimasaka-Osaki,美作大崎,wikidata,35.045250,134.067720,Okayama,西日本旅客鉄道,single,1
 st_04297,Tomiura,富浦,wikidata,35.045300,139.838010,Chiba,東日本旅客鉄道,single,1
 st_04298,Tajibe,丹治部,wikidata,35.045900,133.553390,Okayama,西日本旅客鉄道,single,1
@@ -4303,9 +4303,9 @@ st_04301,Kinjo-futo,金城ふ頭,wikidata,35.048660,136.848970,Aichi,名古屋�
 st_04302,Komi,古見,wikidata,35.048750,133.760680,Okayama,西日本旅客鉄道,single,1
 st_04303,Chiyokawa,千代川,wikidata,35.049260,135.548080,Kyoto,西日本旅客鉄道,single,1
 st_04304,Karasaki,唐崎,wikidata,35.049310,135.866260,Shiga,西日本旅客鉄道,single,1
-st_04305,Izuma,出馬,wikidata,35.049500,137.744600,Aichi,東海旅客鉄道,single,1
+st_04305,Izuma,出馬,wikidata,35.049500,137.744600,Shizuoka,東海旅客鉄道,single,1
 st_04306,Shugakuin,修学院,wikidata,35.050340,135.790480,Kyoto,叡山電鉄,single,1
-st_04307,Kamiichiba,上市場,wikidata,35.050370,137.752770,Aichi,東海旅客鉄道,single,1
+st_04307,Kamiichiba,上市場,wikidata,35.050370,137.752770,Shizuoka,東海旅客鉄道,single,1
 st_04308,Niino,新野,wikidata,35.050550,134.752300,Hyogo,西日本旅客鉄道,single,1
 st_04309,Moriyama,守山,wikidata,35.051120,135.996710,Shiga,西日本旅客鉄道,single,1
 st_04310,Asahi Otsuka,朝日大塚,wikidata,35.051310,136.193450,Shiga,近江鉄道,single,1
@@ -4324,7 +4324,7 @@ st_04322,Tomihara,富原,wikidata,35.055350,133.611980,Okayama,西日本旅客�
 st_04323,Mikawa-Toyota,三河豊田,wikidata,35.055430,137.150920,Aichi,愛知環状鉄道,single,1
 st_04324,Anoo,穴太,wikidata,35.055850,135.865110,Shiga,京阪電気鉄道,single,1
 st_04325,Kuromatsu,黒松,wikidata,35.056100,132.313160,Shimane,西日本旅客鉄道,single,1
-st_04326,Urakawa,浦川,wikidata,35.056540,137.763870,Aichi,東海旅客鉄道,single,1
+st_04326,Urakawa,浦川,wikidata,35.056540,137.763870,Shizuoka,東海旅客鉄道,single,1
 st_04327,Mimasaka-Sendai,美作千代,wikidata,35.058350,133.906620,Okayama,西日本旅客鉄道,single,1
 st_04328,Masuo,益生,wikidata,35.058420,136.678890,Mie,近畿日本鉄道,single,1
 st_04329,Takaragaike,宝ヶ池,wikidata,35.058465,135.792435,Kyoto,叡山電鉄,high,2
@@ -4337,7 +4337,7 @@ st_04335,Izu-Taga,伊豆多賀,wikidata,35.059560,139.066930,Shizuoka,東日本�
 st_04336,Nishibessho,西別所,wikidata,35.059610,136.665640,Mie,三岐鉄道,single,1
 st_04337,Umamichi,馬道,wikidata,35.060560,136.676010,Mie,三岐鉄道,single,1
 st_04338,Nawa,名和,wikidata,35.060600,136.911850,Aichi,名古屋鉄道,single,1
-st_04339,Hayase,早瀬,wikidata,35.060790,137.775380,Aichi,東海旅客鉄道,single,1
+st_04339,Hayase,早瀬,wikidata,35.060790,137.775380,Shizuoka,東海旅客鉄道,single,1
 st_04340,Ariyoshi,在良,wikidata,35.060890,136.643180,Mie,三岐鉄道,single,1
 st_04341,Hokusei Chuo Koenguchi,北勢中央公園口,wikidata,35.060940,136.565980,Mie,三岐鉄道,single,1
 st_04342,Chukyo-keibajo-mae,中京競馬場前,wikidata,35.061280,136.981610,Aichi,名古屋鉄道,single,1
@@ -4364,7 +4364,7 @@ st_04362,Yasu,野洲,wikidata,35.067520,136.021130,Shiga,西日本旅客鉄道,s
 st_04363,Horaioka,ほうらい丘,wikidata,35.068434,135.861398,Shiga,比叡山鉄道,single,1
 st_04364,Yagi,八木,wikidata,35.069020,135.531840,Kyoto,西日本旅客鉄道,single,1
 st_04365,Nanawa,七和,wikidata,35.069280,136.615130,Mie,三岐鉄道,single,1
-st_04366,Shimokawai,下川合,wikidata,35.069550,137.786720,Aichi,東海旅客鉄道,single,1
+st_04366,Shimokawai,下川合,wikidata,35.069550,137.786720,Shizuoka,東海旅客鉄道,single,1
 st_04367,Cable Sakamoto,ケーブル坂本,wikidata,35.069650,135.863720,Shiga,比叡山鉄道,single,1
 st_04368,Odaka,大高,wikidata,35.070060,136.939760,Aichi,東海旅客鉄道,single,1
 st_04369,Sakyoyama,左京山,wikidata,35.070390,136.960770,Aichi,名古屋鉄道,single,1
@@ -4395,10 +4395,10 @@ st_04393,Daidocho,大同町,wikidata,35.080220,136.909350,Aichi,名古屋鉄道,
 st_04394,Chugoku-Katsuyama,中国勝山,wikidata,35.080230,133.694380,Okayama,西日本旅客鉄道,single,1
 st_04395,Futomi,太海,wikidata,35.080640,140.096460,Chiba,東日本旅客鉄道,single,1
 st_04396,Kuse,久世,wikidata,35.081170,133.744460,Okayama,西日本旅客鉄道,single,1
-st_04397,Shingo,新郷,wikidata,35.081700,133.367890,Tottori,西日本旅客鉄道,single,1
+st_04397,Shingo,新郷,wikidata,35.081700,133.367890,Okayama,西日本旅客鉄道,single,1
 st_04398,Ishii,石井,wikidata,35.082260,134.357640,Hyogo,智頭急行,single,1
 st_04399,Tanikawa,谷川,wikidata,35.083230,135.049070,Hyogo,西日本旅客鉄道,high,2
-st_04400,Chubu-Tenryu,中部天竜,wikidata,35.085650,137.802940,Aichi,東海旅客鉄道,single,1
+st_04400,Chubu-Tenryu,中部天竜,wikidata,35.085650,137.802940,Shizuoka,東海旅客鉄道,single,1
 st_04401,Daigaku-mae,大学前,wikidata,35.087460,136.184550,Shiga,近江鉄道,single,1
 st_04402,Toyotashi,豊田市,wikidata,35.087790,137.156450,Aichi,名古屋鉄道,single,1
 st_04403,Shin-Toyota,新豊田,wikidata,35.087870,137.153540,Aichi,愛知環状鉄道,single,1
@@ -4411,7 +4411,7 @@ st_04409,Miinohara,三井野原,wikidata,35.090920,133.116140,Shimane,西日本�
 st_04410,Yunotsu,温泉津,wikidata,35.091230,132.351290,Shimane,西日本旅客鉄道,single,1
 st_04411,Inaei,稲永,wikidata,35.091250,136.863510,Aichi,名古屋臨海高速鉄道,single,1
 st_04412,Daian,大安,wikidata,35.091880,136.545640,Mie,三岐鉄道,single,1
-st_04413,Sakuma,佐久間,wikidata,35.091930,137.810150,Aichi,東海旅客鉄道,single,1
+st_04413,Sakuma,佐久間,wikidata,35.091930,137.810150,Shizuoka,東海旅客鉄道,single,1
 st_04414,Sakidaira,崎平,wikidata,35.092120,138.127720,Shizuoka,大井川鐵道,single,1
 st_04415,Yoshitomi,吉富,wikidata,35.092630,135.497960,Kyoto,西日本旅客鉄道,single,1
 st_04416,Daiba,大場,wikidata,35.093090,138.939230,Shizuoka,伊豆箱根鉄道,single,1
@@ -4425,8 +4425,8 @@ st_04423,Kasadera,笠寺,wikidata,35.095740,136.925990,Aichi,東海旅客鉄道,
 st_04424,Shimo-Fukaya,下深谷,wikidata,35.096429,136.661446,Mie,養老鉄道,single,1
 st_04425,Yui,由比,wikidata,35.096540,138.552430,Shizuoka,東海旅客鉄道,single,1
 st_04426,Ogoto-onsen,おごと温泉,wikidata,35.097020,135.894680,Shiga,西日本旅客鉄道,single,1
-st_04427,Nagashima,長島,wikidata,35.097840,136.694910,Aichi,東海旅客鉄道,single,1
-st_04428,Kintetsu Nagashima,近鉄長島,wikidata,35.097860,136.696680,Aichi,近畿日本鉄道,single,1
+st_04427,Nagashima,長島,wikidata,35.097840,136.694910,Mie,東海旅客鉄道,single,1
+st_04428,Kintetsu Nagashima,近鉄長島,wikidata,35.097860,136.696680,Mie,近畿日本鉄道,single,1
 st_04429,Ninose,二ノ瀬,wikidata,35.097930,135.762740,Kyoto,叡山電鉄,single,1
 st_04430,Shinohara,篠原,wikidata,35.098500,136.070410,Shiga,西日本旅客鉄道,single,1
 st_04431,Kamisawa,神沢,wikidata,35.098612,136.989420,Aichi,名古屋市,single,1
@@ -4476,7 +4476,7 @@ st_04474,Hiratobashi,平戸橋,wikidata,35.114760,137.184330,Aichi,名古屋鉄�
 st_04475,Kohoku,港北,wikidata,35.114830,136.862800,Aichi,名古屋臨海高速鉄道,single,1
 st_04476,Awa-Katsuyama,安房勝山,wikidata,35.114910,139.833080,Chiba,東日本旅客鉄道,single,1
 st_04477,Yobitsugi,呼続,wikidata,35.115170,136.930000,Aichi,名古屋鉄道,single,1
-st_04478,Aitsuki,相月,wikidata,35.115230,137.854410,Aichi,東海旅客鉄道,single,1
+st_04478,Aitsuki,相月,wikidata,35.115230,137.854410,Shizuoka,東海旅客鉄道,single,1
 st_04479,Shimo-Noshiro,下野代,wikidata,35.115928,136.647203,Mie,養老鉄道,single,1
 st_04480,Kamitoyota,上豊田,wikidata,35.115990,137.155450,Aichi,名古屋鉄道,single,1
 st_04481,Ooka,大岡,wikidata,35.116000,138.881600,Shizuoka,東海旅客鉄道,single,1
@@ -4531,7 +4531,7 @@ st_04529,Gonosan,五ノ三,wikidata,35.129710,136.711510,Aichi,名古屋鉄道,s
 st_04530,Kintetsu Kanie,近鉄蟹江,wikidata,35.129780,136.795760,Aichi,近畿日本鉄道,single,1
 st_04531,Atsuta,熱田,wikidata,35.130180,136.910530,Aichi,東海旅客鉄道,single,1
 st_04532,Sogo Rihabiri Center,総合リハビリセンター,wikidata,35.130340,136.954320,Aichi,名古屋市,single,1
-st_04533,Josai,城西,wikidata,35.131890,137.862270,Aichi,東海旅客鉄道,single,1
+st_04533,Josai,城西,wikidata,35.131890,137.862270,Shizuoka,東海旅客鉄道,single,1
 st_04534,Minami-Arako,南荒子,wikidata,35.132160,136.861960,Aichi,名古屋臨海高速鉄道,single,1
 st_04535,Shiogama-guchi,塩釜口,wikidata,35.132450,136.978180,Aichi,名古屋市,single,1
 st_04536,Mizuho Kuyakusho,瑞穂区役所,wikidata,35.132480,136.934310,Aichi,名古屋市,single,1
@@ -4540,7 +4540,7 @@ st_04538,Toda,戸田,wikidata,35.132710,136.807850,Aichi,近畿日本鉄道,sing
 st_04539,Kaizu,貝津,wikidata,35.133010,137.148490,Aichi,愛知環状鉄道,single,1
 st_04540,Hibino,日比野,wikidata,35.133060,136.893280,Aichi,名古屋市,single,1
 st_04541,Ise-Hatta,伊勢治田,wikidata,35.133210,136.514560,Mie,三岐鉄道,single,1
-st_04542,Tado,多度,wikidata,35.133479,136.640711,Aichi,養老鉄道,single,1
+st_04542,Tado,多度,wikidata,35.133479,136.640711,Mie,養老鉄道,single,1
 st_04543,Asauda,麻生田,wikidata,35.133910,136.535550,Mie,三岐鉄道,single,1
 st_04544,Funaoka,船岡,wikidata,35.134090,135.492520,Kyoto,西日本旅客鉄道,single,1
 st_04545,Kawabe-no-mori,河辺の森,wikidata,35.134970,136.196190,Shiga,近江鉄道,single,1
@@ -4589,7 +4589,7 @@ st_04587,Iso,石生,wikidata,35.151570,135.063500,Hyogo,西日本旅客鉄道,si
 st_04588,Katsuura,勝浦,wikidata,35.152150,140.311110,Chiba,東日本旅客鉄道,single,1
 st_04589,Sanno,山王,wikidata,35.152360,136.888650,Aichi,名古屋鉄道,single,1
 st_04590,Karasumori,烏森,wikidata,35.152980,136.864130,Aichi,近畿日本鉄道,single,1
-st_04591,Mukaichiba,向市場,wikidata,35.154400,137.869520,Aichi,東海旅客鉄道,single,1
+st_04591,Mukaichiba,向市場,wikidata,35.154400,137.869520,Shizuoka,東海旅客鉄道,single,1
 st_04592,Nagoya Daigaku,名古屋大学,wikidata,35.154460,136.966600,Aichi,名古屋市,single,1
 st_04593,Shinohara,篠原,wikidata,35.155060,137.120680,Aichi,愛知環状鉄道,single,1
 st_04594,Gakunan-Enoo,岳南江尾,wikidata,35.155100,138.752300,Shizuoka,岳南電車,single,1
@@ -4620,7 +4620,7 @@ st_04618,Hoshigaoka,星ヶ丘,wikidata,35.162590,136.985560,Aichi,名古屋市,s
 st_04619,Ikuno,生野,wikidata,35.163070,134.789100,Hyogo,西日本旅客鉄道,single,1
 st_04620,Motoyama,本山,wikidata,35.163085,136.963655,Aichi,名古屋市,high,2
 st_04621,Yabacho,矢場町,wikidata,35.163620,136.908820,Aichi,名古屋市,single,1
-st_04622,Misakubo,水窪,wikidata,35.163740,137.870560,Nagano,東海旅客鉄道,single,1
+st_04622,Misakubo,水窪,wikidata,35.163740,137.870560,Shizuoka,東海旅客鉄道,single,1
 st_04623,Hibino,日比野,wikidata,35.164030,136.728850,Aichi,名古屋鉄道,single,1
 st_04624,Nishi-Nojiri,西野尻,wikidata,35.164260,136.487610,Mie,三岐鉄道,single,1
 st_04625,Hiranda,ひらんだ,wikidata,35.164890,138.168420,Shizuoka,大井川鐵道,single,1
@@ -4693,7 +4693,7 @@ st_04691,Sunadabashi,砂田橋,wikidata,35.188745,136.954415,Aichi,名古屋ガ�
 st_04692,Miurakaigan,三浦海岸,wikidata,35.188770,139.654010,Kanagawa,京浜急行電鉄,single,1
 st_04693,Fujinami,藤浪,wikidata,35.189140,136.739300,Aichi,名古屋鉄道,single,1
 st_04694,Higashi-Biwajima,東枇杷島,wikidata,35.189610,136.870180,Aichi,名古屋鉄道,single,1
-st_04695,Ozore,大嵐,wikidata,35.190110,137.818520,Nagano,東海旅客鉄道,single,1
+st_04695,Ozore,大嵐,wikidata,35.190110,137.818520,Shizuoka,東海旅客鉄道,single,1
 st_04696,Nagoya Dome-mae Yada,ナゴヤドーム前矢田,wikidata,35.190130,136.947820,Aichi,名古屋ガイドウェイバス,single,1
 st_04697,Machikata,町方,wikidata,35.190140,136.726920,Aichi,名古屋鉄道,single,1
 st_04698,Meijo Koen,名城公園,wikidata,35.190340,136.904810,Aichi,名古屋市,single,1
@@ -4753,7 +4753,7 @@ st_04751,Setoguchi,瀬戸口,wikidata,35.205920,137.082900,Aichi,愛知環状鉄
 st_04752,Kamedake,亀嵩,wikidata,35.205980,133.052430,Shimane,西日本旅客鉄道,single,1
 st_04753,Omori-Kinjogakuin-mae,大森・金城学院前,wikidata,35.206920,136.996980,Aichi,名古屋鉄道,single,1
 st_04754,Ichijima,市島,wikidata,35.207510,135.129610,Hyogo,西日本旅客鉄道,single,1
-st_04755,Kowada,小和田,wikidata,35.209840,137.835830,Nagano,東海旅客鉄道,single,1
+st_04755,Kowada,小和田,wikidata,35.209840,137.835830,Shizuoka,東海旅客鉄道,single,1
 st_04756,Kawamiya,川宮,wikidata,35.210530,136.962290,Aichi,名古屋ガイドウェイバス,single,1
 st_04757,Inba,印場,wikidata,35.210860,137.010500,Aichi,名古屋鉄道,single,1
 st_04758,Shin-Kiyosu,新清洲,wikidata,35.210930,136.835950,Aichi,名古屋鉄道,single,1
@@ -4799,7 +4799,7 @@ st_04797,Hira,比良,wikidata,35.228580,136.902500,Aichi,JR東海交通事業,si
 st_04798,Kute,久手,wikidata,35.229180,132.508190,Shimane,西日本旅客鉄道,single,1
 st_04799,Ajimi,味美,wikidata,35.229420,136.931930,Aichi,JR東海交通事業,single,1
 st_04800,Tenojima,十島,wikidata,35.230420,138.514890,Yamanashi,東海旅客鉄道,single,1
-st_04801,Inako,稲子,wikidata,35.230850,138.536790,Yamanashi,東海旅客鉄道,single,1
+st_04801,Inako,稲子,wikidata,35.230850,138.536790,Shizuoka,東海旅客鉄道,single,1
 st_04802,Keikyu Kurihama,京急久里浜,wikidata,35.232140,139.702330,Kanagawa,京浜急行電鉄,single,1
 st_04803,Haji,土師,wikidata,35.232470,134.225810,Tottori,西日本旅客鉄道,single,1
 st_04804,Yamago,山郷,wikidata,35.232480,134.289050,Tottori,智頭急行,single,1
@@ -4824,7 +4824,7 @@ st_04822,Fusamoto,総元,wikidata,35.240590,140.240780,Chiba,いすみ鉄道,sin
 st_04823,Neu,根雨,wikidata,35.240990,133.441040,Tottori,西日本旅客鉄道,single,1
 st_04824,Miyanoshita,宮ノ下,wikidata,35.241750,139.063310,Kanagawa,小田急箱根,single,1
 st_04825,Kasugai,春日井,wikidata,35.242580,136.984160,Aichi,東海旅客鉄道,single,1
-st_04826,Tamba-Takeda,丹波竹田,wikidata,35.243330,135.133390,Kyoto,西日本旅客鉄道,single,1
+st_04826,Tamba-Takeda,丹波竹田,wikidata,35.243330,135.133390,Hyogo,西日本旅客鉄道,single,1
 st_04827,Nishiharu,西春,wikidata,35.244980,136.871330,Aichi,名古屋鉄道,single,1
 st_04828,Hakone-Itabashi,箱根板橋,wikidata,35.245060,139.145580,Kanagawa,小田急箱根,single,1
 st_04829,Minami-Hikone,南彦根,wikidata,35.245370,136.247240,Shiga,西日本旅客鉄道,single,1
@@ -5040,7 +5040,7 @@ st_05038,Shonan-Fukasawa,湘南深沢,wikidata,35.333160,139.519110,Kanagawa,湘
 st_05039,Sagami-Kaneko,相模金子,wikidata,35.333830,139.150490,Kanagawa,東海旅客鉄道,single,1
 st_05040,Kimitsu,君津,wikidata,35.333850,139.894770,Chiba,東日本旅客鉄道,single,1
 st_05041,Tajimi,多治見,wikidata,35.334540,137.119740,Gifu,東海旅客鉄道,high,2
-st_05042,Tamanoi,玉ノ井,wikidata,35.334640,136.757760,Gifu,名古屋鉄道,single,1
+st_05042,Tamanoi,玉ノ井,wikidata,35.334640,136.757760,Aichi,名古屋鉄道,single,1
 st_05043,Konan,江南,wikidata,35.334710,136.872040,Aichi,名古屋鉄道,single,1
 st_05044,Hataya,幡屋,wikidata,35.334740,132.939690,Shimane,西日本旅客鉄道,single,1
 st_05045,Nishi-Izumo,西出雲,wikidata,35.335230,132.722560,Shimane,西日本旅客鉄道,single,1
@@ -5057,14 +5057,14 @@ st_05055,Suka,須賀,wikidata,35.340160,136.726970,Gifu,名古屋鉄道,single,1
 st_05056,Kitachigasaki,北茅ヶ崎,romanized,35.340160,139.407210,Kanagawa,東日本旅客鉄道,single,1
 st_05057,Hakkeijima,八景島,wikidata,35.341190,139.640600,Kanagawa,横浜シーサイドライン,single,1
 st_05058,Wadayama,和田山,wikidata,35.341400,134.851360,Hyogo,西日本旅客鉄道,high,2
-st_05059,Kami-Yakuno,上夜久野,wikidata,35.341830,134.932690,Hyogo,西日本旅客鉄道,single,1
+st_05059,Kami-Yakuno,上夜久野,wikidata,35.341830,134.932690,Kyoto,西日本旅客鉄道,single,1
 st_05060,Uminokoen-Shibaguchi,海の公園柴口,wikidata,35.341880,139.635600,Kanagawa,横浜シーサイドライン,single,1
-st_05061,Shin-Kisogawa,新木曽川,wikidata,35.342550,136.779250,Gifu,名古屋鉄道,single,1
+st_05061,Shin-Kisogawa,新木曽川,wikidata,35.342550,136.779250,Aichi,名古屋鉄道,single,1
 st_05062,Kanazawa-Bunko,金沢文庫,wikidata,35.343300,139.621790,Kanagawa,京浜急行電鉄,single,1
 st_05063,Mochigase,用瀬,wikidata,35.343490,134.204940,Tottori,西日本旅客鉄道,single,1
 st_05064,Shidai-Igakubu,市大医学部,wikidata,35.343560,139.650140,Kanagawa,横浜シーサイドライン,single,1
 st_05065,Mino-Aoyagi,美濃青柳,wikidata,35.343964,136.603866,Gifu,養老鉄道,single,1
-st_05066,Kashiwabara,柏原,wikidata,35.344330,136.401140,Gifu,東海旅客鉄道,single,1
+st_05066,Kashiwabara,柏原,wikidata,35.344330,136.401140,Shiga,東海旅客鉄道,single,1
 st_05067,Wakasa,若桜,wikidata,35.344680,134.398980,Tottori,若桜鉄道,single,1
 st_05068,Kashiwamori,柏森,wikidata,35.344730,136.899750,Aichi,名古屋鉄道,single,1
 st_05069,Shin-Matsuda,新松田,wikidata,35.344900,139.140120,Kanagawa,小田急電鉄,single,1
@@ -5075,13 +5075,13 @@ st_05073,Torami,東浪見,wikidata,35.347640,140.376150,Chiba,東日本旅客鉄
 st_05074,Fujisawa-Hommachi,藤沢本町,wikidata,35.347880,139.476020,Kanagawa,小田急電鉄,single,1
 st_05075,Minami-Juku,南宿,wikidata,35.348180,136.728710,Gifu,名古屋鉄道,single,1
 st_05076,Hoki-Mizoguchi,伯耆溝口,wikidata,35.348210,133.435380,Tottori,西日本旅客鉄道,single,1
-st_05077,Kisogawa,木曽川,wikidata,35.348240,136.781140,Gifu,東海旅客鉄道,single,1
+st_05077,Kisogawa,木曽川,wikidata,35.348240,136.781140,Aichi,東海旅客鉄道,single,1
 st_05078,Tamoto,田本,wikidata,35.348950,137.837900,Nagano,東海旅客鉄道,single,1
 st_05079,Fukuura,福浦,wikidata,35.349270,139.648550,Kanagawa,横浜シーサイドライン,single,1
 st_05080,Umezako,梅迫,wikidata,35.349390,135.310980,Kyoto,西日本旅客鉄道,single,1
 st_05081,Koizumi,小泉,wikidata,35.349460,137.100350,Gifu,東海旅客鉄道,single,1
 st_05082,Yamaoka,山岡,wikidata,35.349750,137.395720,Gifu,明知鉄道,single,1
-st_05083,Kuroda,黒田,wikidata,35.350540,136.777450,Gifu,名古屋鉄道,single,1
+st_05083,Kuroda,黒田,wikidata,35.350540,136.777450,Aichi,名古屋鉄道,single,1
 st_05084,Haguro,羽黒,wikidata,35.351130,136.952610,Aichi,名古屋鉄道,single,1
 st_05085,Takataki,高滝,wikidata,35.352820,140.150040,Chiba,小湊鐵道,single,1
 st_05086,Sangyoshinko Center,産業振興センター,wikidata,35.353420,139.646750,Kanagawa,横浜シーサイドライン,single,1
@@ -5094,7 +5094,7 @@ st_05092,Tamura,田村,romanized,35.356730,136.281760,Shiga,西日本旅客鉄�
 st_05093,Kagawa,香川,wikidata,35.356990,139.399750,Kanagawa,東日本旅客鉄道,single,1
 st_05094,Higashi-Yamakita,東山北,wikidata,35.357480,139.107900,Kanagawa,東海旅客鉄道,single,1
 st_05095,Sachiura,幸浦,wikidata,35.358740,139.643690,Kanagawa,横浜シーサイドライン,single,1
-st_05096,Omi-Nagaoka,近江長岡,wikidata,35.359020,136.373970,Gifu,東海旅客鉄道,single,1
+st_05096,Omi-Nagaoka,近江長岡,wikidata,35.359020,136.373970,Shiga,東海旅客鉄道,single,1
 st_05097,Suruga-Oyama,駿河小山,wikidata,35.359130,138.997990,Shizuoka,東海旅客鉄道,single,1
 st_05098,Shimo-Amatsu,下天津,wikidata,35.359300,135.111550,Kyoto,WILLER　TRAINS,single,1
 st_05099,Fuso,扶桑,wikidata,35.359370,136.915880,Aichi,名古屋鉄道,single,1
@@ -5113,7 +5113,7 @@ st_05111,Hatto,八東,wikidata,35.363600,134.315970,Tottori,若桜鉄道,single,
 st_05112,Sekigahara,関ヶ原,romanized,35.363650,136.469370,Gifu,東海旅客鉄道,single,1
 st_05113,Tokumaru,徳丸,wikidata,35.364330,134.336060,Tottori,若桜鉄道,single,1
 st_05114,Yanaizu,柳津,wikidata,35.365011,136.740341,Gifu,名古屋鉄道,single,1
-st_05115,Kisogawazutsumi,木曽川堤,wikidata,35.365220,136.770210,Gifu,名古屋鉄道,single,1
+st_05115,Kisogawazutsumi,木曽川堤,wikidata,35.365220,136.770210,Aichi,名古屋鉄道,single,1
 st_05116,Namiki-Chuo,並木中央,wikidata,35.365800,139.642990,Kanagawa,横浜シーサイドライン,single,1
 st_05117,Yaga,谷峨,wikidata,35.366240,139.038440,Kanagawa,東海旅客鉄道,single,1
 st_05118,Kisoyosui,木津用水,wikidata,35.366630,136.925650,Aichi,名古屋鉄道,single,1
@@ -5193,17 +5193,17 @@ st_05191,Jukujo,十九条,wikidata,35.395430,136.661030,Gifu,樽見鉄道,single
 st_05192,Kurami,倉見,wikidata,35.395450,139.378540,Kanagawa,東日本旅客鉄道,single,1
 st_05193,Oe-Kokomae,大江高校前,wikidata,35.395780,135.152750,Kyoto,WILLER　TRAINS,single,1
 st_05194,Isehara,伊勢原,wikidata,35.395800,139.313200,Kanagawa,小田急電鉄,single,1
-st_05195,Shin-Unuma,新鵜沼,wikidata,35.396350,136.944450,Aichi,名古屋鉄道,high,2
+st_05195,Shin-Unuma,新鵜沼,wikidata,35.396350,136.944450,Gifu,名古屋鉄道,high,2
 st_05196,Hozumi,穂積,wikidata,35.396600,136.694450,Gifu,東海旅客鉄道,single,1
 st_05197,Kawahara,河原,wikidata,35.397440,134.223850,Tottori,西日本旅客鉄道,single,1
-st_05198,Unuma,鵜沼,wikidata,35.397720,136.945100,Aichi,東海旅客鉄道,single,1
+st_05198,Unuma,鵜沼,wikidata,35.397720,136.945100,Gifu,東海旅客鉄道,single,1
 st_05199,Omi-Imazu,近江今津,wikidata,35.397780,136.032140,Shiga,西日本旅客鉄道,single,1
 st_05200,Tejikara,手力,wikidata,35.398260,136.804040,Gifu,名古屋鉄道,single,1
 st_05201,Takadabashi,高田橋,wikidata,35.398400,136.811110,Gifu,名古屋鉄道,single,1
 st_05202,Agi,阿木,wikidata,35.399280,137.459340,Gifu,明知鉄道,single,1
 st_05203,Shin-Kano,新加納,wikidata,35.399360,136.823970,Gifu,名古屋鉄道,single,1
 st_05204,Isogo,磯子,wikidata,35.399660,139.617850,Kanagawa,東日本旅客鉄道,single,1
-st_05205,Unumajuku,鵜沼宿,wikidata,35.399790,136.932870,Aichi,名古屋鉄道,single,1
+st_05205,Unumajuku,鵜沼宿,wikidata,35.399790,136.932870,Gifu,名古屋鉄道,single,1
 st_05206,Shin-Naka,新那加,wikidata,35.400060,136.833210,Gifu,名古屋鉄道,single,1
 st_05207,Mikakino,三柿野,wikidata,35.400090,136.876740,Gifu,名古屋鉄道,single,1
 st_05208,Nijikken,二十軒,wikidata,35.400170,136.889890,Gifu,名古屋鉄道,single,1
@@ -5213,13 +5213,13 @@ st_05211,Shimin-Koen-mae,市民公園前,wikidata,35.400540,136.841430,Gifu,名�
 st_05212,Naka,那加,wikidata,35.400610,136.836510,Gifu,東海旅客鉄道,single,1
 st_05213,Kakamigahara-Shiyakusho-mae,各務原市役所前,wikidata,35.400820,136.846840,Gifu,名古屋鉄道,single,1
 st_05214,Rokken,六軒,wikidata,35.401070,136.861020,Gifu,名古屋鉄道,single,1
-st_05215,Haba,羽場,wikidata,35.401180,136.921610,Aichi,名古屋鉄道,single,1
+st_05215,Haba,羽場,wikidata,35.401180,136.921610,Gifu,名古屋鉄道,single,1
 st_05216,Hosobata,細畑,wikidata,35.401550,136.785460,Gifu,名古屋鉄道,single,1
 st_05217,Nagamori,長森,wikidata,35.402010,136.803340,Gifu,東海旅客鉄道,single,1
 st_05218,Chajo,茶所,wikidata,35.402400,136.768920,Gifu,名古屋鉄道,single,1
 st_05219,Karakasa,唐笠,wikidata,35.402560,137.810510,Nagano,東海旅客鉄道,single,1
-st_05220,Meiden Kakamigahara,名電各務原,wikidata,35.402700,136.901550,Aichi,名古屋鉄道,single,1
-st_05221,Ogase,苧ヶ瀬,wikidata,35.403250,136.912590,Aichi,名古屋鉄道,single,1
+st_05220,Meiden Kakamigahara,名電各務原,wikidata,35.402700,136.901550,Gifu,名古屋鉄道,single,1
+st_05221,Ogase,苧ヶ瀬,wikidata,35.403250,136.912590,Gifu,名古屋鉄道,single,1
 st_05222,Sohara,蘇原,wikidata,35.403300,136.872040,Gifu,東海旅客鉄道,single,1
 st_05223,Kagamigahara,各務ケ原,wikidata,35.403870,136.900870,Gifu,東海旅客鉄道,single,1
 st_05224,Otera,大寺,wikidata,35.404210,132.787150,Shimane,一畑電車,single,1
@@ -5360,7 +5360,7 @@ st_05358,Futamatagawa,二俣川,wikidata,35.464000,139.533180,Kanagawa,相模鉄
 st_05359,Ichibataguchi,一畑口,wikidata,35.464110,132.882800,Shimane,一畑電車,single,1
 st_05360,Tokimata,時又,wikidata,35.464410,137.827830,Nagano,東海旅客鉄道,single,1
 st_05361,Kazusa-Mitsumata,上総三又,wikidata,35.466260,140.126670,Chiba,小湊鐵道,single,1
-st_05362,Yumigahama,弓ヶ浜,romanized,35.466350,133.289260,Shimane,西日本旅客鉄道,single,1
+st_05362,Yumigahama,弓ヶ浜,romanized,35.466350,133.289260,Tottori,西日本旅客鉄道,single,1
 st_05363,Tsunomori,津ノ森,wikidata,35.466430,132.919450,Shimane,一畑電車,single,1
 st_05364,Kamihoshikawa,上星川,wikidata,35.466632,139.581388,Kanagawa,相模鉄道,single,1
 st_05365,Matsue Shinjiko-Onsen,松江しんじ湖温泉,wikidata,35.466950,133.044960,Shimane,一畑電車,single,1
@@ -5395,7 +5395,7 @@ st_05393,Anegasaki,姉ヶ崎,romanized,35.478690,140.042000,Chiba,東日本旅�
 st_05394,Mino-Sakamoto,美乃坂本,wikidata,35.479400,137.449320,Gifu,東海旅客鉄道,single,1
 st_05395,Nagae,長江,wikidata,35.479620,132.974640,Shimane,一畑電車,single,1
 st_05396,Seki-guchi,関口,wikidata,35.480000,136.928490,Gifu,長良川鉄道,single,1
-st_05397,Wadahama,和田浜,wikidata,35.480230,133.266050,Shimane,西日本旅客鉄道,single,1
+st_05397,Wadahama,和田浜,wikidata,35.480230,133.266050,Tottori,西日本旅客鉄道,single,1
 st_05398,Zama,座間,wikidata,35.480250,139.399910,Kanagawa,小田急電鉄,single,1
 st_05399,Kato,加斗,wikidata,35.480790,135.667050,Fukui,西日本旅客鉄道,single,1
 st_05400,Asahigaoka,朝日ヶ丘,wikidata,35.481060,132.987580,Shimane,一畑電車,single,1
@@ -5451,7 +5451,7 @@ st_05449,Shimoyoshida,下吉田,wikidata,35.497870,138.803160,Yamanashi,富士�
 st_05450,Kawaguchiko,河口湖,wikidata,35.498030,138.768710,Yamanashi,富士山麓電気鉄道,single,1
 st_05451,Seki-Shiyakusho-mae,関市役所前,wikidata,35.498750,136.912810,Gifu,長良川鉄道,single,1
 st_05452,Sobudai-mae,相武台前,wikidata,35.498770,139.408000,Kanagawa,小田急電鉄,single,1
-st_05453,Nagahara,永原,wikidata,35.499070,136.122690,Fukui,西日本旅客鉄道,single,1
+st_05453,Nagahara,永原,wikidata,35.499070,136.122690,Shiga,西日本旅客鉄道,single,1
 st_05454,Myorenji,妙蓮寺,wikidata,35.499130,139.633340,Kanagawa,東急電鉄,single,1
 st_05455,Oribe,織部,wikidata,35.499320,136.667180,Gifu,樽見鉄道,single,1
 st_05456,Urayasu,浦安,wikidata,35.499820,133.692330,Tottori,西日本旅客鉄道,single,1
@@ -5486,7 +5486,7 @@ st_05484,Hama-Kawasaki,浜川崎,wikidata,35.510050,139.714055,Kanagawa,東日�
 st_05485,Kikuna,菊名,wikidata,35.510090,139.630965,Kanagawa,東急電鉄;東日本旅客鉄道,high,2
 st_05486,Tsukimino,つきみ野,wikidata,35.510440,139.458220,Kanagawa,東急電鉄,single,1
 st_05487,Kamoi,鴨居,wikidata,35.510710,139.566090,Kanagawa,東日本旅客鉄道,single,1
-st_05488,Minami-Machida Grandberry Park,南町田グランベリーパーク,wikidata,35.511590,139.471490,Kanagawa,東急電鉄,single,1
+st_05488,Minami-Machida Grandberry Park,南町田グランベリーパーク,wikidata,35.511590,139.471490,Tokyo,東急電鉄,single,1
 st_05489,Mikuriya,御来屋,wikidata,35.512080,133.502260,Tottori,西日本旅客鉄道,single,1
 st_05490,Kiriishi,切石,wikidata,35.512110,137.809090,Nagano,東海旅客鉄道,single,1
 st_05491,Akasaki,赤碕,wikidata,35.512280,133.633770,Tottori,西日本旅客鉄道,single,1
@@ -5501,7 +5501,7 @@ st_05499,Takamatsucho,高松町,wikidata,35.515140,133.240110,Tottori,西日本�
 st_05500,Tango-Yura,丹後由良,wikidata,35.515870,135.279410,Kyoto,WILLER　TRAINS,single,1
 st_05501,Aoya,青谷,wikidata,35.516230,133.994880,Tottori,西日本旅客鉄道,single,1
 st_05502,Tomura,十村,wikidata,35.516500,135.897260,Fukui,西日本旅客鉄道,single,1
-st_05503,Suzukakedai,すずかけ台,wikidata,35.517170,139.481830,Kanagawa,東急電鉄,single,1
+st_05503,Suzukakedai,すずかけ台,wikidata,35.517170,139.481830,Tokyo,東急電鉄,single,1
 st_05504,Tsurumi-Ichiba,鶴見市場,wikidata,35.517170,139.686210,Kanagawa,京浜急行電鉄,single,1
 st_05505,Shimomizo,下溝,wikidata,35.517880,139.380710,Kanagawa,東日本旅客鉄道,single,1
 st_05506,Kawasaki-Shimmachi,川崎新町,wikidata,35.518060,139.699660,Kanagawa,東日本旅客鉄道,single,1
@@ -5535,7 +5535,7 @@ st_05533,Sagami-Ono,相模大野,wikidata,35.532200,139.437885,Kanagawa,小田�
 st_05534,Fujii,藤井,wikidata,35.532630,135.906430,Fukui,西日本旅客鉄道,single,1
 st_05535,Keikyu Kawasaki,京急川崎,wikidata,35.532640,139.700560,Kanagawa,京浜急行電鉄,high,2
 st_05536,Motozenkoji,元善光寺,wikidata,35.533710,137.861050,Nagano,東海旅客鉄道,single,1
-st_05537,Yogo,余呉,wikidata,35.533940,136.199330,Fukui,西日本旅客鉄道,single,1
+st_05537,Yogo,余呉,wikidata,35.533940,136.199330,Shiga,西日本旅客鉄道,single,1
 st_05538,Miyazu,宮津,wikidata,35.534020,135.199350,Kyoto,WILLER　TRAINS,high,2
 st_05539,Chiharadai,ちはら台,wikidata,35.534410,140.170230,Chiba,京成電鉄,single,1
 st_05540,Kojimashinden,小島新田,wikidata,35.534710,139.747160,Kanagawa,京浜急行電鉄,single,1
@@ -5554,9 +5554,9 @@ st_05552,Babasakicho,馬場崎町,wikidata,35.538220,133.226740,Tottori,西日�
 st_05553,Tokaichiba,十日市場,romanized,35.538810,138.887080,Yamanashi,富士山麓電気鉄道,single,1
 st_05554,Yako,矢向,wikidata,35.539660,139.680290,Kanagawa,東日本旅客鉄道,single,1
 st_05555,Minoshi,美濃市,wikidata,35.540120,136.916220,Gifu,長良川鉄道,single,1
-st_05556,Rokugodote,六郷土手,wikidata,35.540250,139.707320,Kanagawa,京浜急行電鉄,single,1
+st_05556,Rokugodote,六郷土手,wikidata,35.540250,139.707320,Tokyo,京浜急行電鉄,single,1
 st_05557,Kajikazawaguchi,鰍沢口,wikidata,35.540940,138.470830,Yamanashi,東海旅客鉄道,single,1
-st_05558,Omi-Shiotsu,近江塩津,wikidata,35.541050,136.150920,Fukui,西日本旅客鉄道,high,2
+st_05558,Omi-Shiotsu,近江塩津,wikidata,35.541050,136.150920,Shiga,西日本旅客鉄道,high,2
 st_05559,Kamiaso,上麻生,wikidata,35.541310,137.118430,Gifu,東海旅客鉄道,single,1
 st_05560,Machida,町田,wikidata,35.542375,139.446175,Tokyo,小田急電鉄;東日本旅客鉄道,high,2
 st_05561,Komi,神海,wikidata,35.542490,136.641600,Gifu,樽見鉄道,single,1
@@ -5594,14 +5594,14 @@ st_05592,Konotori-no-sato,コウノトリの郷,wikidata,35.552820,134.834790,Hy
 st_05593,Hamano,浜野,wikidata,35.553060,140.132570,Chiba,東日本旅客鉄道,single,1
 st_05594,Kojiya,糀谷,wikidata,35.554680,139.729330,Tokyo,京浜急行電鉄,single,1
 st_05595,Seibijo,整備場,wikidata,35.555540,139.753360,Tokyo,東京モノレール,single,1
-st_05596,Kobuchi,古淵,wikidata,35.555880,139.419430,Tokyo,東日本旅客鉄道,single,1
+st_05596,Kobuchi,古淵,wikidata,35.555880,139.419430,Kanagawa,東日本旅客鉄道,single,1
 st_05597,Takashina,高科,wikidata,35.556030,136.640010,Gifu,樽見鉄道,single,1
 st_05598,Mikata,三方,wikidata,35.556050,135.909330,Fukui,西日本旅客鉄道,single,1
 st_05599,Tsurushi,都留市,wikidata,35.556730,138.907520,Yamanashi,富士山麓電気鉄道,single,1
 st_05600,Kamimizo,上溝,wikidata,35.557570,139.363180,Kanagawa,東日本旅客鉄道,single,1
 st_05601,Amanohashidate,天橋立,wikidata,35.557810,135.182180,Kyoto,WILLER　TRAINS,single,1
 st_05602,Eda,江田,wikidata,35.558180,139.551190,Kanagawa,東急電鉄,single,1
-st_05603,Kodomonokuni,こどもの国,wikidata,35.558390,139.486560,Tokyo,東急電鉄,single,1
+st_05603,Kodomonokuni,こどもの国,wikidata,35.558390,139.486560,Kanagawa,東急電鉄,single,1
 st_05604,Hirama,平間,wikidata,35.560150,139.671250,Kanagawa,東日本旅客鉄道,single,1
 st_05605,Ichikawa-Daimon,市川大門,wikidata,35.560450,138.492390,Yamanashi,東海旅客鉄道,single,1
 st_05606,Togane,東金,wikidata,35.560540,140.364480,Chiba,東日本旅客鉄道,single,1
@@ -5623,7 +5623,7 @@ st_05621,Musashi-Nitta,武蔵新田,wikidata,35.567540,139.692750,Tokyo,東急�
 st_05622,Fuchinobe,淵野辺,wikidata,35.568560,139.395200,Kanagawa,東日本旅客鉄道,single,1
 st_05623,Kai-Ueno,甲斐上野,wikidata,35.569560,138.520880,Yamanashi,東海旅客鉄道,single,1
 st_05624,Showajima,昭和島,wikidata,35.570770,139.749950,Tokyo,東京モノレール,single,1
-st_05625,Shimo-Maruko,下丸子,wikidata,35.571160,139.685840,Kanagawa,東急電鉄,single,1
+st_05625,Shimo-Maruko,下丸子,wikidata,35.571160,139.685840,Tokyo,東急電鉄,single,1
 st_05626,Mukaigawara,向河原,wikidata,35.571640,139.667450,Kanagawa,東日本旅客鉄道,single,1
 st_05627,Yunohora-Onsen-guchi,湯の洞温泉口,wikidata,35.571670,136.931480,Gifu,長良川鉄道,single,1
 st_05628,Ikegami,池上,wikidata,35.571950,139.702730,Tokyo,東急電鉄,single,1
@@ -5634,15 +5634,15 @@ st_05632,Chidoricho,千鳥町,wikidata,35.573250,139.691140,Tokyo,東急電鉄,s
 st_05633,Musashi-Kosugi,武蔵小杉,wikidata,35.574860,139.663320,Kanagawa,東日本旅客鉄道,single,1
 st_05634,Kasei,禾生,wikidata,35.574960,138.928980,Yamanashi,富士山麓電気鉄道,single,1
 st_05635,Iwami,岩美,wikidata,35.575060,134.335900,Tottori,西日本旅客鉄道,single,1
-st_05636,Unoki,鵜の木,wikidata,35.575140,139.680790,Kanagawa,東急電鉄,single,1
-st_05637,Sakashita,坂下,wikidata,35.575230,137.531310,Nagano,東海旅客鉄道,single,1
+st_05636,Unoki,鵜の木,wikidata,35.575140,139.680790,Tokyo,東急電鉄,single,1
+st_05637,Sakashita,坂下,wikidata,35.575230,137.531310,Gifu,東海旅客鉄道,single,1
 st_05638,Musashi-Kosugi,武蔵小杉,wikidata,35.576560,139.660030,Kanagawa,東急電鉄;東日本旅客鉄道,high,2
 st_05639,Tama-Plaza,たまプラーザ,wikidata,35.577370,139.558420,Kanagawa,東急電鉄,single,1
 st_05640,Yamabuki,山吹,wikidata,35.577670,137.902940,Nagano,東海旅客鉄道,single,1
 st_05641,Heiwajima,平和島,wikidata,35.578620,139.734950,Tokyo,京浜急行電鉄,single,1
 st_05642,Shirakawaguchi,白川口,wikidata,35.578990,137.185430,Gifu,東海旅客鉄道,single,1
 st_05643,Saginuma,鷺沼,wikidata,35.579650,139.573070,Kanagawa,東急電鉄,single,1
-st_05644,Kugahara,久が原,wikidata,35.579760,139.685450,Kanagawa,東急電鉄,single,1
+st_05644,Kugahara,久が原,wikidata,35.579760,139.685450,Tokyo,東急電鉄,single,1
 st_05645,Shin-Maruko,新丸子,wikidata,35.579920,139.661680,Kanagawa,東急電鉄,single,1
 st_05646,Musashi-Nakahara,武蔵中原,wikidata,35.580180,139.642840,Kanagawa,東日本旅客鉄道,single,1
 st_05647,Gumyo,求名,wikidata,35.580310,140.396710,Chiba,東日本旅客鉄道,single,1
@@ -5651,13 +5651,13 @@ st_05649,Minami-Hashimoto,南橋本,wikidata,35.580980,139.352460,Kanagawa,東�
 st_05650,Sagamihara,相模原,wikidata,35.581590,139.370410,Kanagawa,東日本旅客鉄道,single,1
 st_05651,Ryutsu Center,流通センター,wikidata,35.581880,139.749000,Tokyo,東京モノレール,single,1
 st_05652,Hinata,日当,wikidata,35.582010,136.631710,Gifu,樽見鉄道,single,1
-st_05653,Numabe,沼部,wikidata,35.582230,139.673440,Kanagawa,東急電鉄,single,1
+st_05653,Numabe,沼部,wikidata,35.582230,139.673440,Tokyo,東急電鉄,single,1
 st_05654,Soga,蘇我,wikidata,35.582660,140.130490,Chiba,東日本旅客鉄道,high,3
-st_05655,Tsurukawa,鶴川,wikidata,35.582900,139.480780,Kanagawa,小田急電鉄,single,1
+st_05655,Tsurukawa,鶴川,wikidata,35.582900,139.480780,Tokyo,小田急電鉄,single,1
 st_05656,Fuchu,府中,wikidata,35.583200,135.195240,Kyoto,丹後海陸交通,single,1
 st_05657,Omoridai,大森台,wikidata,35.584270,140.149220,Chiba,京成電鉄,single,1
 st_05658,Miyamaedaira,宮前平,wikidata,35.584940,139.582020,Kanagawa,東急電鉄,single,1
-st_05659,Ontakesan,御嶽山,wikidata,35.585010,139.682490,Kanagawa,東急電鉄,single,1
+st_05659,Ontakesan,御嶽山,wikidata,35.585010,139.682490,Tokyo,東急電鉄,single,1
 st_05660,Kiyama,気山,wikidata,35.585320,135.909780,Fukui,西日本旅客鉄道,single,1
 st_05661,Kasamatsu,傘松,wikidata,35.586040,135.195800,Kyoto,丹後海陸交通,single,1
 st_05662,Miyazakidai,宮崎台,wikidata,35.587020,139.590690,Kanagawa,東急電鉄,single,1
@@ -5667,10 +5667,10 @@ st_05665,Tadachi,田立,wikidata,35.588230,137.549040,Nagano,東海旅客鉄道,
 st_05666,Suhara,洲原,wikidata,35.588680,136.944720,Gifu,長良川鉄道,single,1
 st_05667,Omori,大森,wikidata,35.588720,139.728020,Tokyo,東日本旅客鉄道,single,1
 st_05668,Gembudo,玄武洞,wikidata,35.588860,134.799250,Hyogo,西日本旅客鉄道,single,1
-st_05669,Tamagawa,多摩川,wikidata,35.588940,139.668890,Kanagawa,東急電鉄,high,2
+st_05669,Tamagawa,多摩川,wikidata,35.588940,139.668890,Tokyo,東急電鉄,high,2
 st_05670,Kakio,柿生,wikidata,35.590230,139.497990,Kanagawa,小田急電鉄,single,1
 st_05671,Chibadera,千葉寺,wikidata,35.590520,140.131600,Chiba,京成電鉄,single,1
-st_05672,Yukigaya-Otsuka,雪が谷大塚,wikidata,35.592310,139.681350,Kanagawa,東急電鉄,single,1
+st_05672,Yukigaya-Otsuka,雪が谷大塚,wikidata,35.592310,139.681350,Tokyo,東急電鉄,single,1
 st_05673,Tanokura,田野倉,wikidata,35.593130,138.931240,Yamanashi,富士山麓電気鉄道,single,1
 st_05674,Kajigaya,梶が谷,wikidata,35.594020,139.605960,Kanagawa,東急電鉄,single,1
 st_05675,Hatsukari,初狩,wikidata,35.594290,138.883670,Yamanashi,東日本旅客鉄道,single,1
@@ -5679,8 +5679,8 @@ st_05677,Shin-Hikida,新疋田,wikidata,35.594580,136.100460,Fukui,西日本旅�
 st_05678,Hashimoto,橋本,wikidata,35.595120,139.344320,Kanagawa,京王電鉄;東日本旅客鉄道,high,3
 st_05679,Oi Keibajo-mae,大井競馬場前,wikidata,35.595550,139.747240,Tokyo,東京モノレール,single,1
 st_05680,Ina-Oshima,伊那大島,wikidata,35.596100,137.913480,Nagano,東海旅客鉄道,single,1
-st_05681,Den-en-chofu,田園調布,wikidata,35.596630,139.667310,Kanagawa,東急電鉄,high,2
-st_05682,Ishikawadai,石川台,wikidata,35.597080,139.685430,Kanagawa,東急電鉄,single,1
+st_05681,Den-en-chofu,田園調布,wikidata,35.596630,139.667310,Tokyo,東急電鉄,high,2
+st_05682,Ishikawadai,石川台,wikidata,35.597080,139.685430,Tokyo,東急電鉄,single,1
 st_05683,Habuno,母野,wikidata,35.598520,136.942060,Gifu,長良川鉄道,single,1
 st_05684,Tachiaigawa,立会川,wikidata,35.598840,139.739100,Tokyo,京浜急行電鉄,single,1
 st_05685,Nagiso,南木曽,wikidata,35.598950,137.608670,Nagano,東海旅客鉄道,single,1
@@ -5691,39 +5691,39 @@ st_05689,Senzoku-Ike,洗足池,wikidata,35.599800,139.691340,Tokyo,東急電鉄,
 st_05690,Hon-Chiba,本千葉,wikidata,35.599920,140.121740,Chiba,東日本旅客鉄道,single,1
 st_05691,Satsukidai,五月台,wikidata,35.600460,139.492700,Kanagawa,小田急電鉄,single,1
 st_05692,Takao,高尾,wikidata,35.601460,136.625840,Gifu,樽見鉄道,single,1
-st_05693,Tamasakai,多摩境,wikidata,35.601750,139.366940,Kanagawa,京王電鉄,single,1
+st_05693,Tamasakai,多摩境,wikidata,35.601750,139.366940,Tokyo,京王電鉄,single,1
 st_05694,Nishi-Oi,西大井,wikidata,35.602070,139.721770,Tokyo,東日本旅客鉄道,single,1
-st_05695,Kumihama,久美浜,wikidata,35.602220,134.894750,Hyogo,WILLER　TRAINS,single,1
+st_05695,Kumihama,久美浜,wikidata,35.602220,134.894750,Kyoto,WILLER　TRAINS,single,1
 st_05696,Nagahara,長原,wikidata,35.602410,139.698310,Tokyo,東急電鉄,single,1
 st_05697,Ebaramachi,荏原町,wikidata,35.603800,139.707960,Tokyo,東急電鉄,single,1
 st_05698,Takatsu,高津,wikidata,35.603890,139.618520,Kanagawa,東急電鉄,single,1
 st_05699,Sasago,笹子,wikidata,35.603960,138.825500,Yamanashi,東日本旅客鉄道,single,1
 st_05700,Tsudayama,津田山,wikidata,35.604020,139.600080,Kanagawa,東日本旅客鉄道,single,1
 st_05701,Kencho-mae,県庁前,wikidata,35.604030,140.122050,Chiba,千葉都市モノレール,single,1
-st_05702,Okusawa,奥沢,wikidata,35.604060,139.672850,Kanagawa,東急電鉄,single,1
+st_05702,Okusawa,奥沢,wikidata,35.604060,139.672850,Tokyo,東急電鉄,single,1
 st_05703,Koikawa,小井川,wikidata,35.604180,138.528490,Yamanashi,東海旅客鉄道,single,1
 st_05704,Shin-Yurigaoka,新百合ヶ丘,wikidata,35.604350,139.508280,Kanagawa,小田急電鉄,high,2
 st_05705,Mihama,美浜,wikidata,35.604980,135.935720,Fukui,西日本旅客鉄道,single,1
 st_05706,Hatanodai,旗の台,wikidata,35.605165,139.702700,Tokyo,東急電鉄,high,2
-st_05707,Kuhombutsu,九品仏,wikidata,35.605440,139.660580,Kanagawa,東急電鉄,single,1
+st_05707,Kuhombutsu,九品仏,wikidata,35.605440,139.660580,Tokyo,東急電鉄,single,1
 st_05708,Samezu,鮫洲,wikidata,35.605450,139.742750,Tokyo,京浜急行電鉄,single,1
 st_05709,Kurihira,栗平,wikidata,35.606050,139.480740,Kanagawa,小田急電鉄,single,1
-st_05710,Aihara,相原,wikidata,35.606350,139.331740,Kanagawa,東日本旅客鉄道,single,1
+st_05710,Aihara,相原,wikidata,35.606350,139.331740,Tokyo,東日本旅客鉄道,single,1
 st_05711,Kita-Senzoku,北千束,wikidata,35.606410,139.692880,Tokyo,東急電鉄,single,1
 st_05712,Igumi,居組,wikidata,35.606490,134.393170,Hyogo,西日本旅客鉄道,single,1
 st_05713,Konoo,木尾,wikidata,35.606500,136.938890,Gifu,長良川鉄道,single,1
-st_05714,Midorigaoka,緑が丘,wikidata,35.606580,139.678750,Kanagawa,東急電鉄,single,1
+st_05714,Midorigaoka,緑が丘,wikidata,35.606580,139.678750,Tokyo,東急電鉄,single,1
 st_05715,Chiba-Chuo,千葉中央,wikidata,35.606740,140.118140,Chiba,京成電鉄,high,2
-st_05716,Kabutoyama,かぶと山,wikidata,35.606830,134.920390,Hyogo,WILLER　TRAINS,single,1
+st_05716,Kabutoyama,かぶと山,wikidata,35.606830,134.920390,Kyoto,WILLER　TRAINS,single,1
 st_05717,Shiyakusho-mae,市役所前,wikidata,35.606860,140.107430,Chiba,千葉都市モノレール,single,1
 st_05718,Chiba-Minato,千葉みなと,wikidata,35.606965,140.102725,Chiba,千葉都市モノレール;東日本旅客鉄道,high,2
-st_05719,Oyamadai,尾山台,wikidata,35.607090,139.653420,Kanagawa,東急電鉄,single,1
+st_05719,Oyamadai,尾山台,wikidata,35.607090,139.653420,Tokyo,東急電鉄,single,1
 st_05720,Yanagawa,梁川,wikidata,35.607110,139.036320,Yamanashi,東日本旅客鉄道,single,1
 st_05721,Ookayama,大岡山,wikidata,35.607185,139.685015,Tokyo,東急電鉄,high,2
 st_05722,Futako-Shinchi,二子新地,wikidata,35.607210,139.622580,Kanagawa,東急電鉄,single,1
-st_05723,Jiyugaoka,自由が丘,wikidata,35.607315,139.668510,Kanagawa,東急電鉄,high,2
+st_05723,Jiyugaoka,自由が丘,wikidata,35.607315,139.668510,Tokyo,東急電鉄,high,2
 st_05724,Torisawa,鳥沢,wikidata,35.607980,139.002210,Yamanashi,東日本旅客鉄道,single,1
-st_05725,Todoroki,等々力,wikidata,35.608510,139.647430,Kanagawa,東急電鉄,single,1
+st_05725,Todoroki,等々力,wikidata,35.608510,139.647430,Tokyo,東急電鉄,single,1
 st_05726,Naruto,成東,wikidata,35.608520,140.408380,Chiba,東日本旅客鉄道,high,2
 st_05727,Yoshikawa-koen,葭川公園,wikidata,35.608550,140.120080,Chiba,千葉都市モノレール,single,1
 st_05728,Shimo-Shimmei,下神明,wikidata,35.608580,139.726680,Tokyo,東急電鉄,single,1
@@ -5735,8 +5735,8 @@ st_05733,Ebara-Nakanobu,荏原中延,wikidata,35.610010,139.712150,Tokyo,東急�
 st_05734,Senzoku,洗足,wikidata,35.610430,139.694440,Tokyo,東急電鉄,single,1
 st_05735,Kuji,久地,wikidata,35.610540,139.592320,Kanagawa,東日本旅客鉄道,single,1
 st_05736,Keisei Chiba,京成千葉,wikidata,35.611540,140.114650,Chiba,京成電鉄,single,1
-st_05737,Futako-Tamagawa,二子玉川,wikidata,35.611800,139.626700,Kanagawa,東急電鉄,high,2
-st_05738,Kaminoge,上野毛,wikidata,35.612010,139.638880,Kanagawa,東急電鉄,single,1
+st_05737,Futako-Tamagawa,二子玉川,wikidata,35.611800,139.626700,Tokyo,東急電鉄,high,2
+st_05738,Kaminoge,上野毛,wikidata,35.612010,139.638880,Tokyo,東急電鉄,single,1
 st_05739,Shin-Chiba,新千葉,wikidata,35.612380,140.109010,Chiba,京成電鉄,single,1
 st_05740,Saruhashi,猿橋,wikidata,35.612390,138.967010,Yamanashi,東日本旅客鉄道,single,1
 st_05741,Otsuki,大月,wikidata,35.612610,138.941485,Yamanashi,富士山麓電気鉄道;東日本旅客鉄道,high,2
@@ -5744,19 +5744,19 @@ st_05742,Sakaecho,栄町,wikidata,35.612700,140.118750,Chiba,千葉都市モノ�
 st_05743,Chiba,千葉,wikidata,35.612963,140.113650,Chiba,千葉都市モノレール;東日本旅客鉄道,high,4
 st_05744,Kurokawa,黒川,wikidata,35.613230,139.470640,Kanagawa,小田急電鉄,single,1
 st_05745,Higashi-Mihama,東美浜,wikidata,35.613860,135.985030,Fukui,西日本旅客鉄道,single,1
-st_05746,Minami-Osawa,南大沢,wikidata,35.613960,139.379590,Kanagawa,京王電鉄,single,1
+st_05746,Minami-Osawa,南大沢,wikidata,35.613960,139.379590,Tokyo,京王電鉄,single,1
 st_05747,Shiotsu,四方津,wikidata,35.614130,139.073390,Yamanashi,東日本旅客鉄道,single,1
 st_05748,Yomiuri-Land-mae,読売ランド前,wikidata,35.614630,139.529020,Kanagawa,小田急電鉄,single,1
 st_05749,Ikuta,生田,wikidata,35.615060,139.542950,Kanagawa,小田急電鉄,single,1
 st_05750,Shukugawara,宿河原,wikidata,35.615690,139.578870,Kanagawa,東日本旅客鉄道,single,1
 st_05751,Nishi-Koyama,西小山,wikidata,35.615740,139.698970,Tokyo,東急電鉄,single,1
 st_05752,Karakida,唐木田,wikidata,35.615810,139.411170,Tokyo,小田急電鉄,single,1
-st_05753,Fujino,藤野,wikidata,35.615920,139.152030,Yamanashi,東日本旅客鉄道,single,1
+st_05753,Fujino,藤野,wikidata,35.615920,139.152030,Kanagawa,東日本旅客鉄道,single,1
 st_05754,Togoshi-Ginza,戸越銀座,wikidata,35.616330,139.715150,Tokyo,東急電鉄,single,1
 st_05755,Joei,常永,wikidata,35.616680,138.532730,Yamanashi,東海旅客鉄道,single,1
 st_05756,Higashi-Chiba,東千葉,wikidata,35.616680,140.121740,Chiba,東日本旅客鉄道,single,1
 st_05757,Shimbamba,新馬場,wikidata,35.616720,139.741490,Tokyo,京浜急行電鉄,single,1
-st_05758,Sagamiko,相模湖,wikidata,35.617020,139.189620,Yamanashi,東日本旅客鉄道,single,1
+st_05758,Sagamiko,相模湖,wikidata,35.617020,139.189620,Kanagawa,東日本旅客鉄道,single,1
 st_05759,Midori,水鳥,wikidata,35.617180,136.620880,Gifu,樽見鉄道,single,1
 st_05760,Nishi-Nobuto,西登戸,wikidata,35.617210,140.103160,Chiba,京成電鉄,single,1
 st_05761,Nishi-Tsuruga,西敦賀,wikidata,35.617590,136.067400,Fukui,西日本旅客鉄道,single,1
@@ -5764,10 +5764,10 @@ st_05762,Mukogaoka-Yuen,向ヶ丘遊園,wikidata,35.617730,139.565670,Kanagawa,�
 st_05763,Awano,粟野,wikidata,35.617770,136.025970,Fukui,西日本旅客鉄道,single,1
 st_05764,Uenohara,上野原,wikidata,35.617900,139.114280,Yamanashi,東日本旅客鉄道,single,1
 st_05765,Kamikatagiri,上片桐,wikidata,35.617920,137.903960,Nagano,東海旅客鉄道,single,1
-st_05766,Haruhino,はるひ野,wikidata,35.618100,139.465320,Tokyo,小田急電鉄,single,1
+st_05766,Haruhino,はるひ野,wikidata,35.618100,139.465320,Kanagawa,小田急電鉄,single,1
 st_05767,Toritsu-Daigaku,都立大学,wikidata,35.618360,139.676920,Tokyo,東急電鉄,single,1
 st_05768,Moroyose,諸寄,wikidata,35.619320,134.433990,Hyogo,西日本旅客鉄道,single,1
-st_05769,Wakabadai,若葉台,wikidata,35.619450,139.471260,Tokyo,京王電鉄,single,1
+st_05769,Wakabadai,若葉台,wikidata,35.619450,139.471260,Kanagawa,京王電鉄,single,1
 st_05770,Chiba-koen,千葉公園,wikidata,35.620050,140.117860,Chiba,千葉都市モノレール,single,1
 st_05771,Yasaka,八坂,wikidata,35.620140,136.944680,Gifu,長良川鉄道,single,1
 st_05772,Musashi-Koyama,武蔵小山,wikidata,35.620820,139.705020,Tokyo,東急電鉄,single,1
@@ -5803,7 +5803,7 @@ st_05801,Nakanoshima,中野島,wikidata,35.630150,139.550450,Kanagawa,東日本�
 st_05802,Kokubo,国母,wikidata,35.630250,138.551100,Yamanashi,東海旅客鉄道,single,1
 st_05803,Keio-nagayama,京王永山,wikidata,35.630480,139.447310,Tokyo,京王電鉄,single,1
 st_05804,Shotenkyo,小天橋,wikidata,35.630670,134.928810,Kyoto,WILLER　TRAINS,single,1
-st_05805,Hachiojiminamino,八王子みなみ野,wikidata,35.630890,139.330790,Kanagawa,東日本旅客鉄道,single,1
+st_05805,Hachiojiminamino,八王子みなみ野,wikidata,35.630890,139.330790,Tokyo,東日本旅客鉄道,single,1
 st_05806,Takaosan,高尾山,wikidata,35.631070,139.256350,Tokyo,高尾登山電鉄,single,1
 st_05807,Kiyotaki,清滝,wikidata,35.631090,139.266960,Tokyo,高尾登山電鉄,single,1
 st_05808,Sakuragi,桜木,wikidata,35.631560,140.160620,Chiba,千葉都市モノレール,single,1
@@ -5814,8 +5814,8 @@ st_05812,Komazawa-daigaku,駒沢大学,wikidata,35.632560,139.660160,Tokyo,東�
 st_05813,Takaosanguchi,高尾山口,wikidata,35.632840,139.270130,Tokyo,京王電鉄,single,1
 st_05814,Keio-Yomiuri-Land,京王よみうりランド,wikidata,35.632940,139.516740,Tokyo,京王電鉄,single,1
 st_05815,Shimoyui,下油井,wikidata,35.633600,137.183130,Gifu,東海旅客鉄道,single,1
-st_05816,Inadazutsumi,稲田堤,wikidata,35.633600,139.535120,Tokyo,東日本旅客鉄道,single,1
-st_05817,Keio-inadazutsumi,京王稲田堤,wikidata,35.634080,139.531870,Tokyo,京王電鉄,single,1
+st_05816,Inadazutsumi,稲田堤,wikidata,35.633600,139.535120,Kanagawa,東日本旅客鉄道,single,1
+st_05817,Keio-inadazutsumi,京王稲田堤,wikidata,35.634080,139.531870,Kanagawa,京王電鉄,single,1
 st_05818,Ariake,有明,wikidata,35.634280,139.793550,Tokyo,ゆりかもめ,single,1
 st_05819,Tarumi,樽見,wikidata,35.634730,136.616170,Gifu,樽見鉄道,single,1
 st_05820,Resort Gateway,リゾートゲートウェイ･ステーション,wikidata,35.634910,139.885570,Chiba,舞浜リゾートライン,single,1
@@ -5856,7 +5856,7 @@ st_05854,Tsuruga,敦賀,wikidata,35.644228,136.076265,Fukui,ハピラインふ�
 st_05855,Keio-Katakura,京王片倉,wikidata,35.644240,139.337390,Tokyo,京王電鉄,single,1
 st_05856,Yamada,山田,romanized,35.644330,139.321150,Tokyo,京王電鉄,single,1
 st_05857,Kitano,北野,wikidata,35.644440,139.354290,Tokyo,京王電鉄,high,2
-st_05858,Kasairinkaikoen,葛西臨海公園,wikidata,35.644520,139.860540,Chiba,東日本旅客鉄道,single,1
+st_05858,Kasairinkaikoen,葛西臨海公園,wikidata,35.644520,139.860540,Tokyo,東日本旅客鉄道,single,1
 st_05859,Inagi-Naganuma,稲城長沼,wikidata,35.644610,139.501840,Tokyo,東日本旅客鉄道,single,1
 st_05860,Nishi-Taishido,西太子堂,wikidata,35.644660,139.665980,Tokyo,東急電鉄,single,1
 st_05861,Takatobara,高遠原,wikidata,35.644940,137.900540,Nagano,東海旅客鉄道,single,1
@@ -6184,7 +6184,7 @@ st_06182,Kurahashi,倉橋,wikidata,35.737440,140.713400,Chiba,東日本旅客鉄
 st_06183,Shim-Mikawashima,新三河島,wikidata,35.737550,139.774510,Tokyo,京成電鉄,single,1
 st_06184,Takifudo,滝不動,wikidata,35.737580,140.025920,Chiba,新京成電鉄,single,1
 st_06185,Ekoda,江古田,wikidata,35.737700,139.672020,Tokyo,西武鉄道,single,1
-st_06186,Edogawa,江戸川,wikidata,35.737840,139.895850,Chiba,京成電鉄,single,1
+st_06186,Edogawa,江戸川,wikidata,35.737840,139.895850,Tokyo,京成電鉄,single,1
 st_06187,Ogawa,小川,wikidata,35.738140,139.463590,Tokyo,西武鉄道,high,2
 st_06188,Keisei Tateishi,京成立石,wikidata,35.738340,139.848980,Tokyo,京成電鉄,single,1
 st_06189,Joshidai,女子大,wikidata,35.738400,140.154900,Chiba,山万,single,1
@@ -6221,7 +6221,7 @@ st_06219,Hoya,保谷,wikidata,35.748310,139.568640,Tokyo,西武鉄道,single,1
 st_06220,Otagiri,大田切,wikidata,35.748320,137.940000,Nagano,東海旅客鉄道,single,1
 st_06221,Oyama,大山,wikidata,35.748440,139.702540,Tokyo,東武鉄道,single,1
 st_06222,Misaki,三咲,wikidata,35.748720,140.028630,Chiba,新京成電鉄,single,1
-st_06223,Oizumi-gakuen,大泉学園,wikidata,35.749430,139.586610,Saitama,西武鉄道,single,1
+st_06223,Oizumi-gakuen,大泉学園,wikidata,35.749430,139.586610,Tokyo,西武鉄道,single,1
 st_06224,Kumegawa,久米川,wikidata,35.750030,139.472090,Tokyo,西武鉄道,single,1
 st_06225,Keisei-Takasago,京成高砂,wikidata,35.750830,139.865720,Tokyo,京成電鉄;北総鉄道,high,4
 st_06226,Shin-Shibamata,新柴又,wikidata,35.750970,139.879110,Tokyo,北総鉄道,single,1
@@ -6259,13 +6259,13 @@ st_06257,Narita Airport Terminal 1,成田空港,wikidata,35.766930,140.387100,Ch
 st_06258,Seibuen,西武園,wikidata,35.767560,139.449340,Tokyo,西武鉄道,single,1
 st_06259,Tobu-Nerima,東武練馬,wikidata,35.768750,139.661650,Tokyo,東武鉄道,single,1
 st_06260,Keisei Kanamachi,京成金町,wikidata,35.768750,139.870210,Tokyo,京成電鉄,single,1
-st_06261,Seibuen-yuenchi,西武園ゆうえんち,wikidata,35.769300,139.440010,Tokyo,西武鉄道,single,1
+st_06261,Seibuen-yuenchi,西武園ゆうえんち,wikidata,35.769300,139.440010,Saitama,西武鉄道,single,1
 st_06262,Kanamachi,金町,wikidata,35.769410,139.869260,Tokyo,東日本旅客鉄道,single,1
 st_06263,Higashi-Matsudo,東松戸,wikidata,35.770083,139.942760,Chiba,京成電鉄;北総鉄道;東日本旅客鉄道,high,3
 st_06264,Higashi-Narita,東成田,wikidata,35.770350,140.386760,Chiba,京成電鉄;芝山鉄道,high,2
 st_06265,Shizen'en-mae,自然園前,wikidata,35.770440,136.930930,Gifu,長良川鉄道,single,1
-st_06266,Shimo-Akatsuka,下赤塚,wikidata,35.770670,139.644330,Saitama,東武鉄道,single,1
-st_06267,Seibu-Kyujo-mae,西武球場前,wikidata,35.771095,139.420280,Tokyo,西武鉄道,high,2
+st_06266,Shimo-Akatsuka,下赤塚,wikidata,35.770670,139.644330,Tokyo,東武鉄道,single,1
+st_06267,Seibu-Kyujo-mae,西武球場前,wikidata,35.771095,139.420280,Saitama,西武鉄道,high,2
 st_06268,Kiyose,清瀬,wikidata,35.771940,139.519980,Tokyo,西武鉄道,single,1
 st_06269,Hakonegasaki,箱根ヶ崎,romanized,35.772270,139.346750,Tokyo,東日本旅客鉄道,single,1
 st_06270,Hatsutomi,初富,wikidata,35.772470,140.000660,Chiba,新京成電鉄,single,1
@@ -6280,7 +6280,7 @@ st_06278,Ozaku,小作,wikidata,35.776340,139.301920,Tokyo,東日本旅客鉄道,
 st_06279,Kita-Hatsutomi,北初富,wikidata,35.776720,139.990370,Chiba,新京成電鉄,single,1
 st_06280,Akabane,赤羽,wikidata,35.777550,139.720970,Tokyo,東日本旅客鉄道,high,2
 st_06281,Akagi,赤木,wikidata,35.777630,137.943750,Nagano,東海旅客鉄道,single,1
-st_06282,Narimasu,成増,wikidata,35.777710,139.632710,Saitama,東武鉄道,single,1
+st_06282,Narimasu,成増,wikidata,35.777710,139.632710,Tokyo,東武鉄道,single,1
 st_06283,Nishiarai,西新井,wikidata,35.777860,139.789770,Tokyo,東武鉄道,high,2
 st_06284,Akitsu,秋津,wikidata,35.778510,139.496770,Tokyo,西武鉄道,single,1
 st_06285,Shin-Akitsu,新秋津,wikidata,35.778530,139.493930,Tokyo,東日本旅客鉄道,single,1
@@ -6294,7 +6294,7 @@ st_06292,Matsudo,松戸,wikidata,35.785080,139.901115,Chiba,新京成電鉄;東�
 st_06293,Kabe,河辺,wikidata,35.785160,139.283170,Tokyo,東日本旅客鉄道,single,1
 st_06294,Agematsu,上松,wikidata,35.785300,137.693450,Nagano,東海旅客鉄道,single,1
 st_06295,Tokorozawa,所沢,wikidata,35.786685,139.473350,Saitama,西武鉄道,high,2
-st_06296,Kita-Akabane,北赤羽,wikidata,35.786900,139.705910,Saitama,東日本旅客鉄道,single,1
+st_06296,Kita-Akabane,北赤羽,wikidata,35.786900,139.705910,Tokyo,東日本旅客鉄道,single,1
 st_06297,Komuro,小室,wikidata,35.787070,140.076420,Chiba,北総鉄道,single,1
 st_06298,Miyanohira,宮ノ平,wikidata,35.787360,139.236870,Tokyo,東日本旅客鉄道,single,1
 st_06299,Inba-Nihon-Idai,印旛日本医大,wikidata,35.787910,140.202480,Chiba,京成電鉄;北総鉄道,high,2
@@ -6309,13 +6309,13 @@ st_06307,Higashi-Ome,東青梅,wikidata,35.790120,139.272170,Tokyo,東日本旅�
 st_06308,Matsudo-Shinden,松戸新田,wikidata,35.790570,139.922930,Chiba,新京成電鉄,single,1
 st_06309,Ome,青梅,wikidata,35.790590,139.257410,Tokyo,東日本旅客鉄道,single,1
 st_06310,Hinoharu,日野春,wikidata,35.791000,138.394020,Yamanashi,東日本旅客鉄道,single,1
-st_06311,Ukima-Funado,浮間舟渡,wikidata,35.791240,139.691450,Saitama,東日本旅客鉄道,single,1
+st_06311,Ukima-Funado,浮間舟渡,wikidata,35.791240,139.691450,Tokyo,東日本旅客鉄道,single,1
 st_06312,Yabashira,八柱,wikidata,35.791320,139.937440,Chiba,新京成電鉄,single,1
 st_06313,Shin-Yahashira,新八柱,wikidata,35.791810,139.938440,Chiba,東日本旅客鉄道,single,1
 st_06314,Mutsumi,六実,wikidata,35.793200,139.999250,Chiba,東武鉄道,single,1
 st_06315,Shimosa-Toyosato,下総豊里,wikidata,35.793560,140.720340,Chiba,東日本旅客鉄道,single,1
 st_06316,Takenotsuka,竹ノ塚,wikidata,35.795110,139.790980,Tokyo,東武鉄道,single,1
-st_06317,Higashi-Tokorozawa,東所沢,wikidata,35.795270,139.515400,Tokyo,東日本旅客鉄道,single,1
+st_06317,Higashi-Tokorozawa,東所沢,wikidata,35.795270,139.515400,Saitama,東日本旅客鉄道,single,1
 st_06318,Takimoto,滝本,wikidata,35.795850,139.161380,Tokyo,御岳登山鉄道,single,1
 st_06319,Asaka,朝霞,wikidata,35.795960,139.600540,Saitama,東武鉄道,single,1
 st_06320,Goko,五香,wikidata,35.796790,139.965980,Chiba,新京成電鉄,single,1
@@ -6395,14 +6395,14 @@ st_06393,Nishi-Urawa,西浦和,wikidata,35.843850,139.627220,Saitama,東日本�
 st_06394,Kamimanba,上万場,wikidata,35.844350,136.876850,Gifu,長良川鉄道,single,1
 st_06395,Minami-Kashiwa,南柏,wikidata,35.844530,139.953980,Chiba,東日本旅客鉄道,single,1
 st_06396,Inariyama-koen,稲荷山公園,wikidata,35.844780,139.399160,Saitama,西武鉄道,single,1
-st_06397,Misato,三郷,wikidata,35.844910,139.886040,Chiba,東日本旅客鉄道,single,1
+st_06397,Misato,三郷,wikidata,35.844910,139.886040,Saitama,東日本旅客鉄道,single,1
 st_06398,Ina-Kita,伊那北,wikidata,35.845600,137.964620,Nagano,東海旅客鉄道,single,1
 st_06399,Musashi-Urawa,武蔵浦和,wikidata,35.845805,139.647040,Saitama,東日本旅客鉄道,high,2
 st_06400,Tsuruse,鶴瀬,wikidata,35.845910,139.539010,Saitama,東武鉄道,single,1
 st_06401,Minami-Urawa,南浦和,wikidata,35.847335,139.669005,Saitama,東日本旅客鉄道,high,2
 st_06402,Zenshoji,禅昌寺,wikidata,35.849190,137.225170,Gifu,東海旅客鉄道,single,1
 st_06403,Omigawa,小見川,wikidata,35.850270,140.603760,Chiba,東日本旅客鉄道,single,1
-st_06404,Fusa,布佐,wikidata,35.850310,140.132560,Ibaraki,東日本旅客鉄道,single,1
+st_06404,Fusa,布佐,wikidata,35.850310,140.132560,Chiba,東日本旅客鉄道,single,1
 st_06405,Hanno,飯能,wikidata,35.851190,139.318820,Saitama,西武鉄道,single,1
 st_06406,Heiwadai,平和台,wikidata,35.851450,139.901260,Chiba,流鉄,single,1
 st_06407,Higashi-Hanno,東飯能,wikidata,35.853545,139.326065,Saitama,東日本旅客鉄道;西武鉄道,high,2
@@ -6411,14 +6411,14 @@ st_06409,Naka-Urawa,中浦和,wikidata,35.853880,139.637330,Saitama,東日本旅
 st_06410,Onaka,大中,wikidata,35.854090,136.868200,Gifu,長良川鉄道,single,1
 st_06411,Nagareyama,流山,wikidata,35.856380,139.901900,Chiba,流鉄,single,1
 st_06412,Sayamashi,狭山市,wikidata,35.857380,139.413370,Saitama,西武鉄道,single,1
-st_06413,Shin-Misato,新三郷,wikidata,35.857840,139.870130,Chiba,東日本旅客鉄道,single,1
+st_06413,Shin-Misato,新三郷,wikidata,35.857840,139.870130,Saitama,東日本旅客鉄道,single,1
 st_06414,Urawa,浦和,wikidata,35.859360,139.656660,Saitama,東日本旅客鉄道,single,1
 st_06415,Totsuka-Angyo,戸塚安行,wikidata,35.859960,139.753790,Saitama,埼玉高速鉄道,single,1
 st_06416,Tabata,田畑,wikidata,35.861030,137.978110,Nagano,東海旅客鉄道,single,1
 st_06417,Fujimino,ふじみ野,wikidata,35.861580,139.522360,Saitama,東武鉄道,single,1
 st_06418,Kashiwa,柏,wikidata,35.861975,139.970655,Chiba,東日本旅客鉄道;東武鉄道,high,2
-st_06419,Araki,新木,wikidata,35.862300,140.106060,Ibaraki,東日本旅客鉄道,single,1
-st_06420,Kobuchizawa,小淵沢,wikidata,35.863580,138.317410,Nagano,東日本旅客鉄道,high,2
+st_06419,Araki,新木,wikidata,35.862300,140.106060,Chiba,東日本旅客鉄道,single,1
+st_06420,Kobuchizawa,小淵沢,wikidata,35.863580,138.317410,Yamanashi,東日本旅客鉄道,high,2
 st_06421,Higashi-Urawa,東浦和,wikidata,35.864100,139.704670,Saitama,東日本旅客鉄道,single,1
 st_06422,Gamo,蒲生,wikidata,35.866270,139.791900,Saitama,東武鉄道,single,1
 st_06423,Minami-Yono,南与野,wikidata,35.866520,139.631370,Saitama,東日本旅客鉄道,single,1
@@ -6442,7 +6442,7 @@ st_06440,Higashi-Kawaguchi,東川口,wikidata,35.876165,139.743365,Saitama,埼�
 st_06441,Shin-Koshigaya,新越谷,wikidata,35.876220,139.789670,Saitama,東武鉄道,single,1
 st_06442,Yoshikawa,吉川,wikidata,35.876640,139.843380,Saitama,東日本旅客鉄道,single,1
 st_06443,Namegawa,滑河,wikidata,35.877660,140.348450,Chiba,東日本旅客鉄道,single,1
-st_06444,Kai-Koizumi,甲斐小泉,wikidata,35.879660,138.359840,Nagano,東日本旅客鉄道,single,1
+st_06444,Kai-Koizumi,甲斐小泉,wikidata,35.879660,138.359840,Yamanashi,東日本旅客鉄道,single,1
 st_06445,Kitatono,北殿,wikidata,35.879910,137.984030,Nagano,東海旅客鉄道,single,1
 st_06446,Yonohommachi,与野本町,wikidata,35.880080,139.626330,Saitama,東日本旅客鉄道,single,1
 st_06447,Koma,高麗,wikidata,35.882100,139.304280,Saitama,西武鉄道,single,1
@@ -6490,14 +6490,14 @@ st_06488,Fujimi,富士見,wikidata,35.912780,138.236300,Nagano,東日本旅客�
 st_06489,Kawagoeshi,川越市,wikidata,35.913390,139.477770,Saitama,東武鉄道,single,1
 st_06490,Shiratori-Kogen,白鳥高原,wikidata,35.913460,136.842110,Gifu,長良川鉄道,single,1
 st_06491,Ina-Matsushima,伊那松島,wikidata,35.914250,137.988820,Nagano,東海旅客鉄道,single,1
-st_06492,Unga,運河,wikidata,35.914950,139.905920,Saitama,東武鉄道,single,1
+st_06492,Unga,運河,wikidata,35.914950,139.905920,Chiba,東武鉄道,single,1
 st_06493,Sashiogi,指扇,wikidata,35.916740,139.564350,Saitama,東日本旅客鉄道,single,1
-st_06494,Junikyo,十二橋,wikidata,35.917560,140.545860,Ibaraki,東日本旅客鉄道,single,1
+st_06494,Junikyo,十二橋,wikidata,35.917560,140.545860,Chiba,東日本旅客鉄道,single,1
 st_06495,Matoba,的場,wikidata,35.917760,139.436030,Saitama,東日本旅客鉄道,single,1
 st_06496,Shin-Toride,新取手,wikidata,35.917980,140.041460,Ibaraki,関東鉄道,single,1
 st_06497,Kita-omiya,北大宮,wikidata,35.918490,139.625110,Saitama,東武鉄道,single,1
 st_06498,Irechi,入地,wikidata,35.918870,140.157590,Ibaraki,関東鉄道,single,1
-st_06499,Kiyosato,清里,wikidata,35.918930,138.436210,Nagano,東日本旅客鉄道,single,1
+st_06499,Kiyosato,清里,wikidata,35.918930,138.436210,Yamanashi,東日本旅客鉄道,single,1
 st_06500,Nishi-Kawagoe,西川越,wikidata,35.918980,139.460620,Saitama,東日本旅客鉄道,single,1
 st_06501,Sports Koen,スポーツ公園,wikidata,35.919674,136.168306,Fukui,福井鉄道,single,1
 st_06502,Hakusan-Nagataki,白山長滝,wikidata,35.919810,136.832310,Gifu,長良川鉄道,single,1
@@ -6742,7 +6742,7 @@ st_06740,Taiyo,大洋,wikidata,36.108680,140.576050,Ibaraki,鹿島臨海鉄道,s
 st_06741,Hanasaki,花崎,wikidata,36.110250,139.632700,Saitama,東武鉄道,single,1
 st_06742,Nogami,野上,wikidata,36.111240,139.110840,Saitama,秩父鉄道,single,1
 st_06743,Hachigata,鉢形,wikidata,36.113640,139.207980,Saitama,東武鉄道,single,1
-st_06744,Minami-Kurihashi,南栗橋,wikidata,36.113790,139.712090,Ibaraki,東武鉄道,single,1
+st_06744,Minami-Kurihashi,南栗橋,wikidata,36.113790,139.712090,Saitama,東武鉄道,single,1
 st_06745,Gyoda,行田,wikidata,36.114260,139.431710,Saitama,東日本旅客鉄道,single,1
 st_06746,Shiojiri,塩尻,wikidata,36.115710,137.947920,Nagano,東日本旅客鉄道;東海旅客鉄道,high,3
 st_06747,Takaiwa,高岩,wikidata,36.116080,138.477400,Nagano,東日本旅客鉄道,single,1
@@ -6763,7 +6763,7 @@ st_06761,Taromaru Angelland,太郎丸エンゼルランド,wikidata,36.131000,13
 st_06762,Yachiho,八千穂,wikidata,36.133870,138.477620,Nagano,東日本旅客鉄道,single,1
 st_06763,Tamamura,玉村,wikidata,36.135190,139.969940,Ibaraki,関東鉄道,single,1
 st_06764,Nagata,永田,romanized,36.135560,139.259950,Saitama,秩父鉄道,single,1
-st_06765,Kurihashi,栗橋,wikidata,36.136320,139.693945,Ibaraki,東日本旅客鉄道;東武鉄道,high,2
+st_06765,Kurihashi,栗橋,wikidata,36.136320,139.693945,Saitama,東日本旅客鉄道;東武鉄道,high,2
 st_06766,Socio Distribution Center,ソシオ流通センター,wikidata,36.136509,139.424892,Saitama,秩父鉄道,single,1
 st_06767,Mochida,持田,wikidata,36.137500,139.441170,Saitama,秩父鉄道,single,1
 st_06768,Nishiharue-Heartpia,西春江ハートピア,wikidata,36.138590,136.206200,Fukui,えちぜん鉄道,single,1
@@ -6805,7 +6805,7 @@ st_06803,Ishioka,石岡,wikidata,36.190830,140.280210,Ibaraki,東日本旅客鉄
 st_06804,Fukaya,深谷,wikidata,36.191720,139.279820,Saitama,東日本旅客鉄道,single,1
 st_06805,Hirata,平田,wikidata,36.191800,137.962590,Nagano,東日本旅客鉄道,single,1
 st_06806,Kodama,児玉,wikidata,36.192850,139.135700,Saitama,東日本旅客鉄道,single,1
-st_06807,Shin-Koga,新古河,wikidata,36.193130,139.686570,Ibaraki,東武鉄道,single,1
+st_06807,Shin-Koga,新古河,wikidata,36.193130,139.686570,Saitama,東武鉄道,single,1
 st_06808,Koga,古河,wikidata,36.193270,139.710070,Ibaraki,東日本旅客鉄道,single,1
 st_06809,Usuda,臼田,wikidata,36.193640,138.488160,Nagano,東日本旅客鉄道,single,1
 st_06810,Endo,渕東,wikidata,36.195250,137.840370,Nagano,アルピコ交通,single,1
@@ -6815,7 +6815,7 @@ st_06813,Tatsuokajo,龍岡城,wikidata,36.203910,138.490670,Nagano,東日本旅�
 st_06814,Honjo,本荘,wikidata,36.205080,136.203120,Fukui,えちぜん鉄道,single,1
 st_06815,Okabe,岡部,wikidata,36.206030,139.236800,Saitama,東日本旅客鉄道,single,1
 st_06816,Shimojima,下島,wikidata,36.206160,137.871970,Nagano,アルピコ交通,single,1
-st_06817,Yagyu,柳生,wikidata,36.206900,139.659460,Gunma,東武鉄道,single,1
+st_06817,Yagyu,柳生,wikidata,36.206900,139.659460,Saitama,東武鉄道,single,1
 st_06818,Moriguchi,森口,wikidata,36.208160,137.881720,Nagano,アルピコ交通,single,1
 st_06819,Kawamata,川俣,wikidata,36.209540,139.526530,Gunma,東武鉄道,single,1
 st_06820,Shimonita,下仁田,wikidata,36.210540,138.787100,Gunma,上信電鉄,single,1
@@ -6867,7 +6867,7 @@ st_06865,Azusabashi,梓橋,wikidata,36.250180,137.918080,Nagano,東日本旅客�
 st_06866,Gunma-Fujioka,群馬藤岡,wikidata,36.251190,139.083490,Gunma,東日本旅客鉄道,single,1
 st_06867,Joshu-Ichinomiya,上州一ノ宮,wikidata,36.253150,138.864100,Gunma,上信電鉄,single,1
 st_06868,Jimbohara,神保原,wikidata,36.253650,139.148950,Saitama,東日本旅客鉄道,single,1
-st_06869,Fujioka,藤岡,wikidata,36.255070,139.645470,Gunma,東武鉄道,single,1
+st_06869,Fujioka,藤岡,wikidata,36.255070,139.645470,Tochigi,東武鉄道,single,1
 st_06870,Kita-Nakagomi,北中込,wikidata,36.255300,138.476710,Nagano,東日本旅客鉄道,single,1
 st_06871,Nishi-Yoshii,西吉井,wikidata,36.255790,138.965470,Gunma,上信電鉄,single,1
 st_06872,Joshu-Niiya,上州新屋,wikidata,36.256040,138.951440,Gunma,上信電鉄,single,1
@@ -6878,7 +6878,7 @@ st_06876,Mamada,間々田,wikidata,36.257850,139.761070,Tochigi,東日本旅客�
 st_06877,Nishi-Koizumi,西小泉,wikidata,36.258080,139.408210,Gunma,東武鉄道,single,1
 st_06878,Joshu-Nanokaichi,上州七日市,wikidata,36.258390,138.874260,Gunma,上信電鉄,single,1
 st_06879,Hon-Nakano,本中野,wikidata,36.258440,139.469070,Gunma,東武鉄道,single,1
-st_06880,Ushinoya,牛ノ谷,wikidata,36.259820,136.281970,Ishikawa,ハピラインふくい,single,1
+st_06880,Ushinoya,牛ノ谷,wikidata,36.259820,136.281970,Fukui,ハピラインふくい,single,1
 st_06881,Higashi-Koizumi,東小泉,wikidata,36.259830,139.428090,Gunma,東武鉄道,single,1
 st_06882,Nishi-Tomioka,西富岡,wikidata,36.260150,138.882370,Gunma,上信電鉄,single,1
 st_06883,Joshu-Tomioka,上州富岡,wikidata,36.260500,138.891520,Gunma,上信電鉄,single,1
@@ -6892,7 +6892,7 @@ st_06890,Hinuma,涸沼,wikidata,36.266260,140.527500,Ibaraki,鹿島臨海鉄道,
 st_06891,Nishi-Yamana,西山名,wikidata,36.271060,139.032390,Gunma,上信電鉄,single,1
 st_06892,Kizaki,木崎,wikidata,36.271170,139.312240,Gunma,東武鉄道,single,1
 st_06893,Shinmachi,新町,wikidata,36.272930,139.105700,Gunma,東日本旅客鉄道,single,1
-st_06894,Serada,世良田,wikidata,36.273090,139.281080,Saitama,東武鉄道,single,1
+st_06894,Serada,世良田,wikidata,36.273090,139.281080,Gunma,東武鉄道,single,1
 st_06895,Tatara,多々良,wikidata,36.274030,139.499730,Gunma,東武鉄道,single,1
 st_06896,Nakagaya,中萱,wikidata,36.274460,137.903310,Nagano,東日本旅客鉄道,single,1
 st_06897,Iwamurada,岩村田,wikidata,36.274590,138.472070,Nagano,東日本旅客鉄道,single,1
@@ -6907,7 +6907,7 @@ st_06905,Hosoya,細谷,wikidata,36.282570,139.348370,Gunma,東武鉄道,single,1
 st_06906,Takasaki Station of Commerce pre-university,高崎商科大学前,wikidata,36.284230,139.029840,Gunma,上信電鉄,single,1
 st_06907,Tajima,田島,wikidata,36.289850,139.564690,Tochigi,東武鉄道,single,1
 st_06908,Minami-Toyoshina,南豊科,wikidata,36.290990,137.903490,Nagano,東日本旅客鉄道,single,1
-st_06909,Agata,県,wikidata,36.291010,139.471720,Gunma,東武鉄道,single,1
+st_06909,Agata,県,wikidata,36.291010,139.471720,Tochigi,東武鉄道,single,1
 st_06910,Negoya,根小屋,wikidata,36.291410,139.018840,Gunma,上信電鉄,single,1
 st_06911,Misato,美里,wikidata,36.292570,138.450340,Nagano,東日本旅客鉄道,single,1
 st_06912,Ota,太田,wikidata,36.294073,139.379190,Gunma,東武鉄道,high,3
@@ -6963,7 +6963,7 @@ st_06961,Annaka,安中,wikidata,36.331680,138.915580,Gunma,東日本旅客鉄道
 st_06962,Ashikaga,足利,wikidata,36.332100,139.455550,Tochigi,東日本旅客鉄道,single,1
 st_06963,Jiroembashi,治良門橋,wikidata,36.333560,139.340580,Gunma,東武鉄道,single,1
 st_06964,Shinano-Oiwake,信濃追分,wikidata,36.334830,138.557190,Nagano,しなの鉄道,single,1
-st_06965,Yokokawa,横川,wikidata,36.335810,138.739300,Nagano,東日本旅客鉄道,single,1
+st_06965,Yokokawa,横川,wikidata,36.335810,138.739300,Gunma,東日本旅客鉄道,single,1
 st_06966,Gumma-Yawata,群馬八幡,wikidata,36.337650,138.956260,Gunma,東日本旅客鉄道,single,1
 st_06967,Kita-Takasaki,北高崎,wikidata,36.338230,139.003200,Gunma,東日本旅客鉄道,single,1
 st_06968,Hotaka,穂高,wikidata,36.339040,137.881880,Nagano,東日本旅客鉄道,single,1
@@ -7019,9 +7019,9 @@ st_07017,Azumi-Oiwake,安曇追分,wikidata,36.372420,137.872470,Nagano,東日�
 st_07018,Minohamagakuen,美乃浜学園,wikidata,36.372450,140.616981,Ibaraki,ひたちなか海浜鉄道,single,1
 st_07019,Kasama,笠間,wikidata,36.372980,140.246700,Ibaraki,東日本旅客鉄道,single,1
 st_07020,Kairakuen,偕楽園,wikidata,36.373110,140.454960,Ibaraki,東日本旅客鉄道,single,1
-st_07021,Omata,小俣,wikidata,36.375420,139.373900,Gunma,東日本旅客鉄道,single,1
+st_07021,Omata,小俣,wikidata,36.375420,139.373900,Tochigi,東日本旅客鉄道,single,1
 st_07022,Koganei,小金井,wikidata,36.375900,139.843100,Tochigi,東日本旅客鉄道,single,1
-st_07023,Kugeta,久下田,wikidata,36.376360,139.971660,Ibaraki,真岡鐵道,single,1
+st_07023,Kugeta,久下田,wikidata,36.376360,139.971660,Tochigi,真岡鐵道,single,1
 st_07024,Tada,多田,wikidata,36.377500,139.592600,Tochigi,東武鉄道,single,1
 st_07025,Shinano-Kokubunji,信濃国分寺,wikidata,36.377830,138.274710,Nagano,しなの鉄道,single,1
 st_07026,Shin-Maebashi,新前橋,wikidata,36.378040,139.045710,Gunma,東日本旅客鉄道,high,2
@@ -7223,8 +7223,8 @@ st_07221,Iwashima,岩島,wikidata,36.563560,138.759220,Gunma,東日本旅客鉄�
 st_07222,Hagamachikogyodanchikanrisentamae,芳賀町工業団地管理センター前,romanized,36.564876,140.010928,Tochigi,宇都宮ライトレール,single,1
 st_07223,Uminokuchi,海ノ口,wikidata,36.565940,137.841640,Nagano,東日本旅客鉄道,single,1
 st_07224,Hagadai,芳賀台,romanized,36.566324,140.005661,Tochigi,宇都宮ライトレール,single,1
-st_07225,Kurobeko,黒部湖,wikidata,36.566530,137.658420,Nagano,立山黒部貫光,single,1
-st_07226,Kurobedaira,黒部平,wikidata,36.567050,137.650580,Nagano,立山黒部貫光,single,1
+st_07225,Kurobeko,黒部湖,wikidata,36.566530,137.658420,Toyama,立山黒部貫光,single,1
+st_07226,Kurobedaira,黒部平,wikidata,36.567050,137.650580,Toyama,立山黒部貫光,single,1
 st_07227,Yuinomorinishi,ゆいの杜西,romanized,36.567285,139.986663,Tochigi,宇都宮ライトレール,single,1
 st_07228,Yuinomorihigashi,ゆいの杜東,romanized,36.567628,139.998056,Tochigi,宇都宮ライトレール,single,1
 st_07229,Yuinomorichuo,ゆいの杜中央,romanized,36.567723,139.992307,Tochigi,宇都宮ライトレール,single,1
@@ -7270,7 +7270,7 @@ st_07268,Mitsuya,三ツ屋,wikidata,36.611320,136.645460,Ishikawa,北陸鉄道,s
 st_07269,Morimoto,森本,wikidata,36.612260,136.689640,Ishikawa,IRいしかわ鉄道,single,1
 st_07270,Kawanakajima,川中島,wikidata,36.613200,138.150510,Nagano,東日本旅客鉄道,single,1
 st_07271,Okobata,大河端,wikidata,36.616550,136.643160,Ishikawa,北陸鉄道,single,1
-st_07272,Haramuko,原向,wikidata,36.617110,139.420030,Gunma,わたらせ渓谷鐵道,single,1
+st_07272,Haramuko,原向,wikidata,36.617110,139.420030,Tochigi,わたらせ渓谷鐵道,single,1
 st_07273,Higashi-Nojiri,東野尻,wikidata,36.618340,136.943300,Toyama,西日本旅客鉄道,single,1
 st_07274,Osho,大庄,wikidata,36.619600,137.275270,Toyama,富山地方鉄道,single,1
 st_07275,Itaga,板荷,wikidata,36.619920,139.707570,Tochigi,東武鉄道,single,1
@@ -7287,7 +7287,7 @@ st_07285,Kamagafuchi,釜ヶ淵,wikidata,36.633630,137.319210,Toyama,富山地方
 st_07286,Chisato,千里,wikidata,36.634460,137.132450,Toyama,西日本旅客鉄道,single,1
 st_07287,Tonami,砺波,wikidata,36.636030,136.953200,Toyama,西日本旅客鉄道,single,1
 st_07288,Kaihotsu,開発,wikidata,36.636190,137.242870,Toyama,富山地方鉄道,single,1
-st_07289,Tsudo,通洞,wikidata,36.636510,139.439320,Gunma,わたらせ渓谷鐵道,single,1
+st_07289,Tsudo,通洞,wikidata,36.636510,139.439320,Tochigi,わたらせ渓谷鐵道,single,1
 st_07290,Minami-Kamishiro,南神城,wikidata,36.637180,137.841630,Nagano,東日本旅客鉄道,single,1
 st_07291,Fubasami,文挟,wikidata,36.637250,139.728010,Tochigi,東日本旅客鉄道,single,1
 st_07292,Ogitsu,小木津,wikidata,36.637770,140.674940,Ibaraki,東日本旅客鉄道,single,1
@@ -7372,7 +7372,7 @@ st_07370,Kenchomae,県庁前,romanized,36.695380,137.209680,Toyama,富山地方�
 st_07371,Toyotamobiriteitoyamasukueagofukumaegofukusuehiromachi,トヨタモビリティ富山Gスクエア五福前（五福末広町）,romanized,36.695838,137.194232,Toyama,富山地方鉄道,single,1
 st_07372,Saigane,西金,wikidata,36.696110,140.385940,Ibaraki,東日本旅客鉄道,single,1
 st_07373,Hakuba,白馬,wikidata,36.696740,137.864300,Nagano,東日本旅客鉄道,single,1
-st_07374,Keyakidaira,欅平,wikidata,36.696820,137.658140,Nagano,黒部峡谷鉄道,single,1
+st_07374,Keyakidaira,欅平,wikidata,36.696820,137.658140,Toyama,黒部峡谷鉄道,single,1
 st_07375,Inarimachi,稲荷町,wikidata,36.696870,137.231180,Toyama,富山地方鉄道,high,2
 st_07376,Denkibirumae,電気ビル前,romanized,36.697680,137.216070,Toyama,富山地方鉄道,single,1
 st_07377,Shinjo-Tanaka,新庄田中,wikidata,36.697934,137.241525,Toyama,富山地方鉄道,single,1
@@ -7401,7 +7401,7 @@ st_07399,Kamiichi,上市,wikidata,36.704490,137.356660,Toyama,富山地方鉄道
 st_07400,Etchu-Funahashi,越中舟橋,wikidata,36.705560,137.306460,Toyama,富山地方鉄道,single,1
 st_07401,Fukuoka,福岡,wikidata,36.708620,136.932540,Toyama,あいの風とやま鉄道,single,1
 st_07402,Shinano-Moriue,信濃森上,wikidata,36.711040,137.871910,Nagano,東日本旅客鉄道,single,1
-st_07403,Koyadaira,小屋平,wikidata,36.711350,137.647320,Nagano,黒部峡谷鉄道,single,1
+st_07403,Koyadaira,小屋平,wikidata,36.711350,137.647320,Toyama,黒部峡谷鉄道,single,1
 st_07404,Shimo-Okui,下奥井,romanized,36.711550,137.224530,Toyama,富山地方鉄道,single,1
 st_07405,Toyono,豊野,wikidata,36.711600,138.276610,Nagano,しなの鉄道;東日本旅客鉄道,high,2
 st_07406,Sakurasawa,桜沢,wikidata,36.712880,138.349920,Nagano,長野電鉄,single,1
@@ -7428,7 +7428,7 @@ st_07426,Tategahana,立ヶ花,romanized,36.731650,138.307020,Nagano,東日本旅
 st_07427,Daiyamukai,大谷向,wikidata,36.731990,139.691500,Tochigi,東武鉄道,single,1
 st_07428,Etchu-Daimon,越中大門,wikidata,36.734300,137.054950,Toyama,あいの風とやま鉄道,single,1
 st_07429,Inujimashinmachi,犬島新町,romanized,36.734710,137.226580,Toyama,富山地方鉄道,single,1
-st_07430,Kanetsuri,鐘釣,wikidata,36.734710,137.651330,Nagano,黒部峡谷鉄道,single,1
+st_07430,Kanetsuri,鐘釣,wikidata,36.734710,137.651330,Toyama,黒部峡谷鉄道,single,1
 st_07431,Naka-Kazumi,中加積,wikidata,36.735760,137.351120,Toyama,富山地方鉄道,single,1
 st_07432,Kamimoku,上牧,wikidata,36.736600,138.984740,Gunma,東日本旅客鉄道,single,1
 st_07433,Takaoka-Yabunami,高岡やぶなみ,wikidata,36.737084,136.988588,Toyama,あいの風とやま鉄道,single,1
@@ -7448,7 +7448,7 @@ st_07446,Hagiurashogakkomae,萩浦小学校前,romanized,36.747672,137.228292,To
 st_07447,Nikko,日光,wikidata,36.747900,139.621510,Tochigi,東日本旅客鉄道,single,1
 st_07448,Tobu Nikko,東武日光,wikidata,36.748260,139.620360,Tochigi,東武鉄道,single,1
 st_07449,Etchu-Nakagawa,越中中川,wikidata,36.749850,137.027900,Toyama,西日本旅客鉄道,single,1
-st_07450,Nekomata,猫又,wikidata,36.749860,137.641860,Nagano,黒部峡谷鉄道,single,1
+st_07450,Nekomata,猫又,wikidata,36.749860,137.641860,Toyama,黒部峡谷鉄道,single,1
 st_07451,Kamijo,上条,wikidata,36.749900,138.407700,Nagano,長野電鉄,single,1
 st_07452,Kyukaniryosentamae,急患医療センター前,romanized,36.749980,137.018120,Toyama,万葉線,single,1
 st_07453,Nakanomatsukawa,中野松川,wikidata,36.750710,138.373860,Nagano,長野電鉄,single,1
@@ -7554,17 +7554,17 @@ st_07552,Wakaguri,若栗,wikidata,36.871180,137.493630,Toyama,富山地方鉄道
 st_07553,Shitayama,舌山,wikidata,36.871840,137.486150,Toyama,富山地方鉄道,single,1
 st_07554,Kurobe-Unazukionsen,黒部宇奈月温泉,wikidata,36.872980,137.479979,Toyama,西日本旅客鉄道,single,1
 st_07555,Shin-Kurobe,新黒部,wikidata,36.873034,137.481732,Toyama,富山地方鉄道,single,1
-st_07556,Myoko-Kogen,妙高高原,wikidata,36.873050,138.212620,Nagano,えちごトキめき鉄道;しなの鉄道,high,2
+st_07556,Myoko-Kogen,妙高高原,wikidata,36.873050,138.212620,Niigata,えちごトキめき鉄道;しなの鉄道,high,2
 st_07557,Nagaya,長屋,wikidata,36.873500,137.471150,Toyama,富山地方鉄道,single,1
 st_07558,Dentetsu Kurobe,電鉄黒部,wikidata,36.874050,137.444570,Toyama,富山地方鉄道,single,1
 st_07559,Higashi-Mikkaichi,東三日市,wikidata,36.874740,137.451310,Toyama,富山地方鉄道,single,1
 st_07560,Ogyu,荻生,wikidata,36.874910,137.459680,Toyama,富山地方鉄道,single,1
 st_07561,Tsuchitaru,土樽,wikidata,36.875250,138.861610,Niigata,東日本旅客鉄道,single,1
-st_07562,Nakoso,勿来,wikidata,36.883560,140.786720,Ibaraki,東日本旅客鉄道,single,1
+st_07562,Nakoso,勿来,wikidata,36.883560,140.786720,Fukushima,東日本旅客鉄道,single,1
 st_07563,Nishi-Nasuno,西那須野,wikidata,36.883950,139.986550,Tochigi,東日本旅客鉄道,single,1
 st_07564,Kawaji-Onsen,川治温泉,wikidata,36.884540,139.703770,Tochigi,野岩鉄道,single,1
 st_07565,Shinano-Taira,信濃平,wikidata,36.885310,138.378640,Nagano,東日本旅客鉄道,single,1
-st_07566,Hiraiwa,平岩,wikidata,36.886530,137.865860,Nagano,西日本旅客鉄道,single,1
+st_07566,Hiraiwa,平岩,wikidata,36.886530,137.865860,Niigata,西日本旅客鉄道,single,1
 st_07567,Minami-Ishii,南石井,wikidata,36.894350,140.416990,Fukushima,東日本旅客鉄道,single,1
 st_07568,Kawaji-Yumoto,川治湯元,wikidata,36.895320,139.702750,Tochigi,野岩鉄道,single,1
 st_07569,Hakui,羽咋,wikidata,36.896200,136.783460,Ishikawa,西日本旅客鉄道,single,1
@@ -7572,7 +7572,7 @@ st_07570,Iwaki-Ishii,磐城石井,wikidata,36.904120,140.415410,Fukushima,東日
 st_07571,Ikuji,生地,wikidata,36.906920,137.426500,Toyama,あいの風とやま鉄道,single,1
 st_07572,Echigo-Nakazato,越後中里,wikidata,36.910550,138.848490,Niigata,東日本旅客鉄道,single,1
 st_07573,Togari-Nozawaonsen,戸狩野沢温泉,wikidata,36.916990,138.393120,Nagano,東日本旅客鉄道,single,1
-st_07574,Ueda,植田,wikidata,36.920930,140.796480,Ibaraki,東日本旅客鉄道,single,1
+st_07574,Ueda,植田,wikidata,36.920930,140.796480,Fukushima,東日本旅客鉄道,single,1
 st_07575,Iwappara-Skiing Ground,岩原スキー場前,wikidata,36.924160,138.839750,Niigata,東日本旅客鉄道,single,1
 st_07576,Chiji,千路,wikidata,36.928000,136.800780,Ishikawa,西日本旅客鉄道,single,1
 st_07577,Yunishigawa-Onsen,湯西川温泉,wikidata,36.929180,139.688470,Tochigi,野岩鉄道,single,1
@@ -7597,23 +7597,23 @@ st_07595,Kuwanagawa,桑名川,wikidata,36.975880,138.457970,Nagano,東日本旅�
 st_07596,Yoshikawa,良川,wikidata,36.976460,136.894070,Ishikawa,西日本旅客鉄道,single,1
 st_07597,Nishi-Otaki,西大滝,wikidata,36.979200,138.480710,Nagano,東日本旅客鉄道,single,1
 st_07598,Yokokura,横倉,wikidata,36.979780,138.549940,Nagano,東日本旅客鉄道,single,1
-st_07599,Ichiburi,市振,wikidata,36.980540,137.652040,Toyama,あいの風とやま鉄道;えちごトキめき鉄道,high,2
+st_07599,Ichiburi,市振,wikidata,36.980540,137.652040,Niigata,あいの風とやま鉄道;えちごトキめき鉄道,high,2
 st_07600,Shinano-Shiratori,信濃白鳥,wikidata,36.983420,138.502690,Nagano,東日本旅客鉄道,single,1
 st_07601,Noto-Ninomiya,能登二宮,wikidata,36.984690,136.917190,Ishikawa,西日本旅客鉄道,single,1
-st_07602,Nakamiyori-Onsen,中三依温泉,wikidata,36.985090,139.698910,Fukushima,野岩鉄道,single,1
+st_07602,Nakamiyori-Onsen,中三依温泉,wikidata,36.985090,139.698910,Tochigi,野岩鉄道,single,1
 st_07603,Hirataki,平滝,wikidata,36.986020,138.533330,Nagano,東日本旅客鉄道,single,1
 st_07604,Mori-Miyanohara,森宮野原,wikidata,36.989630,138.576920,Nagano,東日本旅客鉄道,single,1
 st_07605,Nihongi,二本木,wikidata,36.989850,138.232700,Niigata,えちごトキめき鉄道,single,1
 st_07606,Ishiuchi,石打,wikidata,36.990080,138.804280,Niigata,東日本旅客鉄道,single,1
 st_07607,Takaku,高久,wikidata,36.995730,140.087080,Tochigi,東日本旅客鉄道,single,1
-st_07608,Ashidaki,足滝,wikidata,36.999050,138.603330,Nagano,東日本旅客鉄道,single,1
+st_07608,Ashidaki,足滝,wikidata,36.999050,138.603330,Niigata,東日本旅客鉄道,single,1
 st_07609,Chikatsu,近津,wikidata,37.000880,140.393760,Fukushima,東日本旅客鉄道,single,1
 st_07610,Echigo-Tanaka,越後田中,wikidata,37.005170,138.626690,Niigata,東日本旅客鉄道,single,1
 st_07611,Yumoto,湯本,wikidata,37.006110,140.850280,Fukushima,東日本旅客鉄道,single,1
 st_07612,Kubiki-Ono,頸城大野,wikidata,37.006510,137.872320,Niigata,西日本旅客鉄道,single,1
 st_07613,Tokuda,徳田,wikidata,37.006980,136.929740,Ishikawa,西日本旅客鉄道,single,1
 st_07614,Oyashirazu,親不知,wikidata,37.007030,137.738630,Niigata,えちごトキめき鉄道,single,1
-st_07615,Kamimiyori-Shiobara-Onsenguchi,上三依塩原温泉口,wikidata,37.014700,139.727460,Fukushima,野岩鉄道,single,1
+st_07615,Kamimiyori-Shiobara-Onsenguchi,上三依塩原温泉口,wikidata,37.014700,139.727460,Tochigi,野岩鉄道,single,1
 st_07616,Himekawa,姫川,wikidata,37.020190,137.861280,Niigata,西日本旅客鉄道,single,1
 st_07617,Osawa,大沢,wikidata,37.021770,138.821630,Niigata,東日本旅客鉄道,single,1
 st_07618,Aomi,青海,romanized,37.022470,137.794570,Niigata,えちごトキめき鉄道,single,1
@@ -7628,7 +7628,7 @@ st_07626,Nanao,七尾,wikidata,37.041340,136.964800,Ishikawa,のと鉄道;西日
 st_07627,Shiozawa,塩沢,wikidata,37.041780,138.849320,Niigata,東日本旅客鉄道,single,1
 st_07628,Itoigawa,糸魚川,wikidata,37.043139,137.860599,Niigata,えちごトキめき鉄道;西日本旅客鉄道,high,3
 st_07629,Echigo-Shikawatari,越後鹿渡,wikidata,37.047920,138.671250,Niigata,東日本旅客鉄道,single,1
-st_07630,Ojika-Kogen,男鹿高原,wikidata,37.048210,139.723740,Fukushima,野岩鉄道,single,1
+st_07630,Ojika-Kogen,男鹿高原,wikidata,37.048210,139.723740,Tochigi,野岩鉄道,single,1
 st_07631,Echigo-Oshiage-Hisuikaigan,えちご押上ひすい海岸,wikidata,37.048509,137.879352,Niigata,えちごトキめき鉄道,single,1
 st_07632,Kita-Arai,北新井,wikidata,37.053240,138.257670,Niigata,えちごトキめき鉄道,single,1
 st_07633,Toyohara,豊原,wikidata,37.055180,140.155210,Tochigi,東日本旅客鉄道,single,1
@@ -7669,7 +7669,7 @@ st_07667,Shinza,しんざ,wikidata,37.139520,138.768770,Niigata,北越急行,sin
 st_07668,Iwaki-Ishikawa,磐城石川,wikidata,37.141090,140.444090,Fukushima,東日本旅客鉄道,single,1
 st_07669,Hisanohama,久ノ浜,wikidata,37.143410,140.995560,Fukushima,東日本旅客鉄道,single,1
 st_07670,Aizu-Sanson-Dojo,会津山村道場,wikidata,37.143760,139.731510,Fukushima,会津鉄道,single,1
-st_07671,Hokuhoku-Oshima,ほくほく大島,wikidata,37.147080,138.509130,Nagano,北越急行,single,1
+st_07671,Hokuhoku-Oshima,ほくほく大島,wikidata,37.147080,138.509130,Niigata,北越急行,single,1
 st_07672,Kasugayama,春日山,wikidata,37.147280,138.235090,Niigata,えちごトキめき鉄道,single,1
 st_07673,Nishigishi,西岸,wikidata,37.147390,136.873790,Ishikawa,のと鉄道,single,1
 st_07674,Aizu-Arakai,会津荒海,wikidata,37.153300,139.733680,Fukushima,会津鉄道,single,1
@@ -7741,7 +7741,7 @@ st_07739,Tomioka,富岡,wikidata,37.334920,141.022560,Fukushima,東日本旅客�
 st_07740,Kasashima,笠島,wikidata,37.335610,138.466890,Niigata,東日本旅客鉄道,single,1
 st_07741,Kitajo,北条,wikidata,37.337670,138.636420,Niigata,東日本旅客鉄道,single,1
 st_07742,Yasuda,安田,wikidata,37.340780,138.612600,Niigata,東日本旅客鉄道,single,1
-st_07743,Oshirakawa,大白川,wikidata,37.341640,139.120490,Fukushima,東日本旅客鉄道,single,1
+st_07743,Oshirakawa,大白川,wikidata,37.341640,139.120490,Niigata,東日本旅客鉄道,single,1
 st_07744,Oumigawa,青海川,wikidata,37.345870,138.485520,Niigata,東日本旅客鉄道,single,1
 st_07745,Kamijo,上条,wikidata,37.346470,139.050600,Niigata,東日本旅客鉄道,single,1
 st_07746,Okawa-Dam-Koen,大川ダム公園,wikidata,37.346490,139.920680,Fukushima,会津鉄道,single,1
@@ -8012,7 +8012,7 @@ st_08010,Hagyu,萩生,wikidata,38.061910,140.004280,Yamagata,東日本旅客鉄�
 st_08011,Oguni,小国,wikidata,38.062000,139.749700,Yamagata,東日本旅客鉄道,single,1
 st_08012,Orihata,おりはた,wikidata,38.066230,140.122130,Yamagata,山形鉄道,single,1
 st_08013,Okkuma,逢隈,wikidata,38.066820,140.854790,Miyagi,東日本旅客鉄道,single,1
-st_08014,Echigo-Kanamaru,越後金丸,wikidata,38.066880,139.663430,Yamagata,東日本旅客鉄道,single,1
+st_08014,Echigo-Kanamaru,越後金丸,wikidata,38.066880,139.663430,Niigata,東日本旅客鉄道,single,1
 st_08015,Echigo-Katakai,越後片貝,wikidata,38.070560,139.621940,Niigata,東日本旅客鉄道,single,1
 st_08016,Miyauchi,宮内,wikidata,38.071060,140.134740,Yamagata,山形鉄道,single,1
 st_08017,Tokiniwa,時庭,wikidata,38.076660,140.029590,Yamagata,山形鉄道,single,1
@@ -8179,7 +8179,7 @@ st_08177,Kogota,小牛田,wikidata,38.539850,141.064490,Miyagi,東日本旅客�
 st_08178,Sodesaki,袖崎,wikidata,38.548960,140.391310,Yamagata,東日本旅客鉄道,single,1
 st_08179,Kami-Wakuya,上涌谷,wikidata,38.549020,141.100020,Miyagi,東日本旅客鉄道,single,1
 st_08180,Nonodake,のの岳,wikidata,38.553280,141.225720,Miyagi,東日本旅客鉄道,single,1
-st_08181,Nezugaseki,鼠ヶ関,romanized,38.555590,139.548760,Niigata,東日本旅客鉄道,single,1
+st_08181,Nezugaseki,鼠ヶ関,romanized,38.555590,139.548760,Yamagata,東日本旅客鉄道,single,1
 st_08182,Kitaura,北浦,wikidata,38.560040,141.022400,Miyagi,東日本旅客鉄道,single,1
 st_08183,Rikuzen-Yachi,陸前谷地,wikidata,38.565280,140.998910,Miyagi,東日本旅客鉄道,single,1
 st_08184,Furukawa,古川,wikidata,38.570655,140.967910,Miyagi,東日本旅客鉄道,high,2
@@ -8211,7 +8211,7 @@ st_08209,Nitta,新田,wikidata,38.711570,141.119510,Miyagi,東日本旅客鉄道
 st_08210,Uzen-Mizusawa,羽前水沢,wikidata,38.712850,139.730340,Yamagata,東日本旅客鉄道,single,1
 st_08211,Higashi-Nagasawa,東長沢,wikidata,38.719160,140.382400,Yamagata,東日本旅客鉄道,single,1
 st_08212,Minami-Shinjo,南新庄,wikidata,38.721420,140.316200,Yamagata,東日本旅客鉄道,single,1
-st_08213,Nakayamadaira-Onsen,中山平温泉,wikidata,38.726310,140.667360,Yamagata,東日本旅客鉄道,single,1
+st_08213,Nakayamadaira-Onsen,中山平温泉,wikidata,38.726310,140.667360,Miyagi,東日本旅客鉄道,single,1
 st_08214,Akakura-Onsen,赤倉温泉,wikidata,38.730650,140.553450,Yamagata,東日本旅客鉄道,single,1
 st_08215,Sakaida,堺田,wikidata,38.735950,140.612180,Yamagata,東日本旅客鉄道,single,1
 st_08216,Kawatabi-Onsen,川渡温泉,wikidata,38.736970,140.778220,Miyagi,東日本旅客鉄道,single,1
@@ -8220,8 +8220,8 @@ st_08218,Tsuya,津谷,wikidata,38.737830,140.186710,Yamagata,東日本旅客鉄�
 st_08219,Tsuruoka,鶴岡,wikidata,38.740170,139.833920,Yamagata,東日本旅客鉄道,single,1
 st_08220,Uzen-Oyama,羽前大山,wikidata,38.742120,139.767930,Yamagata,東日本旅客鉄道,single,1
 st_08221,Tachikoji,立小路,wikidata,38.742320,140.542300,Yamagata,東日本旅客鉄道,single,1
-st_08222,Naruko-Onsen,鳴子温泉,wikidata,38.742860,140.715490,Yamagata,東日本旅客鉄道,single,1
-st_08223,Naruko-Gotenyu,鳴子御殿湯,wikidata,38.744540,140.737330,Yamagata,東日本旅客鉄道,single,1
+st_08222,Naruko-Onsen,鳴子温泉,wikidata,38.742860,140.715490,Miyagi,東日本旅客鉄道,single,1
+st_08223,Naruko-Gotenyu,鳴子御殿湯,wikidata,38.744540,140.737330,Miyagi,東日本旅客鉄道,single,1
 st_08224,Uzen-Zennami,羽前前波,wikidata,38.747770,140.210010,Yamagata,東日本旅客鉄道,single,1
 st_08225,Kurikoma-Kogen,くりこま高原,wikidata,38.747840,141.071000,Miyagi,東日本旅客鉄道,single,1
 st_08226,Masukata,升形,wikidata,38.751650,140.245000,Yamagata,東日本旅客鉄道,single,1
@@ -8235,7 +8235,7 @@ st_08233,Ishikoshi,石越,wikidata,38.768030,141.158650,Miyagi,東日本旅客�
 st_08234,Fujishima,藤島,wikidata,38.769130,139.894640,Yamagata,東日本旅客鉄道,single,1
 st_08235,Kiyokawa,清川,wikidata,38.790200,140.020640,Yamagata,東日本旅客鉄道,single,1
 st_08236,Karikawa,狩川,wikidata,38.794030,139.976120,Yamagata,東日本旅客鉄道,single,1
-st_08237,Yushima,油島,wikidata,38.796480,141.175520,Miyagi,東日本旅客鉄道,single,1
+st_08237,Yushima,油島,wikidata,38.796480,141.175520,Iwate,東日本旅客鉄道,single,1
 st_08238,Izumita,泉田,wikidata,38.811810,140.310100,Yamagata,東日本旅客鉄道,single,1
 st_08239,Nishibukuro,西袋,wikidata,38.812580,139.907940,Yamagata,東日本旅客鉄道,single,1
 st_08240,Minamino,南野,wikidata,38.818730,139.944090,Yamagata,東日本旅客鉄道,single,1
@@ -8245,20 +8245,20 @@ st_08243,Amarume,余目,wikidata,38.843290,139.911930,Yamagata,東日本旅客�
 st_08244,Shimizuhara,清水原,wikidata,38.854860,141.156730,Iwate,東日本旅客鉄道,single,1
 st_08245,Mamurogawa,真室川,wikidata,38.858910,140.255530,Yamagata,東日本旅客鉄道,single,1
 st_08246,Kita-Amarume,北余目,wikidata,38.866940,139.908090,Yamagata,東日本旅客鉄道,single,1
-st_08247,Arikabe,有壁,wikidata,38.867170,141.121510,Iwate,東日本旅客鉄道,single,1
+st_08247,Arikabe,有壁,wikidata,38.867170,141.121510,Miyagi,東日本旅客鉄道,single,1
 st_08248,Sagoshi,砂越,wikidata,38.893930,139.908080,Yamagata,東日本旅客鉄道,single,1
 st_08249,Higashi-Sakata,東酒田,wikidata,38.907130,139.876880,Yamagata,東日本旅客鉄道,single,1
 st_08250,Mataki,真滝,wikidata,38.908570,141.177900,Iwate,東日本旅客鉄道,single,1
 st_08251,Kesennuma,気仙沼,wikidata,38.910420,141.558070,Miyagi,東日本旅客鉄道,single,1
-st_08252,Niitsuki,新月,wikidata,38.915780,141.488450,Miyagi,東日本旅客鉄道,single,1
+st_08252,Niitsuki,新月,wikidata,38.915780,141.488450,Iwate,東日本旅客鉄道,single,1
 st_08253,Rikuchu-Kanzaki,陸中門崎,wikidata,38.917250,141.251370,Iwate,東日本旅客鉄道,single,1
 st_08254,Sakata,酒田,wikidata,38.921360,139.846550,Yamagata,東日本旅客鉄道,single,1
 st_08255,Senmaya,千厩,wikidata,38.924670,141.344800,Iwate,東日本旅客鉄道,single,1
 st_08256,Ichinoseki,一ノ関,wikidata,38.927880,141.139050,Iwate,東日本旅客鉄道,high,3
-st_08257,Konashi,小梨,wikidata,38.932430,141.384180,Miyagi,東日本旅客鉄道,single,1
+st_08257,Konashi,小梨,wikidata,38.932430,141.384180,Iwate,東日本旅客鉄道,single,1
 st_08258,Kamabuchi,釜淵,wikidata,38.933610,140.264370,Yamagata,東日本旅客鉄道,single,1
-st_08259,Yagoshi,矢越,wikidata,38.935270,141.428540,Miyagi,東日本旅客鉄道,single,1
-st_08260,Orikabe,折壁,wikidata,38.939310,141.451630,Miyagi,東日本旅客鉄道,single,1
+st_08259,Yagoshi,矢越,wikidata,38.935270,141.428540,Iwate,東日本旅客鉄道,single,1
+st_08260,Orikabe,折壁,wikidata,38.939310,141.451630,Iwate,東日本旅客鉄道,single,1
 st_08261,Iwanoshita,岩ノ下,wikidata,38.947760,141.245350,Iwate,東日本旅客鉄道,single,1
 st_08262,Yamanome,山ノ目,wikidata,38.952310,141.131590,Iwate,東日本旅客鉄道,single,1
 st_08263,Mototate,本楯,wikidata,38.968550,139.881960,Yamagata,東日本旅客鉄道,single,1
@@ -8310,7 +8310,7 @@ st_08308,Kosano,小佐野,wikidata,39.264380,141.836070,Iwate,東日本旅客鉄
 st_08309,Hirakura,平倉,wikidata,39.264720,141.595240,Iwate,東日本旅客鉄道,single,1
 st_08310,Yoshizawa,吉沢,wikidata,39.268390,140.115370,Akita,由利高原鉄道,single,1
 st_08311,Kamaishi,釜石,wikidata,39.273560,141.872250,Iwate,三陸鉄道;東日本旅客鉄道,high,3
-st_08312,Kurosawa,黒沢,wikidata,39.276200,140.699700,Iwate,東日本旅客鉄道,single,1
+st_08312,Kurosawa,黒沢,wikidata,39.276200,140.699700,Akita,東日本旅客鉄道,single,1
 st_08313,Yanagita,柳田,wikidata,39.277160,140.554370,Akita,東日本旅客鉄道,single,1
 st_08314,Nishitakisawa,西滝沢,wikidata,39.278050,140.116440,Akita,由利高原鉄道,single,1
 st_08315,Ainono,相野々,wikidata,39.278120,140.618750,Akita,東日本旅客鉄道,single,1
@@ -8501,13 +8501,13 @@ st_08499,Arayashimmachi,荒屋新町,wikidata,40.098060,141.049320,Iwate,東日�
 st_08500,Katsurase,桂瀬,wikidata,40.101770,140.417850,Akita,秋田内陸縦貫鉄道,single,1
 st_08501,Moritake,森岳,wikidata,40.104210,140.070680,Akita,東日本旅客鉄道,single,1
 st_08502,Yokoma,横間,wikidata,40.107520,141.026750,Iwate,東日本旅客鉄道,single,1
-st_08503,Anihata,兄畑,wikidata,40.115590,140.883630,Akita,東日本旅客鉄道,single,1
+st_08503,Anihata,兄畑,wikidata,40.115590,140.883630,Iwate,東日本旅客鉄道,single,1
 st_08504,Rikuchu-Noda,陸中野田,wikidata,40.116320,141.818750,Iwate,三陸鉄道,single,1
 st_08505,Yuze-Onsen,湯瀬温泉,wikidata,40.122100,140.840760,Akita,東日本旅客鉄道,single,1
 st_08506,Kotsunagi,小繋,wikidata,40.124040,141.260810,Iwate,アイジーアールいわて銀河鉄道,single,1
 st_08507,Yonaizawa,米内沢,wikidata,40.128430,140.372960,Akita,秋田内陸縦貫鉄道,single,1
 st_08508,Rikuchu-Ube,陸中宇部,wikidata,40.132520,141.785480,Iwate,三陸鉄道,single,1
-st_08509,Tayama,田山,wikidata,40.139400,140.944900,Akita,東日本旅客鉄道,single,1
+st_08509,Tayama,田山,wikidata,40.139400,140.944900,Iwate,東日本旅客鉄道,single,1
 st_08510,Hachimantai,八幡平,wikidata,40.142470,140.804800,Akita,東日本旅客鉄道,single,1
 st_08511,Kita-Kanaoka,北金岡,wikidata,40.142760,140.062990,Akita,東日本旅客鉄道,single,1
 st_08512,Kamisugi,上杉,wikidata,40.146630,140.349480,Akita,秋田内陸縦貫鉄道,single,1

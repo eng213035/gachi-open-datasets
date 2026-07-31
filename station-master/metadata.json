@@ -1,6 +1,6 @@
 {
   "name": "Japan Station Master (Entity-Resolved)",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "temporal_coverage": "2026 snapshot (ODPT catalog state + MLIT N02-24 as of harvest date)",
   "geographic_coverage": "Japan (nationwide). The 425 Greater-Tokyo stations from ODPT (English romaji + operator-declared transfer links) are preserved unchanged from v1; nationwide stations are added from MLIT 国土数値情報 N02 — see README.",
   "last_updated": "2026-07-31",

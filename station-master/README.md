@@ -77,7 +77,7 @@ extract of the ODPT catalog + N02-24, not a live feed.
 | `name_ja` | string | Japanese name. |
 | `name_source` | string | `odpt` (ODPT's own English title, the 425 Tokyo rows), `wikidata` (CC0 English label matched by name + proximity), or `romanized` (machine Hepburn fallback when no Wikidata match — non-authoritative; filter it out if you only want vetted names). |
 | `lat`, `lng` | float | Averaged across constituent records. |
-| `pref` | string | **Approximate.** Tokyo rows: original bounding-box heuristic (frozen). Nationwide rows: prefecture of the nearest municipality centroid. Border stations can be misclassified — see `shared/conventions.md`. |
+| `pref` | string | Prefecture containing the station's coordinates, point-in-polygon verified against MLIT 国土数値情報 N03-2025 administrative boundary polygons (v2.1.2). Two platform-straddling border stations (JR 山崎, 大阪モノレール大阪空港) follow their official station address instead of the raw coordinate. The 98 rows without coordinates could not be verified and keep their original heuristic value. |
 | `operators` | string | `;`-separated operator names. **English** for Tokyo (ODPT) rows; **Japanese** for nationwide (N02) rows, which is all N02 provides. |
 | `merge_confidence` | string | `single` (no merge needed), `high` (merged via operators' declared connections / N02 group code), `medium` (merged via name + <300m proximity). See methodology below. |
 | `member_count` | int | How many raw source records (ODPT operator-line records, or N02 station records) were merged into this station. |
@@ -139,8 +139,9 @@ dataset's README for the join example.
 ## Roadmap
 
 - ✅ **v2: nationwide coverage** — done (this release; MLIT N02 + Wikidata).
-- Replace the point-based prefecture assignment (bounding box for Tokyo,
-  nearest-municipality for nationwide) with a real polygon/boundary lookup.
+- ✅ Replace the point-based prefecture assignment with a real polygon/boundary
+  lookup — done (v2.1.2; every coordinate-bearing row point-in-polygon verified
+  against MLIT N03-2025).
 - Backfill English operator names + English line names for the N02 (nationwide)
   rows, which currently carry Japanese operator/line names.
 - Ongoing: fold `low_confidence_review.csv` candidates in as they're manually confirmed.

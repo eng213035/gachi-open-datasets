@@ -4,6 +4,34 @@ Entries here explain *why* whenever a previously-published data value
 changes (per `shared/conventions.md` rule #3) — new rows appended in an
 annual update don't need an entry; corrected/removed historical values do.
 
+## 2026-07-31 — station-master v2.1.2 (pref corrections, polygon-verified)
+
+- **207 corrected `pref` values in `station-master/stations.csv`** (the `pref`
+  column only) — 202 wikidata-named rows, 4 romanized rows, and 1 ODPT row
+  (篠崎/江戸川区: Chiba → **Tokyo**, missed by v2.1.1's centroid method). No
+  `station_id`, names, coordinates, operators, line links, or row counts
+  changed. Representative fixes: the 東急 田園調布/自由が丘/二子玉川 cluster
+  (Kanagawa → Tokyo), 町田市の駅 (Kanagawa → Tokyo), こどもの国/稲田堤
+  (Tokyo → Kanagawa), 飯田線秘境駅 小和田/大嵐 (→ Shizuoka), 横川
+  (Nagano → Gunma), 小淵沢/清里 (Nagano → Yamanashi), 鼠ヶ関 (→ Yamagata),
+  黒部峡谷 欅平/鐘釣 (Nagano → Toyama), 江川崎 (Ehime → Kochi).
+- **Method**: every coordinate-bearing row (9,047 of 9,145) was point-in-polygon
+  tested against MLIT 国土数値情報 N03-2025 (行政区域, 124,094 municipality
+  polygons) — replacing v2.1.1's nearest-municipality-centroid check, which
+  systematically misjudges border stations. 209 rows disagreed; the 24 sitting
+  within ~300 m of the recorded prefecture's border were adjudicated by the
+  station's official address. Two are genuine platform-straddling border
+  stations and stay as published (JR 山崎 = 京都府大山崎町, the prefecture line
+  crosses the platform; 大阪モノレール大阪空港 = 大阪府豊中市螢池西町); the
+  other 207 were genuine errors and are fixed. The 98 rows without coordinates
+  could not be checked.
+- **Root cause**: nationwide (N02) rows derived `pref` from the nearest
+  municipality centroid (documented as approximate); near a prefecture border
+  the nearest centroid is often across the line — 2.3% of checked rows were
+  wrong, heavily concentrated on cross-border lines.
+- **Why this is a correction (rule #3)**: these `pref` values were published in
+  v2.0.0 and were wrong; they are now fixed. IDs are unchanged.
+
 ## 2026-07-31 — station-master v2.1.1 (pref corrections)
 
 - **16 corrected `pref` values in `station-master/stations.csv`** (the `pref`
