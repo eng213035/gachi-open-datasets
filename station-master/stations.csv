@@ -39,8 +39,8 @@ st_00037,Higashi-Yamata,東山田,odpt,35.554184,139.604928,Kanagawa,"Transporta
 st_00038,Kita-Yamata,北山田,odpt,35.560950,139.592827,Kanagawa,"Transportation Bureau, City of Yokohama",single,1
 st_00039,Nakagawa,中川,odpt,35.562659,139.570296,Kanagawa,"Transportation Bureau, City of Yokohama",single,1
 st_00040,Azamino,あざみ野,odpt,35.568022,139.553876,Kanagawa,"Tokyu Railways;Transportation Bureau, City of Yokohama",high,2
-st_00041,Nishi-magome,西馬込,odpt,35.587050,139.706086,Kanagawa,Tokyo Metropolitan Bureau of Transportation,single,1
-st_00042,Magome,馬込,odpt,35.596773,139.711884,Kanagawa,Tokyo Metropolitan Bureau of Transportation,single,1
+st_00041,Nishi-magome,西馬込,odpt,35.587050,139.706086,Tokyo,Tokyo Metropolitan Bureau of Transportation,single,1
+st_00042,Magome,馬込,odpt,35.596773,139.711884,Tokyo,Tokyo Metropolitan Bureau of Transportation,single,1
 st_00043,Nakanobu,中延,odpt,35.605274,139.713645,Tokyo,Tokyo Metropolitan Bureau of Transportation;Tokyu Railways,high,2
 st_00044,Oimachi,大井町,odpt,35.607410,139.734740,Tokyo,JR East;Tokyo Waterfront Area Rapid Transit;Tokyu Railways,high,3
 st_00045,Shinagawa Seaside,品川シーサイド,odpt,35.608970,139.749670,Tokyo,Tokyo Waterfront Area Rapid Transit,single,1
@@ -99,7 +99,7 @@ st_00097,Tsukijishijo,築地市場,odpt,35.664919,139.766929,Tokyo,Tokyo Metropo
 st_00098,Roppongi-itchome,六本木一丁目,odpt,35.665075,139.738900,Tokyo,Tokyo Metro,single,1
 st_00099,Shimbashi,新橋,odpt,35.666103,139.759163,Tokyo,JR East;Tokyo Metro;Tokyo Metropolitan Bureau of Transportation;Yurikamome,high,8
 st_00100,Omote-sando,表参道,odpt,35.665279,139.712067,Tokyo,Tokyo Metro,high,3
-st_00101,Urayasu,浦安,odpt,35.665903,139.893236,Tokyo,Tokyo Metro,single,1
+st_00101,Urayasu,浦安,odpt,35.665903,139.893236,Chiba,Tokyo Metro,single,1
 st_00102,Nogizaka,乃木坂,odpt,35.666592,139.726229,Tokyo,Tokyo Metro,single,1
 st_00103,Shintomicho,新富町,odpt,35.669229,139.773033,Tokyo,Tokyo Metro,high,2
 st_00104,Minami-sunamachi,南砂町,odpt,35.668415,139.831695,Tokyo,Tokyo Metro,single,1
@@ -305,27 +305,27 @@ st_00303,Akabane-iwabuchi,赤羽岩淵,odpt,35.783355,139.722110,Tokyo,Saitama R
 st_00304,Hasune,蓮根,odpt,35.784262,139.678947,Tokyo,Tokyo Metropolitan Bureau of Transportation,single,1
 st_00305,Rokuchō,六町,odpt,35.784920,139.821810,Tokyo,Metropolitan Intercity Railway,single,1
 st_00306,Nishidai,西台,odpt,35.787074,139.672867,Tokyo,Tokyo Metropolitan Bureau of Transportation,single,1
-st_00307,Wakoshi,和光市,odpt,35.788350,139.612865,Tokyo,Tobu Railway;Tokyo Metro,high,3
+st_00307,Wakoshi,和光市,odpt,35.788350,139.612865,Saitama,Tobu Railway;Tokyo Metro,high,3
 st_00308,Yazaike,谷在家,odpt,35.788787,139.770036,Tokyo,Tokyo Metropolitan Bureau of Transportation,single,1
 st_00309,Takashimadaira,高島平,odpt,35.788908,139.661361,Tokyo,Tokyo Metropolitan Bureau of Transportation,single,1
 st_00310,Shin-takashimadaira,新高島平,odpt,35.790289,139.654050,Tokyo,Tokyo Metropolitan Bureau of Transportation,single,1
 st_00311,Nishi-takashimadaira,西高島平,odpt,35.791965,139.645421,Tokyo,Tokyo Metropolitan Bureau of Transportation,single,1
 st_00312,Toneri-koen,舎人公園,odpt,35.796384,139.770159,Tokyo,Tokyo Metropolitan Bureau of Transportation,single,1
 st_00313,Toneri,舎人,odpt,35.805690,139.770069,Tokyo,Tokyo Metropolitan Bureau of Transportation,single,1
-st_00314,Yashio,八潮,odpt,35.807860,139.844830,Tokyo,Metropolitan Intercity Railway,single,1
+st_00314,Yashio,八潮,odpt,35.807860,139.844830,Saitama,Metropolitan Intercity Railway,single,1
 st_00315,Minumadai-shinsuikoen,見沼代親水公園,odpt,35.814541,139.770707,Tokyo,Tokyo Metropolitan Bureau of Transportation,single,1
-st_00316,Misato-chūō,三郷中央,odpt,35.824170,139.878060,Tokyo,Metropolitan Intercity Railway,single,1
+st_00316,Misato-chūō,三郷中央,odpt,35.824170,139.878060,Saitama,Metropolitan Intercity Railway,single,1
 st_00317,Minami-Nagareyama,南流山,odpt,35.837860,139.904330,Chiba,JR East;Metropolitan Intercity Railway,high,2
-st_00318,Nagareyama-centralpark,流山セントラルパーク,odpt,35.854470,139.915220,Saitama,Metropolitan Intercity Railway,single,1
-st_00319,Nagareyama-otakanomori,流山おおたかの森,odpt,35.871860,139.925060,Saitama,Metropolitan Intercity Railway;Tobu Railway,high,2
-st_00320,Kashiwanoha-campus,柏の葉キャンパス,odpt,35.893360,139.952500,Saitama,Metropolitan Intercity Railway,single,1
-st_00321,Kashiwa-Tanaka,柏たなか,odpt,35.911000,139.957500,Saitama,Metropolitan Intercity Railway,single,1
-st_00322,Moriya,守谷,odpt,35.950690,139.992250,Saitama,Kanto Railway;Metropolitan Intercity Railway,high,2
-st_00323,Miraidaira,みらい平,odpt,35.994750,140.038310,Saitama,Metropolitan Intercity Railway,single,1
-st_00324,Midorino,みどりの,odpt,36.029940,140.056250,Saitama,Metropolitan Intercity Railway,single,1
-st_00325,Banpaku-kinenkoen,万博記念公園,odpt,36.058470,140.059440,Saitama,Metropolitan Intercity Railway,single,1
-st_00326,Kenkyū-gakuen,研究学園,odpt,36.082170,140.082390,Saitama,Metropolitan Intercity Railway,single,1
-st_00327,Tsukuba,つくば,odpt,36.082560,140.111690,Saitama,Metropolitan Intercity Railway,single,1
+st_00318,Nagareyama-centralpark,流山セントラルパーク,odpt,35.854470,139.915220,Chiba,Metropolitan Intercity Railway,single,1
+st_00319,Nagareyama-otakanomori,流山おおたかの森,odpt,35.871860,139.925060,Chiba,Metropolitan Intercity Railway;Tobu Railway,high,2
+st_00320,Kashiwanoha-campus,柏の葉キャンパス,odpt,35.893360,139.952500,Chiba,Metropolitan Intercity Railway,single,1
+st_00321,Kashiwa-Tanaka,柏たなか,odpt,35.911000,139.957500,Chiba,Metropolitan Intercity Railway,single,1
+st_00322,Moriya,守谷,odpt,35.950690,139.992250,Ibaraki,Kanto Railway;Metropolitan Intercity Railway,high,2
+st_00323,Miraidaira,みらい平,odpt,35.994750,140.038310,Ibaraki,Metropolitan Intercity Railway,single,1
+st_00324,Midorino,みどりの,odpt,36.029940,140.056250,Ibaraki,Metropolitan Intercity Railway,single,1
+st_00325,Banpaku-kinenkoen,万博記念公園,odpt,36.058470,140.059440,Ibaraki,Metropolitan Intercity Railway,single,1
+st_00326,Kenkyū-gakuen,研究学園,odpt,36.082170,140.082390,Ibaraki,Metropolitan Intercity Railway,single,1
+st_00327,Tsukuba,つくば,odpt,36.082560,140.111690,Ibaraki,Metropolitan Intercity Railway,single,1
 st_00328,Kashiwadai,かしわ台,odpt,,,,Sagami Railway,single,1
 st_00329,Tsutsujigaoka,つつじヶ丘,odpt,,,,Keio Corporation,single,1
 st_00330,Misakiguchi,三崎口,odpt,,,,Keikyu Corporation,single,1

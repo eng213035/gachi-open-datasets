@@ -4,6 +4,31 @@ Entries here explain *why* whenever a previously-published data value
 changes (per `shared/conventions.md` rule #3) — new rows appended in an
 annual update don't need an entry; corrected/removed historical values do.
 
+## 2026-07-31 — station-master v2.1.1 (pref corrections)
+
+- **16 corrected `pref` values in `station-master/stations.csv`** (the `pref`
+  column only). No `station_id`, names, coordinates, operators, line links, or
+  row counts changed. All 16 are ODPT-sourced Greater-Tokyo rows where `pref`
+  followed the operator's home region instead of the station's actual location
+  — Tokyo-operator stations that physically sit across the prefecture border:
+  - 西馬込/馬込 (都営浅草線・大田区): Kanagawa → **Tokyo**
+  - 浦安 (東京メトロ東西線・浦安市): Tokyo → **Chiba**
+  - 和光市・八潮・三郷中央: Tokyo → **Saitama**
+  - 流山セントラルパーク・流山おおたかの森・柏の葉キャンパス・柏たなか:
+    Saitama → **Chiba**
+  - 守谷・みらい平・みどりの・万博記念公園・研究学園・つくば:
+    Saitama → **Ibaraki**
+- **Method**: every station with coordinates (9,047 of 9,145) was checked by
+  nearest-municipality-centroid reverse geocoding against
+  `housing-vacancy/municipalities.csv` (GSI coordinates); the 27 flagged
+  mismatches were adjudicated by hand — 16 genuine errors (all fixed), 11
+  border-adjacent false positives (correct as published, e.g. 板橋区高島平
+  cluster, 足立区舎人ライナー stations). The 98 rows without coordinates could
+  not be checked. Discovered via a cross-dataset vector-search experiment that
+  surfaced つくば (st_00327) tagged Saitama.
+- **Why this is a correction (rule #3)**: these `pref` values were published in
+  v2.0.0 and were wrong; they are now fixed. IDs are unchanged.
+
 ## 2026-07-09 — station-master v2.1.0 (romaji corrections)
 
 - **227 corrected romanizations in `station-master/stations.csv`** (the `name`
