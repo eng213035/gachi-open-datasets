@@ -34,7 +34,7 @@ const KEY_COLUMNS = {
 };
 
 function parseCsv(text) {
-  const [headerLine, ...lines] = text.trim().split("\n");
+  const [headerLine, ...lines] = text.trim().split(/\r?\n/);
   const headers = headerLine.split(",");
   return { headers, rows: lines.filter(Boolean).map((line) => {
     const cells = [];
